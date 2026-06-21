@@ -1,0 +1,318 @@
+{
+  "company": "Mount Everest Power Development Ltd.-General Public",
+  "prospectus_url": "https://sebon.gov.np/uploads/2026/06/16/WicgS8KOeySMCFtrtKJvZkpe5BDS1K6ivNOXama5.pdf",
+  "issue_date": "2026-06-16",
+  "extracted_at": "2026-06-21T10:48:57+00:00",
+  "total_pages": 57,
+  "table_pages": [
+    15,
+    16,
+    17,
+    18
+  ],
+  "counts": {
+    "shareholders": 8,
+    "directors": 4,
+    "director_affiliations": 4
+  },
+  "llm_cost": {
+    "in": 2516,
+    "out": 2944,
+    "cost_usd": 0.0081
+  },
+  "shareholders": [
+    {
+      "sn": 1,
+      "name": "श्री अर्जुन प्रसाद पौडेल",
+      "address": "फेदिखोला गा.पा. ०४, स्याङ्जा",
+      "age": 51,
+      "nationality": "नेपाली",
+      "education": "निर्माण व्यवस्थापनमा स्नातकोत्तर",
+      "shares": 2628645,
+      "share_percent": 43.67,
+      "experience": "करिव २५ वर्ष जलविद्युत आयोजनाको अध्ययन, निर्माण तथा संचालनको अनुभव",
+      "experience_sectors": [
+        "जलविद्युत"
+      ],
+      "proposed_business": "व्यापार"
+    },
+    {
+      "sn": 2,
+      "name": "श्री विद्यालक्ष्मी लामिछाने",
+      "address": "पोखरा- २६, कास्की",
+      "age": 48,
+      "nationality": "नेपाली",
+      "education": "मानवशास्त्रमा स्नातकोत्तर",
+      "shares": 1637350,
+      "share_percent": 27.2,
+      "experience": "करिव १० वर्ष जलविद्युत आयोजनाको निर्माण तथा संचालन अनुभव",
+      "experience_sectors": [
+        "जलविद्युत"
+      ],
+      "proposed_business": "व्यापार"
+    },
+    {
+      "sn": 3,
+      "name": "श्री शुशिलमणि लामिछाने",
+      "address": "पोखरा लेखनाथ- २६, कास्की",
+      "age": 47,
+      "nationality": "नेपाली",
+      "education": "व्यवस्थापनमा स्नातकोत्तर",
+      "shares": 270000,
+      "share_percent": 4.49,
+      "experience": "करिव १० वर्ष बैंकिङ्ग क्षेत्रमा अनुभव",
+      "experience_sectors": [
+        "बैंकिङ्ग"
+      ],
+      "proposed_business": "व्यापार"
+    },
+    {
+      "sn": 4,
+      "name": "श्री अविस पौडेल",
+      "address": "ल.पु.म.न.पा.-१५, ललितपुर",
+      "age": 21,
+      "nationality": "नेपाली",
+      "education": "स्नातक (B.E. Civil)",
+      "shares": 265000,
+      "share_percent": 4.4,
+      "experience": "करिव २ वर्ष जलविद्युत आयोजनाको निर्माण तथा संचालनको अनुभव",
+      "experience_sectors": [
+        "जलविद्युत"
+      ],
+      "proposed_business": "व्यापार"
+    },
+    {
+      "sn": 5,
+      "name": "श्री ओजस्वी पौडेल",
+      "address": "ललितपुर म.न.पा.१५, ललितपुर",
+      "age": 14,
+      "nationality": "नेपाली",
+      "education": "अध्ययनरत",
+      "shares": 265000,
+      "share_percent": 4.4,
+      "experience": "अध्ययनरत",
+      "experience_sectors": [],
+      "proposed_business": "विद्यार्थी"
+    },
+    {
+      "sn": 6,
+      "name": "श्री प्रमिशा पौडेल",
+      "address": "फेदिखोला गा.पा.४, स्याङ्जा",
+      "age": 24,
+      "nationality": "नेपाली",
+      "education": "स्नातक तह अध्ययनरत",
+      "shares": 265000,
+      "share_percent": 4.4,
+      "experience": "अध्ययनरत",
+      "experience_sectors": [],
+      "proposed_business": "विद्यार्थी"
+    },
+    {
+      "sn": 7,
+      "name": "श्री महेन्द्र राज वाग्ले",
+      "address": "मध्यनेपाल न.पा.-४, लमजुङ्ग",
+      "age": 56,
+      "nationality": "नेपाली",
+      "education": "स्नातक (B.A.)",
+      "shares": 80000,
+      "share_percent": 1.33,
+      "experience": "करिव ५ वर्ष जलविद्युत आयोजनाको निर्माण तथा संचालनको अनुभव",
+      "experience_sectors": [
+        "जलविद्युत"
+      ],
+      "proposed_business": "व्यापार"
+    },
+    {
+      "sn": 8,
+      "name": "श्री दुर्गा अधिकारी",
+      "address": "थाम्सिङ-०९, नुवाकोट",
+      "age": 62,
+      "nationality": "नेपाली",
+      "education": "साक्षरता",
+      "shares": 70000,
+      "share_percent": 1.16,
+      "experience": "कृषि पेशामा कार्य अनुभव",
+      "experience_sectors": [
+        "कृषि"
+      ],
+      "proposed_business": null
+    }
+  ],
+  "directors": [
+    {
+      "sn": 1,
+      "name": "श्री अर्जुन प्रसाद पौडेल",
+      "address": "फेदिखोला गा.पा.-४, स्याङ्जा",
+      "position": "अध्यक्ष",
+      "nationality": "नेपाली",
+      "shares": 2628645,
+      "education": "निर्माण व्यवस्थापनमा स्नातकोत्तर",
+      "experience": "करिव २५ वर्ष जलविद्युत आयोजनाको अध्ययन, निर्माण तथा संचालन",
+      "experience_sectors": [
+        "जलविद्युत"
+      ],
+      "proposed_business": "व्यापार"
+    },
+    {
+      "sn": 2,
+      "name": "श्री विद्यालक्ष्मी लामिछाने",
+      "address": "पोखरा म.न.पा.- २६, कास्की",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 1637350,
+      "education": "मानवशास्त्रमा स्नातकोत्तर",
+      "experience": "करिव १० वर्ष जलविद्युत आयोजनाको निर्माण तथा संचालन",
+      "experience_sectors": [
+        "जलविद्युत"
+      ],
+      "proposed_business": "व्यापार"
+    },
+    {
+      "sn": 3,
+      "name": "श्री अविस पौडेल",
+      "address": "ल.पु.म.न.पा.-१५, ललितपुर",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 265000,
+      "education": "स्नातक (B.E. Civil)",
+      "experience": "करिव २ वर्ष जलविद्युत आयोजनाको निर्माण तथा संचालनको अनुभव",
+      "experience_sectors": [
+        "जलविद्युत"
+      ],
+      "proposed_business": "व्यापार"
+    },
+    {
+      "sn": 4,
+      "name": "श्री महेन्द्र राज वाग्ले",
+      "address": "मध्यनेपाल नगरपालिका- ४, लमजुङ्ग",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 80000,
+      "education": "स्नातक (B.A.)",
+      "experience": "सामाजिक सेवा, वैदेशिक रोजगारी तथा रियल स्टेट व्यवसाय",
+      "experience_sectors": [
+        "सामाजिक सेवा",
+        "वैदेशिक रोजगारी",
+        "रियल स्टेट"
+      ],
+      "proposed_business": "व्यापार"
+    }
+  ],
+  "director_affiliations": [
+    {
+      "director_name": "श्री अर्जुन प्रसाद पौडेल",
+      "director_address": "फेदिखोला गा.पा.-४, स्याङ्जा",
+      "affiliations": [
+        {
+          "company": "रिचेत जलविद्युत कम्पनी लिमिटेड",
+          "address": "ललितपुर महानगरपालिका वडा नं १५, महालक्ष्मीस्थान, ललितपुर",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "म्याग्दी हाइड्रोपावर लिमिटेड",
+          "address": "बुटवल उपमहानगरपालिका वडा नं १०, कालिकानगर, रुपन्देही",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "माउन्ट एभरेष्ट पावर डेभलपमेन्ट लिमिटेड",
+          "address": "ललितपुर महानगरपालिका वडा नं १५, महालक्ष्मीस्थान, ललितपुर",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "सिप्याड हाइड्रो कन्सल्टेन्ट्स प्रा.लि.",
+          "address": "ललितपुर महानगरपालिका वडा नं १५, महालक्ष्मीस्थान, ललितपुर",
+          "role": "अध्यक्ष तथा प्रबन्ध निर्देशक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री विद्यालक्ष्मी लामिछाने",
+      "director_address": "पोखरा म.न.पा.- २६, कास्की",
+      "affiliations": [
+        {
+          "company": "रिचेत जलविद्युत कम्पनी लिमिटेड",
+          "address": "ललितपुर महानगरपालिका वडा नं १५, महालक्ष्मीस्थान, ललितपुर",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "माउन्ट एभरेष्ट power डेभलपमेन्ट लिमिटेड",
+          "address": "ललितपुर महानगरपालिका वडा नं १५, महालक्ष्मीस्थान, ललितपुर",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "एक्सेस कन्स्ट्रक्शन प्रा.लि.",
+          "address": "ललितपुर महानगरपालिका वडा नं १५, महालक्ष्मीस्थान, ललितपुर",
+          "role": "प्रबन्ध निर्देशक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री अविस पौडेल",
+      "director_address": "ल.म.न.पा.-१५, ललितपुर",
+      "affiliations": [
+        {
+          "company": "माउन्ट एभरेष्ट पावर डेभलपमेन्ट लिमिटेड",
+          "address": "ललितपुर महानगरपालिका वडा नं १५, महालक्ष्मीस्थान, ललितपुर",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री महेन्द्र राज वाग्ले",
+      "director_address": "मध्यनेपाल नगरपालिका-४, लमजुङ्ग",
+      "affiliations": [
+        {
+          "company": "पुष्पलता जनएकता बहुमुखी क्याम्पस",
+          "address": "मध्य नेपाल नगरपालिका वडा नं ४, लमजुङ्ग",
+          "role": "सल्लाहकार",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "भैरव काली उच्च माध्यमिक विद्यालय",
+          "address": "मध्य नेपाल नगरपालिका वडा नं ४, लमजुङ्ग",
+          "role": "सल्लाहकार",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "वाग्ले बन्धु समाज",
+          "address": "टोखा नगरपालिका वडा नं ४, काठमाण्डौ",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "रिचेत जलविद्युत कम्पनी लिमिटेड",
+          "address": "ललितपुर महानगरपालिका वडा नं १५, महालक्ष्मीस्थान, ललितपुर",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "माउन्ट एभरेष्ट पावर डेभलपमेन्ट लिमिटेड",
+          "address": "ललितपुर महानगरपालिका वडा नं १५, महालक्ष्मीस्थान, ललितपुर",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    }
+  ]
+}
