@@ -71,6 +71,25 @@ def resolve(query):
     raise SystemExit(f"No prospectus matching {query!r}")
 
 
+def base_company(title):
+    """Drop the issue-type suffix so 'X Ltd.-General Public', 'X Ltd.-Foreign
+    Employment', 'X Ltd. (Right Issue)' (same prospectus content) collapse to one."""
+    t = re.sub(r"\s*\([^)]*\)\s*$", "", title or "")          # trailing (Right Issue)
+    m = re.search(r"^(.*?(?:Ltd\.?|Limited|Company))(?=\s*[-–(]|\s*$)", t, re.I)
+    return (m.group(1) if m else re.split(r"\s*[-–]\s*", t)[0]).strip()
+
+
+def unique_prospectuses(pages=9):
+    """Listing deduped to one row per company (issue-type variants merged)."""
+    seen, out = set(), []
+    for r in list_prospectuses(pages):
+        b = base_company(r["title"]).lower()
+        if b and b not in seen:
+            seen.add(b)
+            out.append({**r, "company": base_company(r["title"])})
+    return out
+
+
 # Section markers + 'नेपाली' (one per shareholder row) anchor the table page.
 FOUNDER_KW = ("संस्थापक", "सञ्चालक", "शेयरधनी", "पृष्ठभूमि", "शेयरधनीको")
 
@@ -157,14 +176,10 @@ def slugify(s):
     return re.sub(r"[^a-z0-9]+", "-", (s or "prospectus").lower()).strip("-")[:50]
 
 
-def main():
-    query = sys.argv[1] if len(sys.argv) > 1 else "Mount Everest"
-    key, model = gemini_key()
-    CACHE.mkdir(parents=True, exist_ok=True)
-
-    p = resolve(query)
-    print(f"Prospectus: {p['title'] or p['url']}")
-    slug = slugify(p["title"] or p["url"].rsplit("/", 1)[-1])
+def process(p, key, model):
+    company = base_company(p["title"]) if p.get("title") else None
+    print(f"Prospectus: {company or p['url']}")
+    slug = slugify(company or p["url"].rsplit("/", 1)[-1])
 
     pdf_cache = CACHE / f"{slug}.pdf"
     pdf = pdf_cache.read_bytes() if pdf_cache.exists() else _get(p["url"])
@@ -195,9 +210,10 @@ def main():
 
     counts = {k: len(v) for k, v in tables.items()}
     result = {
-        "company": p["title"],
+        "company": company,
+        "source_title": p.get("title"),
         "prospectus_url": p["url"],
-        "issue_date": p["date"],
+        "issue_date": p.get("date"),
         "extracted_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "total_pages": total_pages,
         "table_pages": [i + 1 for i in table_pages] if table_pages else "whole_pdf",
@@ -210,6 +226,28 @@ def main():
     print(f"  shareholders {counts['shareholders']}, directors {counts['directors']}, "
           f"affiliations {counts['director_affiliations']} | ${usage['cost_usd']}")
     print(f"Saved output/{slug}.json")
+    return result
+
+
+def main():
+    key, model = gemini_key()
+    CACHE.mkdir(parents=True, exist_ok=True)
+    args = sys.argv[1:]
+
+    if args and args[0] == "--batch":      # process N companies not yet extracted
+        want = int(args[1]) if len(args) > 1 else 10
+        done = 0
+        for p in unique_prospectuses(pages=9):
+            if (OUT / f"{slugify(p['company'])}.json").exists():
+                print(f"skip (done): {p['company']}")
+                continue
+            process(p, key, model)
+            done += 1
+            if done >= want:
+                break
+        print(f"\nbatch: {done} new companies extracted")
+    else:
+        process(resolve(args[0] if args else "Mount Everest"), key, model)
 
 
 if __name__ == "__main__":

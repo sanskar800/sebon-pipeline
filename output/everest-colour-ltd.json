@@ -1,0 +1,492 @@
+{
+  "company": "Everest Colour Ltd.",
+  "source_title": "Everest Colour Ltd.- General Public",
+  "prospectus_url": "https://sebon.gov.np/uploads/2026/06/05/CuPHT5KFC3AHWRvZ71KHV1ZDhuqZhlWMnzGlTWNh.pdf",
+  "issue_date": "2026-06-05",
+  "extracted_at": "2026-06-22T09:07:34+00:00",
+  "total_pages": 60,
+  "table_pages": [
+    19,
+    20,
+    21,
+    22
+  ],
+  "counts": {
+    "shareholders": 23,
+    "directors": 5,
+    "director_affiliations": 5
+  },
+  "llm_cost": {
+    "in": 2516,
+    "out": 4342,
+    "cost_usd": 0.0116
+  },
+  "shareholders": [
+    {
+      "sn": 1,
+      "name": "राम प्रसाद सापकोटा",
+      "address": "काभ्रेपलाञ्चोक जि. अनौकोट गाउँपालिका वडा नं. ३",
+      "age": 72,
+      "nationality": "नेपाली",
+      "education": "माध्यमिक",
+      "shares": 160500,
+      "share_percent": 7.26,
+      "experience": "शिक्षण र व्यापार (६ वर्ष)",
+      "experience_sectors": [
+        "शिक्षण",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 2,
+      "name": "रोजिना श्रेष्ठ",
+      "address": "जि. भक्तपुर, मध्यपुर थिमी उ.म.न.पा., वडा नं ८",
+      "age": 30,
+      "nationality": "नेपाली",
+      "education": "उच्च माध्यमिक",
+      "shares": 150000,
+      "share_percent": 6.79,
+      "experience": "आयात/निर्यात क्षेत्रमा ५ वर्षको अनुभव",
+      "experience_sectors": [
+        "आयात",
+        "निर्यात"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 3,
+      "name": "सरोज लुईटेल",
+      "address": "जिल्ला काभ्रेपलाञ्चोक, पाँचखाल न.पा. ४",
+      "age": 46,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 141650,
+      "share_percent": 6.41,
+      "experience": "२४ वर्षको अनुभव",
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "राजन श्रेष्ठ",
+      "address": "जि. काठमाडौं, सतुङ्गल गा.वि.स. वडा नं ८",
+      "age": 38,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 131450,
+      "share_percent": 5.95,
+      "experience": "कला सम्बन्धि १ वर्षको अनुभव",
+      "experience_sectors": [
+        "कला"
+      ],
+      "proposed_business": "३ वर्ष"
+    },
+    {
+      "sn": 5,
+      "name": "सोहन चौधरी",
+      "address": "जि. काठमाडौं, सतुङ्गल गा.वि.स., वडा नं ७",
+      "age": 63,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 100000,
+      "share_percent": 4.52,
+      "experience": "व्यापार (१५ वर्ष)",
+      "experience_sectors": [
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 6,
+      "name": "महेश्वर खनाल",
+      "address": "जि. काठमाडौं, का.न.पा. वडा नं ४ परिवर्तित का.म.पा. वडा नं ४",
+      "age": 50,
+      "nationality": "नेपाली",
+      "education": "प्रवीणता प्रमाणपत्र",
+      "shares": 75000,
+      "share_percent": 3.39,
+      "experience": "स्थानीय बजार तथा आयात/निर्यातमा २० वर्षको अनुभव",
+      "experience_sectors": [
+        "स्थानीय बजार",
+        "आयात",
+        "निर्यात"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 7,
+      "name": "एन्जल श्रेष्ठ",
+      "address": "जि. काठमाडौं, सतुङ्गल-५",
+      "age": 27,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 43500,
+      "share_percent": 2.0,
+      "experience": "व्यापार विश्लेषक (४ वर्ष)",
+      "experience_sectors": [
+        "व्यापार विश्लेषक"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 8,
+      "name": "शैलेन्द्र कुमार सिटौला",
+      "address": "झापा जिल्ला गौरादह वडा नं. ७ परिवर्तित गौरादह न.पा., वडा नं २",
+      "age": 49,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 79086,
+      "share_percent": 3.58,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": "२१ वर्ष"
+    },
+    {
+      "sn": 9,
+      "name": "विजय रानाभाट",
+      "address": "जि. काठमाडौं, कानपा, वडा नं. ९, परिवर्तित का.म.न.पा. वडा नं ९",
+      "age": 46,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 56000,
+      "share_percent": 2.53,
+      "experience": "शेयर बजार (२० वर्ष)",
+      "experience_sectors": [
+        "शेयर बजार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 10,
+      "name": "शर्मिला खड्का",
+      "address": "जि. भक्तपुर, नंखेल गा.वि.स. वडा नं ४ परिवर्तित सूर्यविनायक न.पा. वडा नं. ९",
+      "age": 42,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 50500,
+      "share_percent": 2.29,
+      "experience": "दुरसञ्चारमा ६ वर्ष",
+      "experience_sectors": [
+        "दुरसञ्चार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 11,
+      "name": "स्मार्ट एट इन्भेष्टमेन्ट प्रा.लि.",
+      "address": "जि. काठमाडौं, का.म.पा. वडा नं २२ खिचापोखरी",
+      "age": 8,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 50000,
+      "share_percent": 2.26,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 12,
+      "name": "हरीकला शर्मा रिमाल",
+      "address": "शुक्ला गण्डकी ७ तनहुँ",
+      "age": 37,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 40646,
+      "share_percent": 1.84,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": "१५ वर्ष"
+    },
+    {
+      "sn": 13,
+      "name": "श्रीशुभ खनाल",
+      "address": "जि. काठमाडौं, का.म.पा. वडा नं ४",
+      "age": 18,
+      "nationality": "नेपाली",
+      "education": "माध्यमिक",
+      "shares": 40000,
+      "share_percent": 1.81,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 14,
+      "name": "बद्रीनाथ पोखरेल",
+      "address": "जिल्ला चितवन, गितानगर ५",
+      "age": 62,
+      "nationality": "नेपाली",
+      "education": "माध्यमिक",
+      "shares": 39891,
+      "share_percent": 1.81,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": "१५ वर्ष"
+    },
+    {
+      "sn": 15,
+      "name": "सोम कुमार थापा",
+      "address": "हल्दीवारी ३, झापा",
+      "age": 46,
+      "nationality": "नेपाली",
+      "education": "माध्यमिक",
+      "shares": 35185,
+      "share_percent": 1.59,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": "२१ वर्ष"
+    },
+    {
+      "sn": 16,
+      "name": "मुकेश गुप्ता",
+      "address": "जिल्ला रुपन्देही, बुटवल ७",
+      "age": 35,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 66000,
+      "share_percent": 1.04,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": "१८ वर्ष"
+    },
+    {
+      "sn": 17,
+      "name": "निशान ढुङ्गाना",
+      "address": "जि. काभ्रे, मण्डनदेउपुर न.पा., वडा नं ९",
+      "age": 19,
+      "nationality": "नेपाली",
+      "education": "उच्च माध्यमिक",
+      "shares": 30000,
+      "share_percent": 1.36,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 18,
+      "name": "निस्ता खाँड",
+      "address": "जि. नवलपरासी शिवमन्दिर ८",
+      "age": 47,
+      "nationality": "नेपाली",
+      "education": "उच्च माध्यमिक",
+      "shares": 28110,
+      "share_percent": 1.27,
+      "experience": "सामाजिक सेवा (२० वर्ष)",
+      "experience_sectors": [
+        "सामाजिक सेवा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 19,
+      "name": "विपुल सिटौला",
+      "address": "जि. झापा गौरादह ७ हाल गौरादह २",
+      "age": 44,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 26650,
+      "share_percent": 1.21,
+      "experience": "लेखापाल (१० वर्ष)",
+      "experience_sectors": [
+        "लेखा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 20,
+      "name": "राजन लाल श्रेष्ठ",
+      "address": "जि. काभ्रे पाँचखाल ६ परिवर्तित पाँचखाल न.पा. वडा नं. ४",
+      "age": 47,
+      "nationality": "नेपाली",
+      "education": "प्रवीणता प्रमाणपत्र",
+      "shares": 25000,
+      "share_percent": 1.13,
+      "experience": "सम्बन्धित क्षेत्रको १५ वर्षको अनुभव",
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 21,
+      "name": "लगानी हब प्रा. लि.",
+      "address": "जि. काठमाडौं, वार्ड नं १०, स्यूचाटार नगरपालिका, नागार्जुन",
+      "age": 4,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 25000,
+      "share_percent": 1.13,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 22,
+      "name": "अनन्त वर्तौला",
+      "address": "कुमरोज ७ चितवन परिवर्तित खैरहनी ६",
+      "age": 34,
+      "nationality": "नेपाली",
+      "education": "उच्च माध्यमिक",
+      "shares": 24900,
+      "share_percent": 1.13,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": "१३ वर्ष"
+    },
+    {
+      "sn": 23,
+      "name": "प्रमिला सिटौला",
+      "address": "जिल्ला झापा, गौरादह वडा नं. ७ परिवर्तित गौरादह न.पा., वडा नं २",
+      "age": 39,
+      "nationality": "नेपाली",
+      "education": "उच्च माध्यमिक",
+      "shares": 24050,
+      "share_percent": 1.09,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    }
+  ],
+  "directors": [
+    {
+      "sn": 1,
+      "name": "महेश्वर खनाल",
+      "address": "काठमाडौं, का.म.पा. वडा नं ४",
+      "position": "संचालक अध्यक्ष",
+      "nationality": "नेपाली",
+      "shares": 75000,
+      "education": "प्रमाणपत्र तह",
+      "experience": "स्थानीय बजार तथा आयात/निर्यातमा २० वर्षको अनुभव (वि.सं. २०६२)",
+      "experience_sectors": [
+        "स्थानीय बजार",
+        "आयात",
+        "निर्यात"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 2,
+      "name": "सरोज लुईटेल",
+      "address": "काभ्रेपलाञ्चोक, पाँचखाल न.पा. ४",
+      "position": "प्रबन्ध संचालक",
+      "nationality": "नेपाली",
+      "shares": 141650,
+      "education": "स्नातकोत्तर",
+      "experience": "रंग सम्बन्धित व्यवसाय क्षेत्रमा वि.सं. २०५८ साल देखि",
+      "experience_sectors": [
+        "रंग व्यवसाय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 3,
+      "name": "रोजिना श्रेष्ठ",
+      "address": "भक्तपुर, मध्यपुर थिमी उ.म.न.पा., वडा नं ८",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 150000,
+      "education": "प्रमाणपत्र तह",
+      "experience": "आयात/निर्यात व्यवसाय क्षेत्रमा ५ वर्षको अनुभव (वि.सं. २०७७)",
+      "experience_sectors": [
+        "आयात",
+        "निर्यात"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "राजन लाल श्रेष्ठ",
+      "address": "काभ्रे पाँचखाल ६ परिवर्तित पाँचखाल न.पा. वडा नं. ४",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 25000,
+      "education": "प्रमाणपत्र तह",
+      "experience": "निर्माण सामाग्री व्यवसाय सम्बन्धित क्षेत्रमा वि.सं. २०६७ साल देखि",
+      "experience_sectors": [
+        "निर्माण सामाग्री"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 5,
+      "name": "कपिल देव महतो",
+      "address": "सिराहा, लहान न.पा. वडा नं १",
+      "position": "स्वतन्त्र संचालक",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "स्नातकोत्तर",
+      "experience": "लेखा तथा वित्त क्षेत्रमा १८ वर्षको अनुभव वि.सं. २०६८",
+      "experience_sectors": [
+        "लेखा",
+        "वित्त"
+      ],
+      "proposed_business": null
+    }
+  ],
+  "director_affiliations": [
+    {
+      "director_name": "महेश्वर खनाल",
+      "director_address": "काठमाडौं",
+      "affiliations": [
+        {
+          "company": "श्री शुभ ट्रेडर्स",
+          "address": "असन काठमाडौं",
+          "role": "प्रोप्राइटर",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "सरोज लुईटेल",
+      "director_address": "काभ्रेपलाञ्चोक",
+      "affiliations": [
+        {
+          "company": "स्वस्तिक ट्रेड लिंक प्रा.लि.",
+          "address": "कौशलटार भक्तपुर",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "रोजिना श्रेष्ठ",
+      "director_address": "भक्तपुर",
+      "affiliations": [
+        {
+          "company": "इभा इम्पोर्ट एण्ड एक्सपोर्ट",
+          "address": "असन काठमाडौं",
+          "role": "प्रोप्राइटर",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "राजन लाल श्रेष्ठ",
+      "director_address": "काभ्रेपलाञ्चोक",
+      "affiliations": [
+        {
+          "company": "राजन हार्डवेयर पाँचखाल",
+          "address": "काभ्रेपलाञ्चोक",
+          "role": "प्रोप्राइटर",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "कपिल देव महतो",
+      "director_address": "भक्तपुर",
+      "affiliations": [
+        {
+          "company": "सक्षम लिक्वयर सप्लायर्स",
+          "address": "बालकोट भक्तपुर",
+          "role": "प्रोप्राइटर",
+          "from": null,
+          "to": null
+        }
+      ]
+    }
+  ]
+}

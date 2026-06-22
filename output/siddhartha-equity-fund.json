@@ -1,0 +1,886 @@
+{
+  "company": "Siddhartha Equity Fund",
+  "source_title": "Siddhartha Equity Fund-2-Mutual Fund",
+  "prospectus_url": "https://sebon.gov.np/uploads/2026/04/30/AT7AmZzN4Iz8ZAF1ga4uQM1b6mmXUf2HFHNpf4YY.pdf",
+  "issue_date": "2026-04-30",
+  "extracted_at": "2026-06-22T09:12:25+00:00",
+  "total_pages": 54,
+  "table_pages": [
+    19,
+    20,
+    21,
+    22
+  ],
+  "counts": {
+    "shareholders": 44,
+    "directors": 5,
+    "director_affiliations": 2
+  },
+  "llm_cost": {
+    "in": 2548,
+    "out": 7492,
+    "cost_usd": 0.0195
+  },
+  "shareholders": [
+    {
+      "sn": 1,
+      "name": "श्री सिद्धार्थ बैंक लिमिटेड",
+      "address": "काठमाण्डौ-१, हात्तिसार",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "लागू नहुने",
+      "shares": 1020000,
+      "share_percent": 51.0,
+      "experience": "लागू नहुने",
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 2,
+      "name": "श्री सुवोध तोदी",
+      "address": "विराटनगर-४, मोरङ्ग",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 100000,
+      "share_percent": 5.0,
+      "experience": "मेटल, इलेक्ट्रोनिक सामान सम्बन्धि व्यापार, बैंकिङ्ग व्यवसाय",
+      "experience_sectors": [
+        "मेटल",
+        "इलेक्ट्रोनिक सामान",
+        "व्यापार",
+        "बैंकिङ्ग"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 3,
+      "name": "श्री वीरेन्द्र कुमार शाह",
+      "address": "वीरगञ्ज-१५, पर्सा",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 48000,
+      "share_percent": 2.4,
+      "experience": "कार्पेट सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "कार्पेट",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "श्री सुधीर कुमार रुङ्गटा",
+      "address": "वीरगञ्ज-७, पर्सा",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 50000,
+      "share_percent": 2.5,
+      "experience": "विभिन्न संस्थामा लगानी, बैंकिङ्गमा लगानी साथै अन्य व्यवसाय",
+      "experience_sectors": [
+        "लगानी",
+        "बैंकिङ्ग"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 5,
+      "name": "श्री अशोक कुमार बाहेती",
+      "address": "विराटनगर-४, मोरङ्ग",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 50000,
+      "share_percent": 2.5,
+      "experience": "कार्पेट सम्बन्धि व्यापार, बैंकिङ्ग व्यवसाय",
+      "experience_sectors": [
+        "कार्पेट",
+        "व्यापार",
+        "बैंकिङ्ग"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 6,
+      "name": "श्री तुषार तोदी",
+      "address": "काठमाण्डौ-३१, काठमाण्डौ",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 50000,
+      "share_percent": 2.5,
+      "experience": "मेटल, इलेक्ट्रोनिक सामान सम्बन्धि व्यापार, बैंकिङ्ग व्यवसाय",
+      "experience_sectors": [
+        "मेटल",
+        "इलेक्ट्रोनिक सामान",
+        "व्यापार",
+        "बैंकिङ्ग"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 7,
+      "name": "श्री नरेन्द्र कुमार अग्रवाल",
+      "address": "विराटनगर-८, मोरङ्ग",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 50000,
+      "share_percent": 2.5,
+      "experience": "सिमेन्ट, पेपर सम्बन्धि व्यापार, बैंकिङ्ग व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "पेपर",
+        "व्यापार",
+        "बैंकिङ्ग"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 8,
+      "name": "श्री भरतकुमार तोदी",
+      "address": "विराटनगर-४, मोरङ्ग",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 50000,
+      "share_percent": 2.5,
+      "experience": "सिमेन्ट, पेपर, बैंकिङ्ग सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "पेपर",
+        "बैंकिङ्ग",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 9,
+      "name": "श्रीमती शशिकला अग्रवाल",
+      "address": "काठमाण्डौ-३१, काठमाण्डौ",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "प्र.प्र.प तह",
+      "shares": 50000,
+      "share_percent": 2.5,
+      "experience": "सिमेन्ट, पेपर सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "पेपर",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 10,
+      "name": "श्री राहुल अग्रवाल",
+      "address": "काठमाण्डौ-९, काठमाण्डौ",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 40000,
+      "share_percent": 2.0,
+      "experience": "सिमेन्ट, पेपर, बैंकिङ्ग सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "पेपर",
+        "बैंकिङ्ग",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 11,
+      "name": "श्री जगदीश कुमार अग्रवाल",
+      "address": "भैरहवा-५, रुपन्देही",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 40000,
+      "share_percent": 2.0,
+      "experience": "सिमेन्ट, इन्सुरेन्स, रियल स्टेट, खाद्य उद्योग सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "इन्सुरेन्स",
+        "रियल स्टेट",
+        "खाद्य उद्योग",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 12,
+      "name": "श्री मनोज कुमार केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "प्र.प्र.प तह",
+      "shares": 30120,
+      "share_percent": 1.51,
+      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल, रियल स्टेट, इन्सुरेन्स, बैंकिङ्ग सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "डेरी",
+        "कार्पेट",
+        "ट्राभल",
+        "रियल स्टेट",
+        "इन्सुरेन्स",
+        "बैंकिङ्ग",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 13,
+      "name": "श्री दीनानाथ केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 27690,
+      "share_percent": 1.38,
+      "experience": "चिकित्सा पेशा",
+      "experience_sectors": [
+        "चिकित्सा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 14,
+      "name": "श्री सुमित कुमार केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 27690,
+      "share_percent": 1.38,
+      "experience": "डेरी तथा खाद्य उद्योग सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "डेरी",
+        "खाद्य उद्योग",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 15,
+      "name": "श्री आदित्य केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 27690,
+      "share_percent": 1.38,
+      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "डेरी",
+        "कार्पेट",
+        "ट्राभल",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 16,
+      "name": "श्री रतनलाल केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 27690,
+      "share_percent": 1.38,
+      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "डेरी",
+        "कार्पेट",
+        "ट्राभल",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 17,
+      "name": "श्री मदनलाल केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 27690,
+      "share_percent": 1.38,
+      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "डेरी",
+        "कार्पेट",
+        "ट्राभल",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 18,
+      "name": "श्री सुनिल कुमार केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 20760,
+      "share_percent": 1.04,
+      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "डेरी",
+        "कार्पेट",
+        "ट्राभल",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 19,
+      "name": "श्री अनिल कुमार केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 20760,
+      "share_percent": 1.04,
+      "experience": "शैक्षिक संस्थासँग सम्बद्ध",
+      "experience_sectors": [
+        "शिक्षा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 20,
+      "name": "श्री केडिया इन्भेष्टमेन्ट कर्पोरेशन प्रा. लि.",
+      "address": "काठमाण्डौ-१३, काठमाण्डौ",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "लागू नहुने",
+      "shares": 20000,
+      "share_percent": 1.0,
+      "experience": "संस्था स्थापनामा लगानी गर्ने",
+      "experience_sectors": [
+        "लगानी"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 21,
+      "name": "श्री रमेश कुमार अग्रवाल",
+      "address": "इन्द्रपुर-४, बाँके",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 20000,
+      "share_percent": 1.0,
+      "experience": "सिमेन्ट, पेपर सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "पेपर",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 22,
+      "name": "श्री दामोदर प्रसाद गौतम",
+      "address": "ललितपुर-५, ललितपुर",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 16000,
+      "share_percent": 0.8,
+      "experience": "निजामति सेवा, परराष्ट्र मामला तथा बैंकिङ्ग",
+      "experience_sectors": [
+        "निजामति सेवा",
+        "परराष्ट्र",
+        "बैंकिङ्ग"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 23,
+      "name": "श्री सुरेश कुमार केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "प्र.प्र.प तह",
+      "shares": 15060,
+      "share_percent": 0.75,
+      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "डेरी",
+        "कार्पेट",
+        "ट्राभल",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 24,
+      "name": "श्री राजेश कुमार केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 15060,
+      "share_percent": 0.75,
+      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "डेरी",
+        "कार्पेट",
+        "ट्राभल",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 25,
+      "name": "श्री विमल कुमार केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 15060,
+      "share_percent": 0.75,
+      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "डेरी",
+        "कार्पेट",
+        "ट्राभल",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 26,
+      "name": "श्री मोहित केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक, सि.ए.",
+      "shares": 12510,
+      "share_percent": 0.63,
+      "experience": "सिमेन्ट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "ट्राभल",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 27,
+      "name": "श्री संजय कुमार केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 12450,
+      "share_percent": 0.62,
+      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "डेरी",
+        "कार्पेट",
+        "ट्राभल",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 28,
+      "name": "श्री प्रदीप कुमार केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "प्र.प्र.प तह",
+      "shares": 12450,
+      "share_percent": 0.62,
+      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "डेरी",
+        "कार्पेट",
+        "ट्राभल",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 29,
+      "name": "श्री संदीप कुमार केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "प्र.प्र.प तह",
+      "shares": 12450,
+      "share_percent": 0.62,
+      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "डेरी",
+        "कार्पेट",
+        "ट्राभल",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 30,
+      "name": "श्री संजय कुमार शारदा",
+      "address": "राजविराज-४, राजविराज",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 10000,
+      "share_percent": 0.5,
+      "experience": "विभिन्न संस्थामा लगानी, बैंकिङ्गमा लगानी आदी",
+      "experience_sectors": [
+        "लगानी",
+        "बैंकिङ्ग"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 31,
+      "name": "श्रीमती सुलोचना अग्रवाल",
+      "address": "वीरगञ्ज-१०, पर्सा",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "आठ कक्षा",
+      "shares": 10000,
+      "share_percent": 0.5,
+      "experience": "स्टील, खाद्य सामाग्री, औद्योगिक कच्चा पदार्थ सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "स्टील",
+        "खाद्य सामाग्री",
+        "औद्योगिक कच्चा पदार्थ",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 32,
+      "name": "श्री मनोज कुमार अग्रवाल",
+      "address": "पडसरी-४, रुपन्देही",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 10000,
+      "share_percent": 0.5,
+      "experience": "मसला, खाद्य पदार्थ, औद्योगिक कच्चा पदार्थ सम्बन्धि व्यवसाय",
+      "experience_sectors": [
+        "मसला",
+        "खाद्य पदार्थ",
+        "औद्योगिक कच्चा पदार्थ"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 33,
+      "name": "श्री सुजित अग्रवाल",
+      "address": "काठमाण्डौ-३१, काठमाण्डौ",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 10000,
+      "share_percent": 0.5,
+      "experience": "मसला, खाद्य पदार्थ, औद्योगिक कच्चा पदार्थ सम्बन्धि व्यवसाय",
+      "experience_sectors": [
+        "मसला",
+        "खाद्य पदार्थ",
+        "औद्योगिक कच्चा पदार्थ"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 34,
+      "name": "श्री स्मृति अग्रवाल",
+      "address": "काठमाण्डौ-३१, काठमाण्डौ",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 10000,
+      "share_percent": 0.5,
+      "experience": "शैक्षिक क्षेत्रमा संलग्न",
+      "experience_sectors": [
+        "शिक्षा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 35,
+      "name": "श्रीमती पुष्पादेवी केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "एस एल सी",
+      "shares": 6390,
+      "share_percent": 0.32,
+      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "डेरी",
+        "कार्पेट",
+        "ट्राभल",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 36,
+      "name": "श्रीमती सविता केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 6390,
+      "share_percent": 0.32,
+      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "डेरी",
+        "कार्पेट",
+        "ट्राभल",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 37,
+      "name": "श्री ताराचन्द केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 6090,
+      "share_percent": 0.3,
+      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "डेरी",
+        "कार्पेट",
+        "ट्राभल",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 38,
+      "name": "श्रीमती शैलजा शर्मा",
+      "address": "काठमाण्डौ-९, काठमाण्डौ",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 6000,
+      "share_percent": 0.3,
+      "experience": "बैंकिङ्ग क्षेत्रको अनुभव",
+      "experience_sectors": [
+        "बैंकिङ्ग"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 39,
+      "name": "श्रीमती अनिता पोखरेल",
+      "address": "काठमाण्डौ-९, काठमाण्डौ",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "प्र.प्र.प तह",
+      "shares": 4000,
+      "share_percent": 0.2,
+      "experience": "नोकरी",
+      "experience_sectors": [
+        "नोकरी"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 40,
+      "name": "श्री परमानन्द विष्ट",
+      "address": "ललितपुर-५, ललितपुर",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 4000,
+      "share_percent": 0.2,
+      "experience": "बैंकिङ्ग क्षेत्रको अनुभव",
+      "experience_sectors": [
+        "बैंकिङ्ग"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 41,
+      "name": "श्री सुरेन्द्र भण्डारी",
+      "address": "ललितपुर-५, ललितपुर",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 4000,
+      "share_percent": 0.2,
+      "experience": "बैंकिङ्ग क्षेत्रको अनुभव",
+      "experience_sectors": [
+        "बैंकिङ्ग"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 42,
+      "name": "श्री शम्भुनाथ गौतम",
+      "address": "लेखनाथ-८, कास्की",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 2000,
+      "share_percent": 0.1,
+      "experience": "बैंकिङ्ग क्षेत्रको अनुभव",
+      "experience_sectors": [
+        "बैंकिङ्ग"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 43,
+      "name": "श्री अमन शाह",
+      "address": "वीरगञ्ज १५, पर्सा",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 1000,
+      "share_percent": 0.1,
+      "experience": "एसोसिएट डाइरेक्टर पेष्ट्रिज कार्पेट",
+      "experience_sectors": [
+        "कार्पेट"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 44,
+      "name": "श्री वेदान्त शाह",
+      "address": "काठमाण्डौ १०, काठमाण्डौ",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 1000,
+      "share_percent": 0.1,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    }
+  ],
+  "directors": [
+    {
+      "sn": 1,
+      "name": "श्री मोहित केडिया",
+      "address": "वीरगञ्ज-७, अलैखिया रोड",
+      "position": "अध्यक्ष",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "स्नातक, सि.ए.",
+      "experience": "सिमेन्ट तथा ट्राभल एण्ड टुर्स व्यवसायमा १३ वर्ष भन्दा बढीको अनुभव । अर्घाखाँची सिमेन्ट प्रा. लि. तथा बृज सिमेन्ट प्रा. लि., संचालकको रुपमा आवद्ध भइरहेको अनुभव ।",
+      "experience_sectors": [
+        "सिमेन्ट",
+        "ट्राभल एण्ड टुर्स"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 2,
+      "name": "श्री वरुण कुमार तोदी",
+      "address": "विराटनगर, मोरङ्ग",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "ए.सि.ए., स्नातक",
+      "experience": "U.K. स्थित PricewaterhouseCoopers LLP मा ३ वर्षको अनुभव, रिलाईन्स सुपरटेक सिमेन्टमा तथा रिलाईन्स पेपर मिल्समा अनुभव ।",
+      "experience_sectors": [
+        "अडिट",
+        "सिमेन्ट",
+        "पेपर"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 3,
+      "name": "श्री सुरेश राज महर्जन",
+      "address": "का.म.न.पा.-२९, लैनचौर",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "एम.वि.एस.",
+      "experience": "नबिल बैंक लि.मा ९ वर्ष, ग्लोबल आईएमई बैंक लि.मा ७ वर्ष र सिद्धार्थ बैंक लि.मा विगत ९ वर्षदेखि हालसम्म गरी बैंकिङ्ग क्षेत्रमा कुल २५ वर्षको अनुभव ।",
+      "experience_sectors": [
+        "बैंकिङ्ग"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "श्री किरण थापा",
+      "address": "अखले-७, गुल्मी, लुम्बिनी",
+      "position": "स्वतन्त्र संचालक",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "एम.वि.ए.",
+      "experience": "वित्त शास्त्रको अध्यापन कार्यमा २५ वर्ष भन्दा बढीको अनुभव, वित्त शास्त्रसँग सम्बन्धीत विभिन्न पुस्तक लेखन तथा प्रकाशन । विगत १९ वर्ष देखि शंकर देव क्याम्पसमा आवद्ध ।",
+      "experience_sectors": [
+        "शिक्षा",
+        "वित्त शास्त्र"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 5,
+      "name": "श्री ऋषि राज गौतम",
+      "address": "काठमाण्डौ",
+      "position": "स्वतन्त्र संचालक",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "एमफिल",
+      "experience": "प्राध्यापन क्षेत्रमा २२ वर्ष भन्दा बढीको कार्यानुभव । विगत १६ वर्ष देखि शंकर देव क्याम्पसमा आवद्ध ।",
+      "experience_sectors": [
+        "शिक्षा"
+      ],
+      "proposed_business": null
+    }
+  ],
+  "director_affiliations": [
+    {
+      "director_name": "श्री राहुल अग्रवाल",
+      "director_address": "काठमाण्डौ-९, धोवीखोला, काठमाण्डौ",
+      "affiliations": [
+        {
+          "company": "श्री सिद्धार्थ बैंक लिमिटेड",
+          "address": "काठमाण्डौ",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री दिनेश शंकर पालिखे",
+      "director_address": "पोखरा ९, पालिखेचोक, कास्की",
+      "affiliations": [
+        {
+          "company": "श्री सिद्धार्थ बैंक लिमिटेड",
+          "address": "काठमाण्डौ",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    }
+  ]
+}
