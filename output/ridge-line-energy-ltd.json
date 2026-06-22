@@ -1,0 +1,161 @@
+{
+  "company": "Ridge Line Energy Ltd.",
+  "source_title": "Ridge Line Energy Ltd.-General Public",
+  "prospectus_url": "https://sebon.gov.np/uploads/2026/02/11/PKcps0tCSjqiNU771kWbj3Ox9kU3dzpaeFE2xTNr.pdf",
+  "issue_date": "2026-02-11",
+  "extracted_at": "2026-06-22T09:26:43+00:00",
+  "total_pages": 65,
+  "table_pages": [
+    28,
+    29,
+    30
+  ],
+  "counts": {
+    "shareholders": 0,
+    "directors": 0,
+    "director_affiliations": 6
+  },
+  "llm_cost": {
+    "in": 2008,
+    "out": 1074,
+    "cost_usd": 0.0033
+  },
+  "shareholders": [],
+  "directors": [],
+  "director_affiliations": [
+    {
+      "director_name": "बसन्त गिरी",
+      "director_address": "राप्ति गा.पा.-०४, दाङ",
+      "affiliations": [
+        {
+          "company": "नेशनल यूथ एकेडेमी अफ नेपाल",
+          "address": null,
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "काठमाडौँ इन्स्टिच्युट अफ एप्लाइड साईन्सेस",
+          "address": null,
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "काङ हाइड्रोपावर लिमिटेड",
+          "address": null,
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "वाग्लुङ पावर प्राइभेट लिमिटेड",
+          "address": null,
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "अशोक कुमार खड्का",
+      "director_address": "का.म.न.पा.-९, काठमाडौँ",
+      "affiliations": [
+        {
+          "company": "नेको इन्सुरेन्स लिमिटेड",
+          "address": null,
+          "role": "प्रमुख कार्यकारी अधिकृत",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "प्रदिप राज गिरी",
+      "director_address": "पोखरा म.न.पा.-८, कास्की",
+      "affiliations": [
+        {
+          "company": "काङ हाइड्रोपावर लिमिटेड",
+          "address": null,
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "वाग्लुङ power प्राइभेट लिमिटेड",
+          "address": null,
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "रुगाड हाइड्रोपावर लिमिटेड",
+          "address": null,
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "दुधपोखरी चेपे हाइड्रोपावर लिमिटेड",
+          "address": null,
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "नारायण कंडेल",
+      "director_address": "काठेखोला गा.पा.-६, बाग्लुङ",
+      "affiliations": [
+        {
+          "company": "आमोद क्यापिटल्स प्रा.लि.",
+          "address": null,
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "दुधपोखरी चेपे हाइड्रोपावर लिमिटेड",
+          "address": null,
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "वाग्लुङ पावर प्राइभेट लिमिटेड",
+          "address": null,
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "डा. विनोद पोखरेल",
+      "director_address": "कागेश्वरी मनोहरा न.पा.-४, काठमाडौँ",
+      "affiliations": [
+        {
+          "company": "रिचाम कन्सल्ट प्रा.लि.",
+          "address": null,
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "प्रतिमा तिवारी",
+      "director_address": "पालुङटार न.पा.-२, गोरखा",
+      "affiliations": [
+        {
+          "company": "एप्लाइड इन्जिनियरिङ्ग प्रा.लि.",
+          "address": null,
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ]
+    }
+  ]
+}

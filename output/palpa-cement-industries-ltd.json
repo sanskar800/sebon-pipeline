@@ -1,0 +1,347 @@
+{
+  "company": "Palpa Cement Industries Ltd.",
+  "source_title": "Palpa Cement Industries Ltd.- General Public",
+  "prospectus_url": "https://sebon.gov.np/uploads/2026/02/23/Rn7hlP1UPdNuCxKs6vVn6yC6QPEGE9zNsZ2cwmBc.pdf",
+  "issue_date": "2026-02-23",
+  "extracted_at": "2026-06-22T09:25:36+00:00",
+  "total_pages": 68,
+  "table_pages": [
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "counts": {
+    "shareholders": 11,
+    "directors": 5,
+    "director_affiliations": 2
+  },
+  "llm_cost": {
+    "in": 2988,
+    "out": 3442,
+    "cost_usd": 0.0095
+  },
+  "shareholders": [
+    {
+      "sn": 1,
+      "name": "राजेश कुमार अग्रवाल",
+      "address": "सानेपा, वडा नं. ०२, ललितपुर",
+      "age": 56,
+      "nationality": "नेपाली",
+      "education": "एस.एल.सी",
+      "shares": 10834793,
+      "share_percent": 36.12,
+      "experience": "राजेश मेटल क्राफ्ट लि. मा संचालक को रूपमा रहि कार्य गरेको २५ वर्षको अनुभव, आर.एम.सि. फूड्स प्रा.लि मा संचालक को रूपमा रहि कार्य गरेको ४ वर्षको अनुभव",
+      "experience_sectors": [
+        "सीमेन्ट",
+        "मेटल क्राफ्ट",
+        "फूड्स"
+      ],
+      "proposed_business": "विगत १६ वर्ष देखि आर.एम.सी सीमेन्ट प्रा.लि को संचालक मा आवद्ध"
+    },
+    {
+      "sn": 2,
+      "name": "विष्णु कुमार अग्रवाल",
+      "address": "सानेपा, वडा नं. ०२, ललितपुर",
+      "age": 53,
+      "nationality": "नेपाली",
+      "education": "बी.कम",
+      "shares": 10834793,
+      "share_percent": 36.12,
+      "experience": "राजेश मेटल क्राफ्ट लि. मा संचालक को रूपमा रहि कार्य गरेको २५ वर्षको अनुभव, आर.एम.सि. फूड्स प्रा.लि मा संचालक को रूपमा रहि कार्य गरेको ४ वर्षको अनुभव",
+      "experience_sectors": [
+        "सीमेन्ट",
+        "मेटल क्राफ्ट",
+        "फूड्स"
+      ],
+      "proposed_business": "विगत १६ वर्ष देखि आर.एम.सी सीमेन्ट प्रा.लि को संचालक मा आवद्ध"
+    },
+    {
+      "sn": 3,
+      "name": "स्वीटी कुमारी अग्रवाल",
+      "address": "सानेपा, वडा नं. ०२, ललितपुर",
+      "age": 47,
+      "nationality": "नेपाली",
+      "education": "एस.एल.सी",
+      "shares": 1381585,
+      "share_percent": 4.61,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "यश अग्रवाल",
+      "address": "सानेपा, वडा नं. ०२, ललितपुर",
+      "age": 26,
+      "nationality": "नेपाली",
+      "education": "एम.एस.सी",
+      "shares": 1396622,
+      "share_percent": 4.66,
+      "experience": "आर.एम.सि. फूड्स प्रा.लि मा व्यवस्थापन को रूपमा रहि कार्य गरेको ४ वर्षको अनुभव, राजेश मेटल क्राफ्ट लि. मा व्यवस्थापन को रूपमा रहि कार्य गरेको ४ वर्षको अनुभव",
+      "experience_sectors": [
+        "फूड्स",
+        "मेटल क्राफ्ट"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 5,
+      "name": "शेखर कुमार अग्रवाल",
+      "address": "सानेपा, वडा नं. ०२, ललितपुर",
+      "age": 29,
+      "nationality": "नेपाली",
+      "education": "एम.एस.सी",
+      "shares": 1396622,
+      "share_percent": 4.66,
+      "experience": "आर.एम.सि. फूड्स प्रा.लि मा व्यवस्थापन को रूपमा रहि कार्य गरेको ७ वर्षको अनुभव, राजेश मेटल क्राफ्ट लि. मा व्यवस्थापन को रूपमा रहि कार्य गरेको ७ वर्षको अनुभव",
+      "experience_sectors": [
+        "फूड्स",
+        "मेटल क्राफ्ट"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 6,
+      "name": "संगीता अग्रवाल",
+      "address": "सानेपा, वडा नं. ०२, ललितपुर",
+      "age": 54,
+      "nationality": "नेपाली",
+      "education": "एस.एल.सी",
+      "shares": 1381585,
+      "share_percent": 4.61,
+      "experience": "राजेश मेटल क्राफ्ट लि. मा संचालक को रूपमा रहि कार्य गरेको १ वर्षको अनुभव",
+      "experience_sectors": [
+        "मेटल क्राफ्ट"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 7,
+      "name": "विनोद कुमार श्रेष्ठ",
+      "address": "हेटौडा वडा नं ३",
+      "age": 58,
+      "nationality": "नेपाली",
+      "education": "आई.कम",
+      "shares": 700000,
+      "share_percent": 2.33,
+      "experience": null,
+      "experience_sectors": [
+        "सीमेन्ट"
+      ],
+      "proposed_business": "विगतमा १५-१६ वर्ष सर्वोत्तम सीमेन्ट लि., अर्घाखाँची सीमेन्ट लि को संस्थापक मा आवद्ध"
+    },
+    {
+      "sn": 8,
+      "name": "दिपक कुमार झा",
+      "address": "बैरवा वडा नं ९, सप्तरी",
+      "age": 49,
+      "nationality": "नेपाली",
+      "education": "BE mining",
+      "shares": 650000,
+      "share_percent": 2.17,
+      "experience": null,
+      "experience_sectors": [
+        "सीमेन्ट"
+      ],
+      "proposed_business": "विगतमा १५-१६ वर्ष सर्वोत्तम सीमेन्ट लि., अर्घाखाँची सीमेन्ट लि को संस्थापक मा आवद्ध"
+    },
+    {
+      "sn": 9,
+      "name": "प्रभा गोयन्का",
+      "address": "वडा नं ३१, काठमाण्डौ",
+      "age": 57,
+      "nationality": "नेपाली",
+      "education": "एस.एल.सी",
+      "shares": 500000,
+      "share_percent": 1.67,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 10,
+      "name": "शशि कला श्रेष्ठ",
+      "address": "हेटौडा वडा नं ४",
+      "age": 55,
+      "nationality": "नेपाली",
+      "education": "एस.एल.सी",
+      "shares": 335000,
+      "share_percent": 1.12,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 11,
+      "name": "शिल्पीमणिका झा",
+      "address": "बैरवा वडा नं ९, सप्तरी",
+      "age": 45,
+      "nationality": "नेपाली",
+      "education": "एम.बी.ए.",
+      "shares": 335000,
+      "share_percent": 1.12,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    }
+  ],
+  "directors": [
+    {
+      "sn": 1,
+      "name": "राजेश कुमार अग्रवाल",
+      "address": "सानेपा, वडा नं. ०२, ललितपुर",
+      "position": "अध्यक्ष",
+      "nationality": "नेपाली",
+      "shares": 10834793,
+      "education": "एस.एल.सी",
+      "experience": "राजेश मेटल क्राफ्ट लि. मा संचालक को रूपमा रहि कार्य गरेको २५ वर्षको अनुभव, आर.एम.सि. फूड्स प्रा.लि मा संचालक को रूपमा रहि कार्य गरेको ४ वर्षको अनुभव",
+      "experience_sectors": [
+        "सीमेन्ट",
+        "मेटल क्राफ्ट",
+        "फूड्स"
+      ],
+      "proposed_business": "विगत १६ वर्ष देखि आर.एम.सी सीमेन्ट प्रा.लि को संचालक मा आवद्ध"
+    },
+    {
+      "sn": 2,
+      "name": "विष्णु कुमार अग्रवाल",
+      "address": "सानेपा, वडा नं. ०२, ललितपुर",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 10834793,
+      "education": "बी.कम",
+      "experience": "राजेश मेटल क्राफ्ट लि. मा संचालक को रूपमा रहि कार्य गरेको २५ वर्षको अनुभव, आर.एम.सि. फूड्स प्रा.लि मा संचालक को रूपमा रहि कार्य गरेको ४ वर्षको अनुभव",
+      "experience_sectors": [
+        "सीमेन्ट",
+        "मेटल क्राफ्ट",
+        "फूड्स"
+      ],
+      "proposed_business": "विगत १६ वर्ष देखि आर.एम.सी सीमेन्ट प्रा.लि को संचालक मा आवद्ध"
+    },
+    {
+      "sn": 3,
+      "name": "स्वीटी कुमारी अग्रवाल",
+      "address": "सानेपा, सानेपा, वडा नं. ०२, ललितपुर",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 1381585,
+      "education": "एस.एल.सी",
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "यश अग्रवाल",
+      "address": "सानेपा, वडा नं. ०२, ललितपुर",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 1396622,
+      "education": "एम.एस.सी",
+      "experience": "आर.एम.सि. फूड्स प्रा.लि मा व्यवस्थापन को रूपमा रहि कार्य गरेको ४ वर्षको अनुभव, राजेश मेटल क्राफ्ट लि. मा व्यवस्थापन को रूपमा रहि कार्य गरेको ४ वर्षको अनुभव",
+      "experience_sectors": [
+        "फूड्स",
+        "मेटल क्राफ्ट"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 5,
+      "name": "प्रियान्शी अग्रवाल",
+      "address": "आर.एम.सी. कन्स्ट्रक्सन एण्ड इन्भेष्टमेन्ट प्रा.लि. को तर्फबाट",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "एम.एस.सी (मार्केटिङ्ग एण्ड क्रियटीभिटी)",
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    }
+  ],
+  "director_affiliations": [
+    {
+      "director_name": "राजेश कुमार अग्रवाल",
+      "director_address": "सानेपा, वडा नं. ०२, ललितपुर",
+      "affiliations": [
+        {
+          "company": "आरएमसी फूड प्रा.लि.",
+          "address": "का.म.न.पा. वडा नं.११",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "राजेश मेटल क्राफ्ट प्रा.लि.",
+          "address": "का.म.न.पा. वडा नं.११",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "आर.एम.सि. कन्स्ट्रक्सन एण्ड इन्भेष्टमेन्ट प्रा.लि.",
+          "address": "का.म.न.पा. वडा नं.१३",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "आर.एम. सि. इन्भेष्टमेन्ट प्रा.लि.",
+          "address": "का.म.न.पा. वडा नं.१३",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "आर.एम.सि. सिमेन्ट प्रा.लि.",
+          "address": "का.म.न.पा. वडा नं. ११",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "विष्णु कुमार अग्रवाल",
+      "director_address": "सानेपा, वडा नं. ०२, ललितपुर",
+      "affiliations": [
+        {
+          "company": "आरएमसी फूड प्रा.लि.",
+          "address": "का.म.न.पा. वडा नं.११",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "राजेश मेटल क्राफ्ट प्रा.लि.",
+          "address": "का.म.न.पा. वडा नं.११",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "आर.एम.सि. कन्स्ट्रक्सन एण्ड इन्भेष्टमेन्ट प्रा.लि.",
+          "address": "का.म.न.पा. वडा नं.१३",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "आर.एम. सि. इन्भेष्टमेन्ट प्रा.लि.",
+          "address": "का.म.न.पा. वडा नं.१३",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "आर.एम.सि. सिमेन्ट प्रा.लि.",
+          "address": "का.म.न.पा. वडा नं. ११",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    }
+  ]
+}

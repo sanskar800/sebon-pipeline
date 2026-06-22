@@ -1,0 +1,421 @@
+{
+  "company": "Appolo Hydropower Ltd.",
+  "source_title": "Appolo Hydropower Ltd. - General Public",
+  "prospectus_url": "https://sebon.gov.np/uploads/2026/04/08/aROXLsPJxWM0gEQxl4lt9Uiw4lL2bpgLtZxaXAox.pdf",
+  "issue_date": "2026-04-08",
+  "extracted_at": "2026-06-22T09:21:37+00:00",
+  "total_pages": 65,
+  "table_pages": [
+    19,
+    20,
+    21,
+    22
+  ],
+  "counts": {
+    "shareholders": 26,
+    "directors": 0,
+    "director_affiliations": 0
+  },
+  "llm_cost": {
+    "in": 2516,
+    "out": 3881,
+    "cost_usd": 0.0105
+  },
+  "shareholders": [
+    {
+      "sn": 1,
+      "name": "श्री आङ्ग तेन्जी शेर्पा",
+      "address": "खिजीदेम्बा ८, ओखलढुङ्गा",
+      "age": 52,
+      "nationality": "नेपाली",
+      "education": "आई.ए",
+      "shares": 91600,
+      "share_percent": 2.78,
+      "experience": "Proprietor-A.T International Handicraft Export, निर्देशक- आइल्याण्ड ट्रेक एण्ड एक्सपीडीशन प्रा.लि., अध्यक्ष-रिया नेपाल प्रा.लि.",
+      "experience_sectors": [
+        "Handicraft Export",
+        "Trekking & Expedition"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 2,
+      "name": "श्री डिल्ली बहादुर गुरुङ्ग",
+      "address": "केरुङ २, सोलुखुम्बु",
+      "age": 52,
+      "nationality": "नेपाली",
+      "education": "आई.ए",
+      "shares": 162850,
+      "share_percent": 4.945,
+      "experience": "निर्देशक-जलशक्ति हाइड्रो प्रा.लि., निर्देशक -हिमल्याण्ड एड्भेन्चर ट्रेक प्रा.लि., निर्देशक- मालिङ्गो इन्टरनेशनल हाउजिङ्ग कम्पनी प्रा.लि., आर्थिक संयोजक-गोरेटो बहुउद्देश्यीय सहकारी लिमिटेड, निर्देशक-पातले होमस्टे प्रा.लि.",
+      "experience_sectors": [
+        "Hydropower",
+        "Trekking & Adventure",
+        "Housing",
+        "Cooperative",
+        "Homestay Tourism"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 3,
+      "name": "श्री विनोद चन्द्र वराल",
+      "address": "पोखरा म.न.पा.८, कास्की",
+      "age": 62,
+      "nationality": "नेपाली",
+      "education": "बि.कम/सि.ए",
+      "shares": 150000,
+      "share_percent": 4.56,
+      "experience": "अध्यक्ष/व्यवस्थापक संचालक/कार्यकारी अध्यक्ष - अन्नपूर्ण फाइनान्स कम्पनी लिमिटेड मा १५ वर्ष भन्दा बढीको अनुभव",
+      "experience_sectors": [
+        "Finance & Banking"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "श्री सिता राम तिमिल्सिना",
+      "address": "विरगंज १० पर्सा",
+      "age": 64,
+      "nationality": "नेपाली",
+      "education": "बि.कम",
+      "shares": 125000,
+      "share_percent": 3.8,
+      "experience": "जलविद्युत निर्माण, संचालन तथा निर्माण व्यवसाय क्षेत्रको कार्य अनुभव",
+      "experience_sectors": [
+        "Hydropower Construction & Operation"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 5,
+      "name": "श्री धन बहादुर बस्नेत",
+      "address": "का.म.न.पा १०, काठमाडौं",
+      "age": 51,
+      "nationality": "नेपाली",
+      "education": "बि.ए",
+      "shares": 114905,
+      "share_percent": 3.49,
+      "experience": "प्रबन्ध साझेदार स्टार अटो इन्टरप्राइजेज - बजाज मोटरसाइकलको डिलर, निर्देशक- स्टार अटो केयर प्रा.लि., निर्देशक- एमटी इन्डष्ट्रीज प्रा.लि, अध्यक्ष -पाली रियल इस्टेट प्रा.लि, अध्यक्ष- प्रवर्धन बहुउद्देश्यीय सहकारी लिमिटेड",
+      "experience_sectors": [
+        "Automobile Dealership & Care",
+        "Manufacturing Industries",
+        "Real Estate",
+        "Cooperative"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 6,
+      "name": "श्री नारायण बाबु अधिकारी",
+      "address": "पालुङटार ९ गोरखा",
+      "age": 57,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 112700,
+      "share_percent": 3.43,
+      "experience": "लेखा तथा विभिन्न हाइड्रोपावरमा परियोजनाको कार्य अनुभव, अध्यक्ष-ओजिल भेन्चर्स प्रा.लि.",
+      "experience_sectors": [
+        "Accounting",
+        "Hydropower Projects"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 7,
+      "name": "ओजिल भेन्चर्स प्रा.लि.",
+      "address": "का.म.न.पा. १६",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 150000,
+      "share_percent": 4.56,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 8,
+      "name": "सगरमाथा लुम्बिनी इन्स्योरेन्स कम्पनी लिमिटेड",
+      "address": "का.म.न.पा. ३१ काठमाडौं",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 100000,
+      "share_percent": 3.04,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 9,
+      "name": "प्रिमियर सेक्युरिटीज कम्पनी लि.",
+      "address": "का.म.न.पा. २८, काठमाडौं",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 75000,
+      "share_percent": 2.28,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 10,
+      "name": "मल्टीपर्पस फाइनान्स लि.",
+      "address": "राजविराज न.पा ४, सप्तरी",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 50000,
+      "share_percent": 1.52,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 11,
+      "name": "श्री आङ रिन्जी शेर्पा",
+      "address": "लिखु गा.पा. ९, ओखलढुङ्गा",
+      "age": 50,
+      "nationality": "नेपाली",
+      "education": "एस.एल.सी",
+      "shares": 165000,
+      "share_percent": 5.02,
+      "experience": "आयुर्वेदिक व्यवसाय क्षेत्रमा कार्यअनुभव",
+      "experience_sectors": [
+        "Ayurvedic Business"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 12,
+      "name": "श्री राजेन्द्र गुरुङ्ग",
+      "address": "खिजीदेम्बा ७ ओखलढुङ्गा",
+      "age": 49,
+      "nationality": "नेपाली",
+      "education": "बि.ए",
+      "shares": 88435,
+      "share_percent": 2.69,
+      "experience": "कार्यकारी अध्यक्ष-नेपाल नेचर ट्रेक एण्ड टुर्स प्रा.लि., टुर लिडर-अल्की टुर्स",
+      "experience_sectors": [
+        "Tours & Travel"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 13,
+      "name": "श्री शान्ता पहाडी",
+      "address": "डुंडभञ्ज्याङ ८ सिन्धुली",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "एम.ए",
+      "shares": 41100,
+      "share_percent": 1.25,
+      "experience": "सरकारी संस्थामा कार्यरत",
+      "experience_sectors": [
+        "Government Service"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 14,
+      "name": "श्री प्रमोद श्रेष्ठ",
+      "address": "अर्थुङ्गे २, म्याग्दी",
+      "age": 52,
+      "nationality": "नेपाली",
+      "education": "+2",
+      "shares": 60000,
+      "share_percent": 1.82,
+      "experience": "विभिन्न व्यवसायको कार्यअनुभव",
+      "experience_sectors": [
+        "General Business"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 15,
+      "name": "श्री साधना श्रेष्ठ",
+      "address": "अर्थुङ्गे २, म्याग्दी",
+      "age": 43,
+      "nationality": "नेपाली",
+      "education": "एस.एल.सी",
+      "shares": 38000,
+      "share_percent": 1.16,
+      "experience": "गृहिणी",
+      "experience_sectors": [
+        "Domestic"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 16,
+      "name": "श्री विवेक पहाडी",
+      "address": "का.म.न.पा. ३४, काठमाडौं",
+      "age": 31,
+      "nationality": "नेपाली",
+      "education": "एम.बि.ए",
+      "shares": 36250,
+      "share_percent": 1.1,
+      "experience": "विद्यार्थी",
+      "experience_sectors": [
+        "Education"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 17,
+      "name": "श्री लाक्पा शेर्पा",
+      "address": "खिजीदेम्बा गा.पा. ७, ओखलढुङ्गा",
+      "age": 18,
+      "nationality": "नेपाली",
+      "education": "+2",
+      "shares": 52200,
+      "share_percent": 1.59,
+      "experience": "विद्यार्थी",
+      "experience_sectors": [
+        "Education"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 18,
+      "name": "श्री कर्म तेन्जिङ भोटीया",
+      "address": "भोटेखोला गा.पा. २, संखुवासभा",
+      "age": 59,
+      "nationality": "नेपाली",
+      "education": "एस.एल.सी",
+      "shares": 49000,
+      "share_percent": 1.49,
+      "experience": "रेस्टुरेन्ट व्यवसायको कार्य अनुभव",
+      "experience_sectors": [
+        "Restaurant & Hospitality"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 19,
+      "name": "श्री बुनु लिम्बु",
+      "address": "छतर जोरपाटी गा.पा. ५ धनकुटा",
+      "age": 42,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 36800,
+      "share_percent": 1.12,
+      "experience": "शिक्षण क्षेत्र को कार्य अनुभव",
+      "experience_sectors": [
+        "Education & Teaching"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 20,
+      "name": "श्री प्रताप गुरुङ्ग",
+      "address": "पोखरा महानगरपालिका ९",
+      "age": 64,
+      "nationality": "नेपाली",
+      "education": "बिए",
+      "shares": 50000,
+      "share_percent": 1.52,
+      "experience": "रियल स्टेट र जलविद्युत परियोजनामा कार्य अनुभव",
+      "experience_sectors": [
+        "Real Estate",
+        "Hydropower Projects"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 21,
+      "name": "श्री पदम बहादुर शाक्य",
+      "address": "का.म.न. पा ३० काठमाडौं",
+      "age": 52,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 50000,
+      "share_percent": 1.52,
+      "experience": "व्यापार व्यवसाय तथा लगानी क्षेत्रको कार्य अनुभव",
+      "experience_sectors": [
+        "Trade & Investment"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 22,
+      "name": "श्री सन्तोष मान श्रेष्ठ",
+      "address": "का.म.न.पा. १८, काठमाडौं",
+      "age": 53,
+      "nationality": "नेपाली",
+      "education": "बि.कम",
+      "shares": 50000,
+      "share_percent": 1.52,
+      "experience": "विभिन्न व्यापार व्यवसाय तथा नोकरी क्षेत्रको कार्य अनुभव",
+      "experience_sectors": [
+        "Trade & Employment"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 23,
+      "name": "श्री बलराम किसी",
+      "address": "भक्तपुर, ६",
+      "age": 54,
+      "nationality": "नेपाली",
+      "education": "एम.बि.बि.एस",
+      "shares": 50885,
+      "share_percent": 1.55,
+      "experience": "व्यापार व्यवसाय तथा नोकरी क्षेत्रको कार्य अनुभव",
+      "experience_sectors": [
+        "Medical",
+        "Trade & Employment"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 24,
+      "name": "श्री रेनुका गुरुङ्ग",
+      "address": "खिजीडेम्बा ६, ओखलढुङ्गा",
+      "age": 51,
+      "nationality": "नेपाली",
+      "education": "आई.ए",
+      "shares": 92375,
+      "share_percent": 2.81,
+      "experience": "व्यापार-एस डेभलपमेन्ट हुडिङ प्रा.लि.",
+      "experience_sectors": [
+        "Trade & Business"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 25,
+      "name": "श्री ङिमा छोपेल लामा",
+      "address": "ललितपुर ५",
+      "age": 33,
+      "nationality": "नेपाली",
+      "education": "एम.बि.ए/सि.एस.ए",
+      "shares": 91750,
+      "share_percent": 2.79,
+      "experience": "नोकरी क्षेत्रको कार्य अनुभव",
+      "experience_sectors": [
+        "Employment"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 26,
+      "name": "श्री रविन्द्र प्रसाद न्हुछे प्रधान",
+      "address": "काठमाडौं",
+      "age": 51,
+      "nationality": "नेपाली",
+      "education": "एम.बि.ए",
+      "shares": 75000,
+      "share_percent": 2.28,
+      "experience": "अध्यक्ष-प्रिमियर सेक्युरिटीज कम्पनी लिमिटेड",
+      "experience_sectors": [
+        "Securities & Finance"
+      ],
+      "proposed_business": null
+    }
+  ],
+  "directors": [],
+  "director_affiliations": []
+}

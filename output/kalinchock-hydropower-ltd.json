@@ -1,0 +1,475 @@
+{
+  "company": "Kalinchock Hydropower Ltd.",
+  "source_title": "Kalinchock Hydropower Ltd.-General Public",
+  "prospectus_url": "https://sebon.gov.np/uploads/2026/04/05/RGlz8MRQ8pNfGtcROpWX8aiI3fSWjqJhw95uKvjn.pdf",
+  "issue_date": "2026-04-05",
+  "extracted_at": "2026-06-22T09:22:16+00:00",
+  "total_pages": 49,
+  "table_pages": [
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "counts": {
+    "shareholders": 21,
+    "directors": 5,
+    "director_affiliations": 5
+  },
+  "llm_cost": {
+    "in": 3048,
+    "out": 4178,
+    "cost_usd": 0.0114
+  },
+  "shareholders": [
+    {
+      "sn": 1,
+      "name": "श्री मेट्रो इक्विटी फण्ड लिमिटेड",
+      "address": "पब्लिक लिमिटेड, दर्ता नं. ३५०२९५/०८१/८२",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 500000,
+      "share_percent": 12.12,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 2,
+      "name": "श्री विजनेस इन्ट्रेष्ट ग्रुप अफ इण्डष्ट्रिज लिमिटेड",
+      "address": "पब्लिक लिमिटेड दर्ता नं. २५७२६५/०७७/०७८",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 470000,
+      "share_percent": 11.39,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 3,
+      "name": "श्री विग इण्डष्ट्रिज नेपाल प्रा.लि.",
+      "address": "प्राइवेट लिमिटेड दर्ता नं. २८५५१२/०७८/७९",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 165250,
+      "share_percent": 4.01,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "श्री इन्दिरा पन्त",
+      "address": null,
+      "age": 47,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 275000,
+      "share_percent": 6.67,
+      "experience": "अध्यक्ष : कालिन्चोक हाइड्रोपावर लि., संचालक (पूर्व) : साहस उर्जा हाइड्रोपावर लि.",
+      "experience_sectors": [
+        "जलविद्युत"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 5,
+      "name": "श्री रामचन्द्र उप्रेती",
+      "address": null,
+      "age": 66,
+      "nationality": "नेपाली",
+      "education": "प्रमाणपत्र तह",
+      "shares": 185000,
+      "share_percent": 4.48,
+      "experience": "संचालक : कालिन्चोक हाइड्रोपावर लि., अध्यक्ष (पूर्व) : नेपाल बहुउद्देश्यीय सहकारी संस्था नेपाल",
+      "experience_sectors": [
+        "जलविद्युत",
+        "सहकारी"
+      ],
+      "proposed_business": "अध्यक्ष : सयपत्री नेपाल प्रा.लि."
+    },
+    {
+      "sn": 6,
+      "name": "श्री गिरि राज पन्त",
+      "address": null,
+      "age": 45,
+      "nationality": "नेपाली",
+      "education": "प्रमाणपत्र तह",
+      "shares": 182800,
+      "share_percent": 4.43,
+      "experience": "प्रोप्राइटर : जी टु वी फेसन, रुपन्देही",
+      "experience_sectors": [
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 7,
+      "name": "श्री आलोक कोइराला",
+      "address": null,
+      "age": 29,
+      "nationality": "नेपाली",
+      "education": "स्नातक तह",
+      "shares": 125000,
+      "share_percent": 3.03,
+      "experience": "संचालक : वीगी वेभ कनेक्सन्स् (IT कम्पनी)",
+      "experience_sectors": [
+        "सूचना प्रविधि"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 8,
+      "name": "श्री देवकी दाहाल",
+      "address": null,
+      "age": 40,
+      "nationality": "नेपाली",
+      "education": "प्रमाणपत्र तह",
+      "shares": 95000,
+      "share_percent": 2.3,
+      "experience": "विगतमा शिक्षकको रुपमा काम गरेको अनुभव रहेको",
+      "experience_sectors": [
+        "शिक्षा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 9,
+      "name": "श्री सरला उप्रेती",
+      "address": null,
+      "age": 41,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर तह",
+      "shares": 94000,
+      "share_percent": 2.28,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": "व्यवस्थापक : सयपत्री एस्.एस्. इन्टरप्राइजेज"
+    },
+    {
+      "sn": 10,
+      "name": "टंकलाल श्रेष्ठ",
+      "address": null,
+      "age": 41,
+      "nationality": "नेपाली",
+      "education": "स्नातक तह",
+      "shares": 112500,
+      "share_percent": 2.73,
+      "experience": "प्रमुख कार्यकारी अधिकृत : प्राइम मल्टीपल विजनेस फाउण्डेशन, नयाँबानेश्वर (सन् २०१२ देखि हाल सम्म)",
+      "experience_sectors": [
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 11,
+      "name": "श्री भवानी पोखरेल",
+      "address": null,
+      "age": 44,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 85000,
+      "share_percent": 2.06,
+      "experience": "संचालक : कालिन्चोक हाइड्रोपावर लि., अधिवक्ता : ए एण्ड ए कानुनी सेवा",
+      "experience_sectors": [
+        "जलविद्युत",
+        "कानुन"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 12,
+      "name": "श्री भागीरथी पाण्डेय",
+      "address": null,
+      "age": 43,
+      "nationality": "नेपाली",
+      "education": "माध्यमीक तह",
+      "shares": 67000,
+      "share_percent": 1.62,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": "व्यवस्थापक : जी टु वी फेसन"
+    },
+    {
+      "sn": 13,
+      "name": "राम प्रसाद सिटौला",
+      "address": null,
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 65000,
+      "share_percent": 1.58,
+      "experience": "ज्योतिष परामर्शदाता",
+      "experience_sectors": [
+        "परामर्श"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 14,
+      "name": "श्री श्वेता आचार्य",
+      "address": null,
+      "age": 31,
+      "nationality": "नेपाली",
+      "education": "स्नातक तह",
+      "shares": 60000,
+      "share_percent": 1.45,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": "अध्यक्ष : मिस फेशन क्रियसन प्रा.लि."
+    },
+    {
+      "sn": 15,
+      "name": "श्री सुरज पोखरेल",
+      "address": null,
+      "age": 29,
+      "nationality": "नेपाली",
+      "education": "प्रमाण पत्र तह",
+      "shares": 55000,
+      "share_percent": 1.33,
+      "experience": "विगतमा शिक्षकको रुपमा काम गरेको अनुभव रहेको",
+      "experience_sectors": [
+        "शिक्षा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 16,
+      "name": "यसोदा सुवेदी",
+      "address": null,
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 55000,
+      "share_percent": 1.33,
+      "experience": "संचालक : वीगी वेभ कनेक्सन्स् (IT कम्पनी) मा काम गरेको",
+      "experience_sectors": [
+        "सूचना प्रविधि"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 17,
+      "name": "सुलक्षणा लोहनी",
+      "address": null,
+      "age": 49,
+      "nationality": "नेपाली",
+      "education": "स्नातक तह",
+      "shares": 50000,
+      "share_percent": 1.21,
+      "experience": "क्याम्पस प्रशासकको रुपमा काम गरेको अनुभव रहेको",
+      "experience_sectors": [
+        "शिक्षा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 18,
+      "name": "अधिश बुर्लाकोटी",
+      "address": null,
+      "age": 22,
+      "nationality": "नेपाली",
+      "education": "C.A. Final Year",
+      "shares": 50000,
+      "share_percent": 1.21,
+      "experience": "दुई वर्ष लेखापरीक्षण गरेको अनुभव रहेको।",
+      "experience_sectors": [
+        "लेखापरीक्षण"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 19,
+      "name": "आर्या बुर्लाकोटी",
+      "address": null,
+      "age": 18,
+      "nationality": "नेपाली",
+      "education": "Level 2",
+      "shares": 50000,
+      "share_percent": 1.21,
+      "experience": "विद्यार्थी",
+      "experience_sectors": [
+        "शिक्षा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 20,
+      "name": "अन्जना लम्साल",
+      "address": null,
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 50000,
+      "share_percent": 1.21,
+      "experience": "गृहणी",
+      "experience_sectors": [
+        "घरायसी"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 21,
+      "name": "श्री रघुनाथ आचार्य",
+      "address": null,
+      "age": 58,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 47000,
+      "share_percent": 1.14,
+      "experience": "संचालक/व्यवस्थापक: सनराइज इङ्गलिस स्कूल, भरतपुर",
+      "experience_sectors": [
+        "शिक्षा"
+      ],
+      "proposed_business": null
+    }
+  ],
+  "directors": [
+    {
+      "sn": 1,
+      "name": "श्री इन्दिरा पन्त",
+      "address": "कन्चन गा.पा. ५ रुपन्देही",
+      "position": "अध्यक्ष",
+      "nationality": "नेपाली",
+      "shares": 275000,
+      "education": "स्नातकोत्तर",
+      "experience": "अध्यक्ष : कालिन्चोक हाइड्रोपावर लिमिटेड (नियुक्त मिति : २०७९/०१/१३ गते, बहाल रहने मिति : २०८३/०१/१२ गते), संचालक (पूर्व) : साहस उर्जा हाइड्रोपावर लि.",
+      "experience_sectors": [
+        "जलविद्युत"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 2,
+      "name": "श्री रामचन्द्र उप्रेती",
+      "address": "मेचीनगर न.पा. १०, झापा",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 185000,
+      "education": "प्रमाणपत्र",
+      "experience": "संचालक : कालिन्चोक हाइड्रोपावर लि. (नियुक्त मिति : २०७९/०१/१३ गते, बहाल रहने मिति : २०८३/०१/१२ गते), अध्यक्ष (पूर्व) : नेपाल बहुउद्देश्यीय सहकारी संस्था नेपाल।",
+      "experience_sectors": [
+        "जलविद्युत",
+        "सहकारी"
+      ],
+      "proposed_business": "अध्यक्ष : सयपत्री नेपाल प्रा.लि., झापा"
+    },
+    {
+      "sn": 3,
+      "name": "श्री भवानी पोखरेल",
+      "address": "भद्रपुर न.पा. ७, झापा",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 85000,
+      "education": "स्नातकोत्तर",
+      "experience": "संचालक : कालिन्चोक हाइड्रोपावर लि. (नियुक्त मिति : २०७९/०१/१३ गते, बहाल रहने मिति : २०८३/०१/१२ गते), अधिवक्ता : ए एण्ड ए कानुनी सेवा",
+      "experience_sectors": [
+        "जलविद्युत",
+        "कानुन"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "श्री टंकलाल श्रेष्ठ",
+      "address": "कुम्पूर ८, धादिङ",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 112500,
+      "education": "स्नातक",
+      "experience": "संचालक : कालिन्चोक हाइड्रोपावर लि. (नियुक्त मिति : २०८१/१०/०३ गते, बहाल रहने मिति : २०८५/१०/०२ गते), प्रमुख कार्यकारी अधिकृत : प्राइम मल्टीपल विजनेस फाउण्डेशन, नयाँबानेश्वर (सन् २०१२ देखि हाल सम्म)",
+      "experience_sectors": [
+        "जलविद्युत",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 5,
+      "name": "श्री हरी प्रसाद तिवारी",
+      "address": "वालिङ ४, स्याङ्जा",
+      "position": "स्वतन्त्र संचालक",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "स्नातकोत्तर",
+      "experience": "स्वतन्त्र संचालक : कालिन्चोक हाइड्रोपावर लि. (नियुक्त मिति : २०८१/१०/०३ गते, बहाल रहने मिति : २०८५/१०/०२ गते), अधिवक्ता : तिवारी एण्ड असोसिएटस् (मिति २०७० देखि हाल सम्म)",
+      "experience_sectors": [
+        "जलविद्युत",
+        "कानुन"
+      ],
+      "proposed_business": null
+    }
+  ],
+  "director_affiliations": [
+    {
+      "director_name": "श्री इन्दिरा पन्त",
+      "director_address": null,
+      "affiliations": [
+        {
+          "company": "श्री विजनेस इन्ट्रेष्ट ग्रुप अफ इण्डष्ट्रिज लि.",
+          "address": "का.म.न.पा. १६",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री रामचन्द्र उप्रेती",
+      "director_address": null,
+      "affiliations": [
+        {
+          "company": "श्री सयपत्री नेपाल प्रा.लि.",
+          "address": "झापा",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री भवानी पोखरेल",
+      "director_address": null,
+      "affiliations": [
+        {
+          "company": "श्री ए एण्ड ए कानुनी सेवा",
+          "address": "बबरमहल काठमाण्डौ",
+          "role": "अधिवक्ता",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री टंकलाल श्रेष्ठ",
+      "director_address": null,
+      "affiliations": [
+        {
+          "company": "श्री प्राइम मल्टीपल विजनेस फाउण्डेशन",
+          "address": "नयाँ बानेश्वर, काठमाण्डौ",
+          "role": "प्रमुख कार्यकारी अधिकृत",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री हरी प्रसाद तिवारी",
+      "director_address": null,
+      "affiliations": [
+        {
+          "company": "श्री तिवारी एण्ड असोसिएटस्",
+          "address": null,
+          "role": "अधिवक्ता",
+          "from": null,
+          "to": null
+        }
+      ]
+    }
+  ]
+}

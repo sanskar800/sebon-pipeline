@@ -1,0 +1,26 @@
+{
+  "company": "8% ICFC Finance Ltd. Debenture 2089",
+  "source_title": "8% ICFC Finance Ltd. Debenture 2089",
+  "prospectus_url": "https://sebon.gov.np/uploads/2026/02/22/QIUlQ3dBXD9wfN9uiflB7LPoCa3BEpR3jNlGfZkh.pdf",
+  "issue_date": "2026-02-22",
+  "extracted_at": "2026-06-22T09:26:00+00:00",
+  "total_pages": 65,
+  "table_pages": [
+    8,
+    10,
+    12
+  ],
+  "counts": {
+    "shareholders": 0,
+    "directors": 0,
+    "director_affiliations": 0
+  },
+  "llm_cost": {
+    "in": 5952,
+    "out": 78,
+    "cost_usd": 0.0021
+  },
+  "shareholders": [],
+  "directors": [],
+  "director_affiliations": []
+}
