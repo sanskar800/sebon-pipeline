@@ -95,26 +95,40 @@ FOUNDER_KW = ("संस्थापक", "सञ्चालक", "शेयर
 
 
 def find_table_pages(pdf_bytes):
-    """0-based page indices of the founder table, or None if the PDF has no Preeti
-    text (scanned/CID -> caller sends the whole PDF)."""
+    """0-based pages of the founder section (all 3 tables span a contiguous block,
+    not one page), or None if the PDF has no Preeti text (scanned/CID -> whole PDF)."""
     pages = pdfplumber.open(io.BytesIO(pdf_bytes)).pages
-    nat, sec, had_text = [], [], False
+    nat, sec, text_pages = [], [], 0
     for pg in pages:
         raw = pg.extract_text() or ""
-        if raw:
-            had_text = True
+        if len(raw) > 80:
+            text_pages += 1
         uni = wrapper_nppttf2utf(raw)
-        nat.append(uni.count("नेपाली"))
+        # one nationality cell per row — नेपाली for people, लागू नहुने for corporate promoters
+        nat.append(uni.count("नेपाली") + uni.count("लागू नहुने"))
         sec.append(sum(uni.count(k) for k in FOUNDER_KW))
-    if not had_text or not any(nat):
+    if text_pages < len(pages) * 0.4:         # mostly scanned/CID -> Gemini reads whole PDF
         return None
-    best = max(range(len(nat)), key=lambda i: nat[i] + sec[i] * 3)
-    out = {best}
-    for d in (-2, -1, 1, 2):                 # table can span consecutive pages
-        j = best + d
-        if 0 <= j < len(nat) and (nat[j] >= 2 or sec[j]):
-            out.add(j)
-    return sorted(out)
+    n = len(nat)
+    rows = [i for i in range(n) if nat[i] >= 2]   # pages that actually contain table rows
+    if not rows:                                  # table is a scanned image -> whole PDF
+        return None
+    # anchor on the row page whose section keywords are densest = the founder section.
+    # restricting to row pages stops the keyword-only TOC (nat=0) from winning.
+    peak = max(rows, key=lambda i: nat[i] + sec[i] * 3)
+
+    def hot(i):                               # a founder-section page: rows or a title
+        return 0 <= i < n and (nat[i] >= 2 or sec[i])
+    lo = hi = peak
+    while True:                               # extend to the farthest founder page within
+        nlo = min((j for j in range(max(0, lo - 6), lo) if hot(j)), default=lo)  # ~6-page
+        nhi = max((j for j in range(hi + 1, min(n, hi + 7)) if hot(j)), default=hi)  # reach
+        if (nlo, nhi) == (lo, hi):            # — bridges the gap to the affiliations table
+            break
+        lo, hi = nlo, nhi
+    if hi - lo + 1 > 14:                       # runaway (funds/debentures) -> bound it
+        lo, hi = max(0, peak - 4), min(n - 1, peak + 9)
+    return list(range(lo, hi + 1))
 
 
 def slice_pdf(pdf_bytes, indices):
