@@ -3,43 +3,505 @@
   "source_title": "Ridge Line Energy Ltd.-General Public",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/02/11/PKcps0tCSjqiNU771kWbj3Ox9kU3dzpaeFE2xTNr.pdf",
   "issue_date": "2026-02-11",
-  "extracted_at": "2026-06-22T09:26:43+00:00",
+  "extracted_at": "2026-06-22T10:50:06+00:00",
   "total_pages": 65,
   "table_pages": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
     28,
     29,
     30
   ],
   "counts": {
-    "shareholders": 0,
-    "directors": 0,
+    "shareholders": 24,
+    "directors": 7,
     "director_affiliations": 6
   },
   "llm_cost": {
-    "in": 2008,
-    "out": 1074,
-    "cost_usd": 0.0033
+    "in": 6868,
+    "out": 6046,
+    "cost_usd": 0.0172
   },
-  "shareholders": [],
-  "directors": [],
+  "shareholders": [
+    {
+      "sn": 1,
+      "name": "रेवन्त कुमार रावत",
+      "address": "जिल्ला सल्यान साविक बामे गा.वि.स. वडा नं. ८ को हाल परिवर्तित बनगाड कुपिण्डे न.पा. वडा नं. ३",
+      "age": 42,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर, ईन्जिनियरिङ",
+      "shares": 390785,
+      "share_percent": null,
+      "experience": "ईन्जिनियरिङ कार्य",
+      "experience_sectors": [
+        "ईन्जिनियरिङ"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 2,
+      "name": "ओपेन्द्र हमाल",
+      "address": "जिल्ला सल्यान साविक खलङ्गा गा.वि.स. वडा नं. ५ को हाल परिवर्तित शारदा न.पा. वडा नं. १",
+      "age": 43,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर, ईन्जिनियरिङ",
+      "shares": 351397,
+      "share_percent": null,
+      "experience": "ईन्जिनियरिङ कार्य",
+      "experience_sectors": [
+        "ईन्जिनियरिङ"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 3,
+      "name": "प्रकाश तिवारी",
+      "address": "जिल्ला गोरखा साविक खोप्लाङ्ग गा.वि.स. वडा नं. २ को हाल परिवर्तित पालुङ्गटार न.पा. वडा नं. २",
+      "age": 44,
+      "nationality": "नेपाली",
+      "education": "डिप्लोमा",
+      "shares": 100000,
+      "share_percent": null,
+      "experience": "व्यापार",
+      "experience_sectors": [
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "प्रदिप राज गिरी",
+      "address": "जिल्ला कास्की साविक पोखरा उप.म.न.पा वडा नं. ८ को हाल परिवर्तित पोखरा म.न.पा वडा नं. ८",
+      "age": 43,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर, अंग्रेजी",
+      "shares": 189973,
+      "share_percent": null,
+      "experience": "शिक्षक",
+      "experience_sectors": [
+        "शिक्षा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 5,
+      "name": "बसन्त गिरी",
+      "address": "जिल्ला दाङ्ग साविक लालमटिया गा.वि.स. वडा नं. ५ को हाल परिवर्तित राप्ती गा.पा. वडा नं. ४",
+      "age": 44,
+      "nationality": "नेपाली",
+      "education": "पि.एच.डि, विज्ञान",
+      "shares": 376104,
+      "share_percent": null,
+      "experience": "विज्ञान सम्बन्धि कार्य",
+      "experience_sectors": [
+        "विज्ञान"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 6,
+      "name": "दिपेन्द्र हमाल",
+      "address": "जिल्ला सल्यान साविक खलङ्गा गा.वि.स. वडा नं. ५ को हाल परिवर्तित शारदा न.पा. वडा नं. ५",
+      "age": 39,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 127512,
+      "share_percent": null,
+      "experience": "व्यापार",
+      "experience_sectors": [
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 7,
+      "name": "महेश बहादुर हमाल",
+      "address": "जिल्ला दाङ्ग साविक पञ्चकुले गा.वि.स. वडा नं. ३ को हाल परिवर्तित बबै गा.पा. वडा नं. ६",
+      "age": 50,
+      "nationality": "नेपाली",
+      "education": "डिप्लोमा",
+      "shares": 94000,
+      "share_percent": null,
+      "experience": "व्यापार",
+      "experience_sectors": [
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 8,
+      "name": "प्रविण गिरी",
+      "address": "जिल्ला प्युठान साविक तोर्बाङ्ग वडा नं. १ को हाल परिवर्तित भिमरुक गा.पा वडा नं. ६",
+      "age": 40,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 225500,
+      "share_percent": null,
+      "experience": "कन्सल्टेन्ट",
+      "experience_sectors": [
+        "परामर्श"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 9,
+      "name": "मोहन सारु",
+      "address": "जिल्ला सल्यान साविक रामपुर गा.वि.स. वडा नं. २ को हाल परिवर्तित कालीमाटी गा. पा. वडा नं. ३",
+      "age": 45,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 100000,
+      "share_percent": null,
+      "experience": "व्यापार",
+      "experience_sectors": [
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 10,
+      "name": "नारायण कडेल",
+      "address": "जिल्ला बाग्लुङ्ग साविक बिहुँ गा.वि.स. वडा नं. १ को हाल परिवर्तित काठेखोला गा.पा. वडा नं. ६",
+      "age": 34,
+      "nationality": "नेपाली",
+      "education": "चार्टर एकाउन्टेन्ट",
+      "shares": 205322,
+      "share_percent": null,
+      "experience": "चार्टर एकाउन्टेन्ट",
+      "experience_sectors": [
+        "लेखा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 11,
+      "name": "गोपाल प्रसाद निउरे",
+      "address": "जिल्ला चितवन साविक मंगलपुर गा.वि.स. वडा नं. २ को हाल परिवर्तित भरतपुर म.न.पा वडा नं. १५",
+      "age": 46,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर, ईन्जिनियरिङ",
+      "shares": 130650,
+      "share_percent": null,
+      "experience": "ईन्जिनियरिङ कार्य",
+      "experience_sectors": [
+        "ईन्जिनियरिङ"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 12,
+      "name": "राजेन्द्र कुमार बि.सि.",
+      "address": "जिल्ला सल्यान साविक देवस्थल गा.वि.स. वडा नं. ९ को हाल परिवर्तित बनगाड कुपिण्डे न.पा. वडा नं. १",
+      "age": 46,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर, ईन्जिनियरिङ",
+      "shares": 252000,
+      "share_percent": null,
+      "experience": "ईन्जिनियरिङ कार्य",
+      "experience_sectors": [
+        "ईन्जिनियरिङ"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 13,
+      "name": "प्रतिमा तिवारी",
+      "address": "जिल्ला गोरखा साविक खोप्लाङ्ग गा.वि.स. वडा नं. २ को हाल परिवर्तित पालुङ्गटार न.पा. वडा नं. २",
+      "age": 42,
+      "nationality": "नेपाली",
+      "education": "स्नातक, ईन्जिनियरिङ",
+      "shares": 250000,
+      "share_percent": null,
+      "experience": "ईन्जिनियरिङ कार्य",
+      "experience_sectors": [
+        "ईन्जिनियरिङ"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 14,
+      "name": "शुभकामना न्यौपाने",
+      "address": "प्यारजुङ वडा नं ४, लमजुङ",
+      "age": 42,
+      "nationality": "नेपाली",
+      "education": "साक्षर",
+      "shares": 129000,
+      "share_percent": null,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 15,
+      "name": "पूजा हमाल",
+      "address": "धनगढी न.पा.वडा नं. ५, कैलाली",
+      "age": 44,
+      "nationality": "नेपाली",
+      "education": "साक्षर",
+      "shares": 100000,
+      "share_percent": null,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 16,
+      "name": "सरिता गिरी",
+      "address": "लालमटिया वडा नं -५, दाङ",
+      "age": 42,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर, नर्सिङ",
+      "shares": 99040,
+      "share_percent": null,
+      "experience": "नर्सिङ",
+      "experience_sectors": [
+        "स्वास्थ्य"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 17,
+      "name": "निशा प्रधानाङ्ग",
+      "address": "मध्यपुरठिमी वडा नं ४",
+      "age": 37,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 100000,
+      "share_percent": null,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 18,
+      "name": "मुक्तिनाथ क्यापिटल लिमिटेड",
+      "address": "काठमाण्डौ महानगरपलीका वडा नं.:- ११, काठमाण्डौ",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 200000,
+      "share_percent": null,
+      "experience": "शेयर प्रत्याभूति, प्रारम्भिक सार्वजनिक शेयर निष्काशन, डिम्याट, शेयर रजिस्ट्रार, संस्थागत परामर्श सम्बन्धि कार्य",
+      "experience_sectors": [
+        "मर्चेन्ट बैंकिङ"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 19,
+      "name": "सोपान मल्टिपल कम्पनी लिमिटेड",
+      "address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. १४",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 1000000,
+      "share_percent": null,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 20,
+      "name": "प्रभु डायनामिक प्राइभेट इक्विटी फन्ड-१",
+      "address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. २८",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 100000,
+      "share_percent": null,
+      "experience": "प्राइभेट इक्विटी सम्बन्धी कार्य गर्न धितोपत्र बोर्डमा दर्ता रहि विभिन्न कम्पनीहरुको इक्विटीमा लगानी गर्ने कोषको रुपमा आवद्ध रहेको ।",
+      "experience_sectors": [
+        "लगानी"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 21,
+      "name": "अशोक कुमार खडका",
+      "address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. ९",
+      "age": 56,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर (व्यवस्थापन)",
+      "shares": 140000,
+      "share_percent": null,
+      "experience": "बैंक तथा वित्तीय क्षेत्रमा विगत २५ वर्षको कार्य अनुभव, नेको इन्सुरेन्स लि.मा २०७६ साल देखि प्रमुख कार्यकारी अधिकृतमा हाल सम्म कार्यरत ।",
+      "experience_sectors": [
+        "बैंकिङ",
+        "बीमा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 22,
+      "name": "श्रीश खड्का",
+      "address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. ९",
+      "age": 23,
+      "nationality": "नेपाली",
+      "education": "साक्षर",
+      "shares": 175000,
+      "share_percent": null,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 23,
+      "name": "सुचित्रा सिजापती",
+      "address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. ९",
+      "age": 44,
+      "nationality": "नेपाली",
+      "education": "साक्षर",
+      "shares": 150000,
+      "share_percent": null,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 24,
+      "name": "विशाल ग्रुप लिमिटेड",
+      "address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. ११",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 100000,
+      "share_percent": null,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    }
+  ],
+  "directors": [
+    {
+      "sn": 1,
+      "name": "बसन्त गिरी",
+      "address": "राप्ती गा.पा.-०४, दाङ",
+      "position": "अध्यक्ष",
+      "nationality": "नेपाली",
+      "shares": 376104,
+      "education": "पि. एच. डि., रसायन शास्त्र, वायोमिङ विश्वविद्यालय, अमेरिका",
+      "experience": "विगत ६ वर्ष देखि जलविद्युत क्षेत्रमा अनुभव रहेको हाल रिज लाईन इनर्जी लि. मा अध्यक्षको रुपमा आवद्ध रहेको (२०७४/०२/२२-हालसम्म)",
+      "experience_sectors": [
+        "जलविद्युत"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 2,
+      "name": "प्रविप राज गिरी",
+      "address": "पोखरा म.न.पा.लि-८, कास्की",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 189973,
+      "education": "एम. फिल., अंग्रेजी",
+      "experience": "विगत ६ वर्ष देखि जलविद्युत क्षेत्रमा अनुभव रहेको हाल रिज लाईन इनर्जी लि. मा संचालकको रुपमा आवद्ध रहेको (२०७४/०२/२२-हालसम्म)",
+      "experience_sectors": [
+        "जलविद्युत",
+        "शिक्षा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 3,
+      "name": "अशोक कुमार खडका",
+      "address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. ९",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 10000,
+      "education": "स्नातकोत्तर (व्यवस्थापन)",
+      "experience": "हाल रिज लाईन इनर्जी लि. मा संचालकको रुपमा आवद्ध रहेको ।",
+      "experience_sectors": [
+        "जलविद्युत",
+        "बीमा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "नारायण कंडेल",
+      "address": "काठेखोला गा.पा.-६, बागलुङ",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 205322,
+      "education": "चार्टर एकाउन्टेन्ट",
+      "experience": "विगत ६ वर्ष देखि जलविद्युत क्षेत्रमा अनुभव रहेको हाल रिज लाईन इनर्जी लि. मा संचालकको रुपमा आवद्ध रहेको (२०७४/०२/२२-हालसम्म) र अन्य जलविद्युत आयोजनामा वित्तीय परामर्श गर्दै ।",
+      "experience_sectors": [
+        "जलविद्युत",
+        "वित्तीय परामर्श"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 5,
+      "name": "दिपेन्द्र हमाल",
+      "address": "शारदा न.पा.-५, सल्यान",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 127512,
+      "education": "स्नातक, सूचना प्रविधि, शिक्षा त्रिभुवन विश्वविद्यालय, नेपाल",
+      "experience": "विगत ६ वर्ष देखि जलविद्युत क्षेत्रमा अनुभव रहेको हाल रिज लाईन इनर्जी लि. मा संचालकको रुपमा आवद्ध रहेको (२०७४/०२/२२-हालसम्म)",
+      "experience_sectors": [
+        "जलविद्युत",
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 6,
+      "name": "प्रतिमा तिवारी",
+      "address": "पालुङ्गटार न.पा -२, गोरखा",
+      "position": "संचालक (महिला)",
+      "nationality": "नेपाली",
+      "shares": 250000,
+      "education": "स्नातक सिभिल इन्जिनियरिङ त्रिभुवन विश्वविद्यालय, प.अ.स. पश्चिमाञ्चल क्याम्पस, पोखरा",
+      "experience": "विगत ३ वर्ष देखि जलविद्युत क्षेत्रमा अनुभव रहेको हाल रिज लाईन इनर्जी लि. मा संचालकको रुपमा आवद्ध रहेको (२०८०/०६/०३ - हालसम्म)",
+      "experience_sectors": [
+        "जलविद्युत",
+        "निर्माण"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 7,
+      "name": "डा.विनोद पोखरेल",
+      "address": "कागेश्वरी मनोहरा न.पा-४, काठमाण्डौ",
+      "position": "स्वतन्त्र संचालक",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "पि. एच. डि., एटमोस्फेरिक विज्ञान",
+      "experience": "विगत २० वर्ष देखि जलविद्युत क्षेत्रमा अनुभव रहेको हाल रिज लाईन इनर्जी लि. मा संचालकको रुपमा आवद्ध रहेको (२०८०/०६/०३ - हालसम्म)",
+      "experience_sectors": [
+        "जलविद्युत",
+        "शिक्षा"
+      ],
+      "proposed_business": null
+    }
+  ],
   "director_affiliations": [
     {
       "director_name": "बसन्त गिरी",
-      "director_address": "राप्ति गा.पा.-०४, दाङ",
+      "director_address": "राप्ती गा.पा.-०४, दाङ",
       "affiliations": [
         {
-          "company": "नेशनल यूथ एकेडेमी अफ नेपाल",
+          "company": "नेशनल युथ एकेडेमी अफ नेपाल",
           "address": null,
           "role": "अध्यक्ष",
-          "from": null,
-          "to": null
+          "from": "2076/09/09",
+          "to": "2080/07/29"
         },
         {
-          "company": "काठमाडौँ इन्स्टिच्युट अफ एप्लाइड साईन्सेस",
-          "address": null,
-          "role": "अध्यक्ष",
-          "from": null,
-          "to": null
+          "company": "काठमाण्डौ इन्स्टिच्युट अफ अप्लाइड साइन्सेज",
+          "address": "काठमाण्डौ",
+          "role": "संचालक",
+          "from": "2071/06/15",
+          "to": "हालसम्म"
         },
         {
           "company": "काङ हाइड्रोपावर लिमिटेड",
@@ -49,7 +511,7 @@
           "to": null
         },
         {
-          "company": "वाग्लुङ पावर प्राइभेट लिमिटेड",
+          "company": "बागलुङ पावर प्राइभेट लिमिटेड",
           "address": null,
           "role": "संचालक",
           "from": null,
@@ -58,15 +520,15 @@
       ]
     },
     {
-      "director_name": "अशोक कुमार खड्का",
-      "director_address": "का.म.न.पा.-९, काठमाडौँ",
+      "director_name": "अशोक कुमार खडका",
+      "director_address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. ९",
       "affiliations": [
         {
           "company": "नेको इन्सुरेन्स लिमिटेड",
           "address": null,
           "role": "प्रमुख कार्यकारी अधिकृत",
-          "from": null,
-          "to": null
+          "from": "2076",
+          "to": "हालसम्म"
         }
       ]
     },
@@ -82,7 +544,7 @@
           "to": null
         },
         {
-          "company": "वाग्लुङ power प्राइभेट लिमिटेड",
+          "company": "बागलुङ पावर प्राइभेट लिमिटेड",
           "address": null,
           "role": "संचालक",
           "from": null,
@@ -96,17 +558,24 @@
           "to": null
         },
         {
-          "company": "दुधपोखरी चेपे हाइड्रोपावर लिमिटेड",
+          "company": "दूधपोखरी चेपे हाइड्रोपावर लिमिटेड",
           "address": null,
           "role": "संचालक",
           "from": null,
+          "to": null
+        },
+        {
+          "company": "त्रिभुवन विश्वविद्यालय, रत्न राज्य लक्ष्मी क्याम्पस, खोपा क्याम्पस र सन साइन क्याम्पस",
+          "address": null,
+          "role": "उप प्राध्यापक - अंग्रेजी केन्द्रीय विभाग",
+          "from": "2068/09/25",
           "to": null
         }
       ]
     },
     {
-      "director_name": "नारायण कंडेल",
-      "director_address": "काठेखोला गा.पा.-६, बाग्लुङ",
+      "director_name": "नारायण कडेल",
+      "director_address": "काठेखोला गा.पा-६, बागलुङ",
       "affiliations": [
         {
           "company": "आमोद क्यापिटल्स प्रा.लि.",
@@ -116,24 +585,31 @@
           "to": null
         },
         {
-          "company": "दुधपोखरी चेपे हाइड्रोपावर लिमिटेड",
+          "company": "दूधपोखरी चेपे हाइड्रोपावर लिमिटेड",
           "address": null,
           "role": "संचालक",
           "from": null,
           "to": null
         },
         {
-          "company": "वाग्लुङ पावर प्राइभेट लिमिटेड",
+          "company": "बागलुङ पावर प्राइभेट लिमिटेड",
           "address": null,
           "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "कंडेल एण्ड एशोसिएट",
+          "address": null,
+          "role": "पार्टनर / वित्तीय व्यवस्थापक",
           "from": null,
           "to": null
         }
       ]
     },
     {
-      "director_name": "डा. विनोद पोखरेल",
-      "director_address": "कागेश्वरी मनोहरा न.पा.-४, काठमाडौँ",
+      "director_name": "डा.विनोद पोखरेल",
+      "director_address": "कागेश्वरी मनोहरा न.पा-४, काठमाण्डौ",
       "affiliations": [
         {
           "company": "रिचाम कन्सल्ट प्रा.लि.",
@@ -141,15 +617,22 @@
           "role": "संचालक",
           "from": null,
           "to": null
+        },
+        {
+          "company": "त्रिभुवन विश्वविद्यालय, हाइड्रोलोजी एण्ड मौसम विज्ञान केन्द्रीय विभाग",
+          "address": null,
+          "role": "एसोसिएट प्रोफेसर",
+          "from": null,
+          "to": null
         }
       ]
     },
     {
       "director_name": "प्रतिमा तिवारी",
-      "director_address": "पालुङटार न.पा.-२, गोरखा",
+      "director_address": "पालुङ्गटार न.पा -२, गोरखा",
       "affiliations": [
         {
-          "company": "एप्लाइड इन्जिनियरिङ्ग प्रा.लि.",
+          "company": "अप्लाइड इन्जिनियरिङ्ग प्रा.लि.",
           "address": null,
           "role": "अध्यक्ष",
           "from": null,

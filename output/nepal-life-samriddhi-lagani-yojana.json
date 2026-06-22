@@ -1,0 +1,1219 @@
+{
+  "company": "Nepal Life Samriddhi Lagani Yojana",
+  "source_title": "Nepal Life Samriddhi Lagani Yojana-Mutual Fund",
+  "prospectus_url": "https://sebon.gov.np/uploads/2026/01/16/F2DygwN5jngt6ofVw6iss0tHsbTISrUCvB4303Za.pdf",
+  "issue_date": "2026-01-16",
+  "extracted_at": "2026-06-22T10:53:10+00:00",
+  "total_pages": 55,
+  "table_pages": [
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "counts": {
+    "shareholders": 69,
+    "directors": 5,
+    "director_affiliations": 5
+  },
+  "llm_cost": {
+    "in": 6772,
+    "out": 11427,
+    "cost_usd": 0.0306
+  },
+  "shareholders": [
+    {
+      "sn": 1,
+      "name": "नेपाल लाइफ इन्स्योरेन्स कम्पनी लिमिटेड",
+      "address": "का.जि.का.म.न.पा. वडा नं. २८ कमलादी",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "लागू नहुने",
+      "shares": 2295000,
+      "share_percent": 53.78,
+      "experience": "लागू नहुने",
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 2,
+      "name": "नविन वास्कोटा",
+      "address": "काभ्रे जिल्ला नयाँ गाउँ गा.वि.स. वडा नं. १",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 102031,
+      "share_percent": 2.39,
+      "experience": "वित्तीय क्षेत्रमा १५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 3,
+      "name": "अशोक गौतम",
+      "address": "सुर्खेत जिल्ला विरेन्द्रनगर न.पा. वडा नं. १०",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 97827,
+      "share_percent": 2.29,
+      "experience": "सूचना प्रविधि क्षेत्रमा १२ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "सूचना प्रविधि"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "अरुण गौतम",
+      "address": "काठमाण्डौ जिल्ला नैकाप पु.भ.गा.वि.स. वडा नं. ६",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 56297,
+      "share_percent": 1.32,
+      "experience": "सूचना प्रविधि क्षेत्रमा १० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "सूचना प्रविधि"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 5,
+      "name": "अन्जु न्यौपाने",
+      "address": "का.जि.का.म.न.पा. वडा नं. १०",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "आई. ए.",
+      "shares": 38658,
+      "share_percent": 0.91,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 6,
+      "name": "जीवलाल खतिवडा",
+      "address": "चितवन जिल्ला पञ्चकन्या न.पा. वडा नं. ७",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 12886,
+      "share_percent": 0.3,
+      "experience": "दूरसञ्चार कम्पनीमा ३० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "दूरसञ्चार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 7,
+      "name": "शान्ति केसी",
+      "address": "दाङ जिल्ला, घोराही",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 25772,
+      "share_percent": 0.6,
+      "experience": "शिक्षण क्षेत्रमा १० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "शिक्षण"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 8,
+      "name": "यज्ञ लक्ष्मी कुँवर",
+      "address": "काठमाण्डौ जिल्ला, भद्रकाली गा.वि.स वडा नं. ८",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "प्रमाणपत्र तह",
+      "shares": 12886,
+      "share_percent": 0.3,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 9,
+      "name": "सुमिता शर्मा",
+      "address": "बर्दिया जिल्ला गुलरिया गा.वि.स. वडा नं. ३",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 25772,
+      "share_percent": 0.6,
+      "experience": "शिक्षण क्षेत्रमा ५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "शिक्षण"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 10,
+      "name": "सुस्मिता न्यौपाने",
+      "address": "सिन्धुपाल्चोक जिल्ला पिपल डाँडा गा.वि.स. वडा नं. ३",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "प्रमाणपत्र तह",
+      "shares": 28994,
+      "share_percent": 0.68,
+      "experience": "सरकारी सेवामा ५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "सरकारी सेवा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 11,
+      "name": "सुनिल कुमार देवकोटा",
+      "address": "का.जि.का.म.न.पा वडा नं. १७ क्षेत्रपाटी",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 12203,
+      "share_percent": 0.29,
+      "experience": "व्यापार व्यवसायमा १८ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "व्यापार व्यवसाय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 12,
+      "name": "सुशिल न्यौपाने",
+      "address": "सिन्धुपाल्चोक जिल्ला बाडे गा.वि.स. वडा नं. ३",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 15464,
+      "share_percent": 0.36,
+      "experience": "लेखा र वित्तीय क्षेत्रमा ७ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "लेखा",
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 13,
+      "name": "निरेन्द्र प्रसाद अर्याल",
+      "address": "काठमाण्डौ जिल्ला,का.म.न.पा.वडा नं. ३३",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 10151,
+      "share_percent": 0.24,
+      "experience": "सरकारी सेवामा ३५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "सरकारी सेवा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 14,
+      "name": "पुरुषोत्तम थापा",
+      "address": "भक्तपुर जिल्ला, सिराटार गा.वि.स. वडा नं. ९",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 15148,
+      "share_percent": 0.35,
+      "experience": "शिक्षण, लेखा र वित्तीय क्षेत्रमा १५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "शिक्षण",
+        "लेखा",
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 15,
+      "name": "हरिशरण थापा मगर",
+      "address": "भक्तपुर जिल्ला गुण्डु गा.वि.स. वडा नं. ८",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "प्रमाणपत्र तह",
+      "shares": 7040,
+      "share_percent": 0.16,
+      "experience": "पर्यटन क्षेत्रमा १० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "पर्यटन"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 16,
+      "name": "साधुराम वास्कोटा",
+      "address": "काभ्रे जिल्ला नयाँ गाँउ गा.वि.स. वडा नं. १",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 2420,
+      "share_percent": 0.06,
+      "experience": "शिक्षण क्षेत्रमा २० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "शिक्षण"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 17,
+      "name": "विक्रम श्रेष्ठ",
+      "address": "सिन्धुपाल्चोक जिल्ला बासवारी गा.वि.स. वडा नं. ७",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 15000,
+      "share_percent": 0.35,
+      "experience": "सूचना प्रविधि क्षेत्रमा २० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "सूचना प्रविधि"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 18,
+      "name": "राजन घिमिरे",
+      "address": "झापा जिल्ला, चन्द्रगढी न.पा.वडा नं.",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 2577,
+      "share_percent": 0.06,
+      "experience": "लेखा र वित्तीय क्षेत्रमा १४ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "लेखा",
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 19,
+      "name": "विनय कर्माचार्य",
+      "address": "का.जि.का.म.न.पा. वडा नं. ११",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 5800,
+      "share_percent": 0.14,
+      "experience": "लेखा र वित्तीय क्षेत्रमा १५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "लेखा",
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 20,
+      "name": "श्रीधर ढुङ्गाना",
+      "address": "भक्तपुर जिल्ला ताथली गा.वि.स. वडा नं. १",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 5154,
+      "share_percent": 0.12,
+      "experience": "वित्तीय क्षेत्रमा १५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 21,
+      "name": "सुजाता अर्याल",
+      "address": "भक्तपुर जिल्ला कटुञ्जे गा.वि.स. वडा नं. ७",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 5154,
+      "share_percent": 0.12,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 22,
+      "name": "नकुल ढकाल",
+      "address": "सिन्धुपाल्चोक जिल्ला बासवारी गा.वि.स.वडा नं. ४",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 5154,
+      "share_percent": 0.12,
+      "experience": "शिक्षण क्षेत्रमा १० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "शिक्षण"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 23,
+      "name": "बाबुराम कोइराला",
+      "address": "सिन्धुपाल्चोक जिल्ला बाडेगाउ गा.वि.स. वडा नं. २",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 7731,
+      "share_percent": 0.18,
+      "experience": "लेखा र वित्तीय क्षेत्रमा २० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "लेखा",
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 24,
+      "name": "गिता खनाल",
+      "address": "पाल्पा जिल्ला कुसुमखोला गा.वि.स. वडा नं. ६",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 7731,
+      "share_percent": 0.18,
+      "experience": "वित्तीय क्षेत्रमा १० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 25,
+      "name": "निर्मला शर्मा",
+      "address": "बर्दिया जिल्ला ताराताल गा.वि.स. वडा नं. ६",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 38658,
+      "share_percent": 0.91,
+      "experience": "वित्तीय क्षेत्रमा ६ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 26,
+      "name": "इन्द्र प्रसाद शर्मा न्यौपाने",
+      "address": "सि.पा.जि. पिपलडाँडा गा.वि.स. वडा नं. ३",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 32858,
+      "share_percent": 0.77,
+      "experience": "सरकारी सेवामा ३० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "सरकारी सेवा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 27,
+      "name": "अन्जु शर्मा",
+      "address": "मकवानपुर जिल्ला हेटौडा न.पा. वडा नं. ३",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "प्रमाणपत्र तह",
+      "shares": 10450,
+      "share_percent": 0.24,
+      "experience": "सरकारी सेवामा १८ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "सरकारी सेवा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 28,
+      "name": "विनोद सिंह",
+      "address": "काठमाण्डौ जिल्ला का.म.न.पा.वडा नं. ३",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 5154,
+      "share_percent": 0.12,
+      "experience": "सरकारी सेवामा ३० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "सरकारी सेवा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 29,
+      "name": "सुरेश कुमार अग्रवाल",
+      "address": "सुनसरी जिल्ला धरान न.पा. वडा नं. ५",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 154638,
+      "share_percent": 3.62,
+      "experience": "व्यापार व्यवसायमा ४० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "व्यापार व्यवसाय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 30,
+      "name": "विनोद ढकाल",
+      "address": "सिन्धुपाल्चोक बांसवारी गा.वि.स.वडा नं. ४",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 25773,
+      "share_percent": 0.6,
+      "experience": "वित्तीय क्षेत्रमा २० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 31,
+      "name": "विभोर वराल",
+      "address": "काठमाण्डौ जिल्ला का.म.न.पा वडा नं. ५",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 19329,
+      "share_percent": 0.45,
+      "experience": "सूचना प्रविधि क्षेत्रमा १५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "सूचना प्रविधि"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 32,
+      "name": "उपमा पोखरेल",
+      "address": "काठमाण्डौ जिल्ला, गोठाटार गा.वि.स.वडा नं.२",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 1210,
+      "share_percent": 0.03,
+      "experience": "कानून व्यवसायी को रुपमा ९ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "कानून"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 33,
+      "name": "विमला देवी (विष्ट) गौतम",
+      "address": "काठमाण्डौ जिल्ला का.म.न.पा. वडा नं. ६",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 12886,
+      "share_percent": 0.3,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 34,
+      "name": "सुमित्रा वास्कोटा",
+      "address": "काभ्रेपलाञ्चोक जिल्ला नयाँ गाउँ गा.वि.स.वडा नं. १",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 23147,
+      "share_percent": 0.54,
+      "experience": "गैर सरकारी संस्थामा ८ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "गैर सरकारी संस्था"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 35,
+      "name": "बलराम बास्कोटा",
+      "address": "काठमाण्डौ जिल्ला का.म.न.पा वडा नं. ६",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "प्रमाणपत्र तह",
+      "shares": 2420,
+      "share_percent": 0.06,
+      "experience": "व्यापार व्यवसायमा २० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "व्यापार व्यवसाय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 36,
+      "name": "कृष्ण गोविन्द खमाली",
+      "address": "भक्तपुर जिल्ला भ.न.पा वडा नं. ७",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 6366,
+      "share_percent": 0.15,
+      "experience": "इञ्जिनियरिङ्ग क्षेत्रमा १७ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "इञ्जिनियरिङ्ग"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 37,
+      "name": "युवराज न्यौपाने",
+      "address": "काभ्रे जिल्ला, धुलिखेल न.पा.",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 23193,
+      "share_percent": 0.54,
+      "experience": "सूचना प्रविधि क्षेत्रमा १८ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "सूचना प्रविधि"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 38,
+      "name": "सन्तोष कुमार ढकाल",
+      "address": "सिन्धुपाल्चोक जिल्ला बांसवारी गा.वि.स. वडा नं. ४",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 3630,
+      "share_percent": 0.09,
+      "experience": "लेखा र वित्तीय क्षेत्रमा १५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "लेखा",
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 39,
+      "name": "मनोरञ्जन रमण शर्मा",
+      "address": "काठमाण्डौ जिल्ला का.म.न.पा वडा नं. १६",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 7731,
+      "share_percent": 0.18,
+      "experience": "वित्तीय क्षेत्रमा २४ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 40,
+      "name": "मैत्रीमान कंसाकार",
+      "address": "काठमाण्डौ जिल्ला का.म.न.पा वडा नं. २७",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 9500,
+      "share_percent": 0.22,
+      "experience": "व्यापार व्यवसायमा ४० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "व्यापार व्यवसाय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 41,
+      "name": "पवन कुमार कडेल",
+      "address": "रामेछाप जिल्ला, टोकुरपुर गा.वि.स. वडा नं. १",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 23970,
+      "share_percent": 0.56,
+      "experience": "उत्पादन क्षेत्रमा २५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "उत्पादन"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 42,
+      "name": "एपोलो भट्टराई",
+      "address": "मोरङ्ग जिल्ला, पथरी, गा.वि.स. वडा नं. १",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 2577,
+      "share_percent": 0.06,
+      "experience": "शिक्षण क्षेत्रमा १० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "शिक्षण"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 43,
+      "name": "पुण्य प्रसाद पौडेल",
+      "address": "काठमाण्डौ जिल्ला का.म.न.पा वडा नं. ४",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 12886,
+      "share_percent": 0.3,
+      "experience": "विभिन्न परियोजनाहरूमा २० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "परियोजना"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 44,
+      "name": "सुस्मा खरेल",
+      "address": "काभ्रेपाल्चोक जिल्ला भुम्लुटार गा.वि.स.वडा नं.५",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 15306,
+      "share_percent": 0.36,
+      "experience": "वित्तीय क्षेत्रमा ७ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 45,
+      "name": "माधव भण्डारी",
+      "address": "बागलुङ्ग जिल्ला हटिया गा.वि.स. वडा नं. ३",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 9075,
+      "share_percent": 0.21,
+      "experience": "मानव संसाधन क्षेत्रमा २० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "मानव संसाधन"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 46,
+      "name": "सावित्रा ढकाल",
+      "address": "सिन्धुपाल्चोक जिल्ला बासवारी गा.वि.स.वडा नं. ४",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "उच्च माध्यमिक",
+      "shares": 5154,
+      "share_percent": 0.12,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 47,
+      "name": "विमला जोशी",
+      "address": "काठमाण्डौ जिल्ला, जोरपाटी गा.वि.स. वडा नं. २",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 25772,
+      "share_percent": 0.6,
+      "experience": "वित्तीय क्षेत्रमा १५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 48,
+      "name": "दिपेन्द्र विष्ट",
+      "address": "बर्दिया जिल्ला नेउलापुर गा.वि.स. वडा नं. ९",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 12886,
+      "share_percent": 0.3,
+      "experience": "व्यापार व्यवसायमा १५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "व्यापार व्यवसाय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 49,
+      "name": "अब्दुल करीम खान",
+      "address": "बाके जिल्ला, सोनपुर गा.वि.स. वडा नं. ७",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "चार्टर्ड एकाउन्टेन्ट",
+      "shares": 22886,
+      "share_percent": 0.54,
+      "experience": "लेखा र वित्तीय क्षेत्रमा ३० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "लेखा",
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 50,
+      "name": "सुर्य प्रसाद लामिछाने",
+      "address": "काठमाण्डौ जिल्ला, किर्तिपुर न.पा वडा नं. ५",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 38660,
+      "share_percent": 0.91,
+      "experience": "व्यापार व्यवसायमा ८ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "व्यापार व्यवसाय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 51,
+      "name": "ममता दाहाल",
+      "address": "गोरखा जिल्ला, तान्द्राङ्ग गा.वि.स. वडा नं.३",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 4886,
+      "share_percent": 0.11,
+      "experience": "लेखा, मानव संसाधन, र शिक्षण क्षेत्रमा १५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "लेखा",
+        "मानव संसाधन",
+        "शिक्षण"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 52,
+      "name": "सुरेश कुमार अग्रवाल (ख)",
+      "address": "सुनसरी जिल्ला धरान न.पा. वडा नं. २",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 131698,
+      "share_percent": 3.09,
+      "experience": "इञ्जिनियरिङ्ग क्षेत्र र सरकारी सेवामा ४० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "इञ्जिनियरिङ्ग",
+        "सरकारी सेवा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 53,
+      "name": "रत्नदेवी महर्जन",
+      "address": "ललितपुर जिल्ला, सिद्धिपुर गा.वि.स. वडा नं. ६",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 7474,
+      "share_percent": 0.18,
+      "experience": "अन्तर्राष्ट्रिय गैर सरकारी संस्थामा २५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "गैर सरकारी संस्था"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 54,
+      "name": "शिव राम नेपाल",
+      "address": "काभ्रे जिल्ला,चण्डेनी मण्डन गा.वि.स वडा नं १",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 7000,
+      "share_percent": 0.16,
+      "experience": "व्यापार व्यवसायमा ४५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "व्यापार व्यवसाय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 55,
+      "name": "दीपेन्द्र तिवारी",
+      "address": "बारा जिल्ला, डुमरवाना गा.वि.स वडा नं.४",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "चार्टर्ड एकाउन्टेन्ट",
+      "shares": 11000,
+      "share_percent": 0.26,
+      "experience": "लेखा र वित्तीय क्षेत्रमा १५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "लेखा",
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 56,
+      "name": "रेनुका ढकाल",
+      "address": "सिन्धुपाल्चोक जिल्ला, बासवारी गा.वि.स वडा नं.४",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 21876,
+      "share_percent": 0.51,
+      "experience": "पत्रकारिता, गैर सरकारी संस्था र शिक्षण क्षेत्रमा १० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "पत्रकारिता",
+        "गैर सरकारी संस्था",
+        "शिक्षण"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 57,
+      "name": "युगेश भक्त बादे श्रेष्ठ",
+      "address": "का.जि.का.म.न.पा.वडा नं.१७",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 16500,
+      "share_percent": 0.39,
+      "experience": "बीमा क्षेत्रमा २९ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "बीमा"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 58,
+      "name": "उद्धव प्रसाद नेपाल",
+      "address": "काभ्रे जिल्ला,चण्डेनी मण्डन गा.वि.स.वडा नं. १",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 2734,
+      "share_percent": 0.06,
+      "experience": "व्यापार व्यवसायमा २५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "व्यापार व्यवसाय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 59,
+      "name": "कामना उपाध्याय",
+      "address": "काठमाण्डौवडा नं ७ चावहिल",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 38284,
+      "share_percent": 0.9,
+      "experience": null,
+      "experience_sectors": [],
+      "proposed_business": null
+    },
+    {
+      "sn": 60,
+      "name": "विष्णु बहादुर केसी",
+      "address": "बागलुङ्ग जिल्ला मुलपानी गा.वि.स.वडा नं.५",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 33000,
+      "share_percent": 0.77,
+      "experience": "मानव संसाधन क्षेत्रमा १५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "मानव संसाधन"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 61,
+      "name": "निरज खरेल",
+      "address": "काभ्रे जिल्ला, खरेल थोक गा.वि.स.वडा नं.४",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 24750,
+      "share_percent": 0.58,
+      "experience": "बीमा र इन्टरनेट कम्पनीमा २५ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "बीमा",
+        "इन्टरनेट"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 62,
+      "name": "नवराज घिमिरे",
+      "address": "भक्तपुर जिल्ला, दधिकोट गा.वि.स.वडा नं १",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 9688,
+      "share_percent": 0.23,
+      "experience": "वित्तीय क्षेत्रमा १० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 63,
+      "name": "हरिवंश सापकोटा",
+      "address": "मकवानपुर जिल्ला, हेटौडा न.पा.वडा नं ६",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 13886,
+      "share_percent": 0.33,
+      "experience": "सूचना प्रविधि क्षेत्रमा १० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "सूचना प्रविधि"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 64,
+      "name": "सुवर्ण खरेल",
+      "address": "चितवन जिल्ला, भरतपुर न.पा.वडा नं.४",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 19329,
+      "share_percent": 0.45,
+      "experience": "व्यवसायमा २० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "व्यवसाय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 65,
+      "name": "चण्डेश्वर श्रेष्ठ",
+      "address": "दोलखा जिल्ला, भि.न.पा.वडा नं १",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 7500,
+      "share_percent": 0.18,
+      "experience": "लेखा र वित्तीय क्षेत्रमा ४० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "लेखा",
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 66,
+      "name": "विशाल मणि उपाध्याय",
+      "address": "काठमाण्डौ जिल्ला, का.म.न.पा.वडा नं ७",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 12886,
+      "share_percent": 0.3,
+      "experience": "सूचना प्रविधि क्षेत्रमा २० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "सूचना प्रविधि"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 67,
+      "name": "रंजीत कुमार महतो",
+      "address": "महोत्तरी जिल्ला, मटिहानी गा.वि.स.वडा नं.३",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "विद्यावारिधि",
+      "shares": 168254,
+      "share_percent": 3.94,
+      "experience": "वित्तीय क्षेत्रमा ७ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 68,
+      "name": "जयन्त कुमार अग्रवाल",
+      "address": "सुनसरी जिल्ला,धरान न.पा.वडा नं.५",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 150000,
+      "share_percent": 3.51,
+      "experience": "उत्पादन र वित्तीय क्षेत्रमा १४ वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "उत्पादन",
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 69,
+      "name": "अदिती चोखानी",
+      "address": "का.जि.का.म.न.पा.वडा नं.४",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 228000,
+      "share_percent": 5.34,
+      "experience": "कृषि र सौन्दर्य प्रसाधन क्षेत्रमा १० वर्ष बढिको कार्यअनुभव",
+      "experience_sectors": [
+        "कृषि",
+        "सौन्दर्य प्रसाधन"
+      ],
+      "proposed_business": null
+    }
+  ],
+  "directors": [
+    {
+      "sn": 1,
+      "name": "श्री कृष्णराज लामिछाने",
+      "address": "कास्की,पोखरा महानगरपालिका ८",
+      "position": "अध्यक्ष (संस्थापक समूह)",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "एम.वि.ए, वि एल",
+      "experience": "हाल नेपाल लाइफ इन्स्योरेन्स कम्पनी लिमिटेडमा संचालकको रुपमा रहनुभएको, बैंक तथा वित्तीय क्षेत्रमा कार्यकारी तह समेत गरी करिव ३५ वर्षको कार्यअनुभव हासिल गर्नु भएको।",
+      "experience_sectors": [
+        "बैंक",
+        "वित्तीय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 2,
+      "name": "श्री अमित कुमार कयाल",
+      "address": "ललितपुर, ललितपुर महानगरपालिका २१, खोकना",
+      "position": "संचालक (संस्थापक समूह)",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "चार्टर्ड एकाउन्टेन्ट (सि.ए), एम.वि.ए",
+      "experience": "हाल नेपाल लाइफ इन्स्योरेन्स कम्पनी लिमिटेडमा नायब प्रमुख कार्यकारी अधिकृतको पदमा कार्यरत। बीमा क्षेत्रमा ४ वर्ष, ग्राहक सेवा तथा डिजिटल प्रशासन क्षेत्रमा राष्ट्रिय तथा अन्तर्राष्ट्रिय गरी १५ वर्षभन्दा बढीको कार्यअनुभव रहेको।",
+      "experience_sectors": [
+        "बीमा",
+        "ग्राहक सेवा",
+        "डिजिटल प्रशासन"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 3,
+      "name": "श्री प्रेम प्रसाद रेग्मी",
+      "address": "काठमाण्डौ, बुढानिलकण्ठ नगरपालिका, ०५",
+      "position": "संचालक (संस्थापक समूह)",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "चार्टर्ड एकाउन्टेन्ट (सि.ए)",
+      "experience": "हाल नेपाल लाइफ इन्स्योरेन्स कम्पनी लिमिटेडमा प्रमुख वित्त अधिकृतको पदमा कार्यरत। बैंकिङ्ग, बीमा तथा लेखापरीक्षण क्षेत्रमा करिव १५ वर्षको कार्यअनुभव हासिल गर्नु भएको।",
+      "experience_sectors": [
+        "बैंकिङ्ग",
+        "बीमा",
+        "लेखापरीक्षण"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "श्री रमेश चन्द्र पौडेल",
+      "address": "ललितपुर, ललितपुर महानगरपालिका ९, बालकुमारी",
+      "position": "स्वतन्त्र संचालक",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "विद्यावारिधि (अर्थशास्त्र), एम.वि.ए",
+      "experience": "त्रिभुवन विश्वविद्यालयमा अर्थशास्त्र केन्द्रीय विभागमा विगत ६ वर्ष देखि अर्थशास्त्र विषयको सह प्राध्यापकको रुपमा कार्यरत। प्यासिफिक कलेज अफ टेक्नोलोजीमा - अष्ट्रेलियामा ५ वर्ष अर्थशास्त्र तथा व्यापारको प्राध्यापकको रुपमा तथा सोहि अवधिको ३ वर्ष प्रमुख व्यापार तथा अर्थशास्त्र विभागमा कार्य अनुभव हासिल गर्नु भएको।",
+      "experience_sectors": [
+        "शिक्षा",
+        "अर्थशास्त्र"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 5,
+      "name": "श्रीमती विन्द्रा हाडा",
+      "address": "काठमाण्डौ, का.म.न.पा १४, बाफल",
+      "position": "स्वतन्त्र संचालक",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "एम.पि.ए, एम.एस.सी",
+      "experience": "निजामती कर्मचारीको रुपमा २० वर्ष भन्दा बढी कार्य गरी अवकाश प्राप्त। संवैधानिक आयोगको सदस्यको रुपमा ६ वर्ष कार्यअनुभव हासिल गर्नु भएको।",
+      "experience_sectors": [
+        "निजामती सेवा",
+        "संवैधानिक निकाय"
+      ],
+      "proposed_business": null
+    }
+  ],
+  "director_affiliations": [
+    {
+      "director_name": "श्री कृष्णराज लामिछाने",
+      "director_address": "कास्की, पोखरा महानगरपालिका ८",
+      "affiliations": [
+        {
+          "company": "नेपाल लाइफ इन्स्योरेन्स कम्पनी लि.",
+          "address": "कमलादी, काठमाण्डौ",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री अमित कुमार कयाल",
+      "director_address": "ललितपुर, ललितपुर महानगरपालिका २१, खोकना",
+      "affiliations": [
+        {
+          "company": "नेपाल लाइफ इन्स्योरेन्स कम्पनी लि.",
+          "address": "कमलादी, काठमाण्डौ",
+          "role": "नायब प्रमुख कार्यकारी अधिकृत",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री प्रेम प्रसाद रेग्मी",
+      "director_address": "काठमाण्डौ, बुढानिलकण्ठ नगरपालिका, ०५",
+      "affiliations": [
+        {
+          "company": "नेपाल लाइफ इन्स्योरेन्स कम्पनी लि.",
+          "address": "कमलादी, काठमाण्डौ",
+          "role": "प्रमुख वित्त अधिकृत",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री रमेश चन्द्र पौडेल",
+      "director_address": "ललितपुर, ललितपुर महानगरपालिका ९, बालकुमारी",
+      "affiliations": [
+        {
+          "company": "अर्थशास्त्र केन्द्रीय विभाग त्रिभुवन विश्वविद्यालय",
+          "address": "कीर्तिपुर, काठमाण्डौ",
+          "role": "सहप्राध्यापक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्रीमती विन्द्रा हाडा",
+      "director_address": "काठमाण्डौ, का.म.न.पा १४, बाफल",
+      "affiliations": [
+        {
+          "company": "प्रोफेशनल होल्डिङ्गस् लि.",
+          "address": "काठमाण्डौ",
+          "role": "स्वतन्त्र संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    }
+  ]
+}

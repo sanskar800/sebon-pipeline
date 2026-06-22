@@ -3,64 +3,70 @@
   "source_title": "Yambaling Hydropower Ltd.- General People",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/04/29/WOuwiZyiVfpS7tna1tbhZUKfOEzGlNWMAbmMxuWv.pdf",
   "issue_date": "2026-04-29",
-  "extracted_at": "2026-06-22T09:13:28+00:00",
+  "extracted_at": "2026-06-22T10:42:47+00:00",
   "total_pages": 66,
   "table_pages": [
     17,
     18,
     19,
-    20
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
   ],
   "counts": {
     "shareholders": 18,
     "directors": 6,
-    "director_affiliations": 2
+    "director_affiliations": 6
   },
   "llm_cost": {
-    "in": 2516,
-    "out": 4000,
-    "cost_usd": 0.0108
+    "in": 6240,
+    "out": 4095,
+    "cost_usd": 0.0121
   },
   "shareholders": [
     {
       "sn": 1,
       "name": "रोशन शाह",
-      "address": "सिरहा जिल्ला, सिरहा न.पा. वडा नं. ६",
+      "address": "सिरहा जिल्ला सिरहा न.पा. वडा नं. ६",
       "age": 44,
       "nationality": "नेपाली",
-      "education": "स्नातक (वि.इ.)",
+      "education": "स्नातक वि.इ.",
       "shares": 278260,
       "share_percent": 3.97,
-      "experience": "विगत ७ वर्ष देखि हाइड्रोपावर क्षेत्रको अनुभव, साइट इन्जिनियर : Japan Turkey Metro Joint Venture मा २०६३ फाल्गुन देखि २०६६ वैशाख सम्म, आयोजना प्रबन्धक : रसुवा Construction प्रा.लि. मा २०६७/०९/२८ देखि २०६९ भदौ सम्म",
+      "experience": "विगत ७ वर्ष देखि हाइड्रोपावर क्षेत्रको अनुभव",
       "experience_sectors": [
-        "जलविद्युत",
-        "इन्जिनियरिङ्ग"
+        "साइट इन्जिनियर : Japan Turkey Metro Joint Venture मा २०६३ फाल्गुन देखि २०६६ वैशाख सम्म",
+        "आयोजना प्रबन्धक : रसुवा Construction प्रा.लि. मा २०६७/०९/२८ देखि २०६९ भदौ सम्म"
       ],
-      "proposed_business": "विगत ७ वर्ष देखि हाइड्रोपावर क्षेत्रको अनुभव"
+      "proposed_business": null
     },
     {
       "sn": 2,
       "name": "सुसन कर्माचार्य",
-      "address": "ललितपुर जिल्ला, ल.म.न.पा. वडा नं. २२",
+      "address": "ललितपुर जिल्ला ल.मा.न.पा.वडा नं.२२",
       "age": 43,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर र एमपिए",
       "shares": 212270,
       "share_percent": 2.95,
-      "experience": "विद्युत उत्पादन क्षेत्रमा ८ वर्षको अनुभव, व्यवस्थापन क्षेत्रमा २० वर्ष र उर्जा क्षेत्रमा ८ वर्षको अनुभव",
+      "experience": "विद्युत उत्पादन क्षेत्रमा ८ वर्षको अनुभव",
       "experience_sectors": [
-        "जलविद्युत",
-        "व्यवस्थापन"
+        "व्यवस्थापन क्षेत्रमा २० वर्ष र उर्जा क्षेत्रमा ८ वर्षको अनुभव"
       ],
-      "proposed_business": "विद्युत उत्पादन क्षेत्रमा ८ वर्षको अनुभव"
+      "proposed_business": null
     },
     {
       "sn": 3,
       "name": "आभास बस्नेत",
-      "address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. ३२",
+      "address": "काठमाण्डौ जिल्ला काठमाण्डौ महानगरपालिका वडा नं. ३२",
       "age": 21,
       "nationality": "नेपाली",
-      "education": "स्नातक (वि.वि.एस.)",
+      "education": "स्नातक वि.वि.एस",
       "shares": 200000,
       "share_percent": 2.85,
       "experience": null,
@@ -70,67 +76,61 @@
     {
       "sn": 4,
       "name": "ओम बहादुर बस्नेत",
-      "address": "झापा जिल्ला, काँकरभिट्टा गा.वि.स. वडा नं. ०७",
+      "address": "झापा जिल्ला काकरभिट्टा गा.वि.स. वडा नं. ०७",
       "age": 50,
       "nationality": "नेपाली",
-      "education": "स्नातकोत्तर र एम.एड./एम. वि.एस",
+      "education": "स्नातकोत्तर र एम.एड/एम. वि.एस",
       "shares": 200000,
       "share_percent": 2.85,
       "experience": "सहकारी क्षेत्रमा १४ वर्षको अनुभव",
-      "experience_sectors": [
-        "सहकारी"
-      ],
-      "proposed_business": "सहकारी क्षेत्रमा १४ वर्षको अनुभव"
+      "experience_sectors": [],
+      "proposed_business": null
     },
     {
       "sn": 5,
       "name": "शोभा देवी कर्माचार्य",
-      "address": "ललितपुर जिल्ला, ल.म.न.पा. वडा नं. १५",
+      "address": "ललितपुर जिल्ला ल.म.न.पा.वडा नं.१५",
       "age": 49,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर र एमपिए",
       "shares": 167840,
       "share_percent": 2.39,
-      "experience": "एरोनेटिक्ल क्षेत्रमा २८ वर्षको अनुभव, नेपाल वायुसेवा निगममा ए.टी.सी",
+      "experience": "एरोनेटिककल क्षेत्रमा २८ वर्षको अनुभव",
       "experience_sectors": [
-        "उड्डयन"
+        "नेपाल वायुसेवा निगममा ए.टी.सी"
       ],
-      "proposed_business": "एरोनेटिक्ल क्षेत्रमा २८ वर्षको अनुभव"
+      "proposed_business": null
     },
     {
       "sn": 6,
       "name": "ल्हायुल लामा",
-      "address": "काभ्रेपलाञ्चोक जिल्ला, मादन कुडारी गा.वि.स. वडा नं. ४",
+      "address": "काभ्रेपलाञ्चोक जिल्ला मादन कुडारी गा.वि.स.वडा नं. ४",
       "age": 40,
       "nationality": "नेपाली",
       "education": "आ.ए.",
       "shares": 150000,
       "share_percent": 2.14,
       "experience": "कपडा व्यवसायमा ५ वर्षको अनुभव",
-      "experience_sectors": [
-        "व्यापार"
-      ],
-      "proposed_business": "कपडा व्यवसायमा ५ वर्षको अनुभव"
+      "experience_sectors": [],
+      "proposed_business": null
     },
     {
       "sn": 7,
       "name": "इन्द्र माया तामाङ (लिनावल)",
-      "address": "रामेछाप जिल्ला, सुनापति गाउँपालिका वडा नं. ४",
+      "address": "रामेछाप जिल्ला सुनापति गाउँपालिका वडा नं. ४",
       "age": 54,
       "nationality": "नेपाली",
-      "education": "आई.ए.",
+      "education": "आई.ए",
       "shares": 128500,
       "share_percent": 1.83,
       "experience": "विगत १० वर्ष देखि हाइड्रोपावर क्षेत्रमा अनुभव",
-      "experience_sectors": [
-        "जलविद्युत"
-      ],
-      "proposed_business": "विगत १० वर्ष देखि हाइड्रोपावर क्षेत्रमा अनुभव"
+      "experience_sectors": [],
+      "proposed_business": null
     },
     {
       "sn": 8,
       "name": "राजदेवि राजभण्डारी",
-      "address": "ल.पु.जि.ल.पु.म.न.पा. वडा नं. १५",
+      "address": "ल.पु.जि.ल.पु.म.न.पा.वडा नं.१५",
       "age": 64,
       "nationality": "नेपाली",
       "education": "आई.ए.",
@@ -143,37 +143,33 @@
     {
       "sn": 9,
       "name": "सुरज बज्राचार्य",
-      "address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. १७",
+      "address": "काठमाण्डौ जिल्ला काठमाण्डौ महानगरपालिका वडा नं. १७",
       "age": 50,
       "nationality": "नेपाली",
       "education": "एम.डी.",
       "shares": 101200,
       "share_percent": 1.44,
       "experience": "विगत २५ वर्ष देखि स्वास्थ्य क्षेत्रमा अनुभव",
-      "experience_sectors": [
-        "स्वास्थ्य"
-      ],
-      "proposed_business": "विगत २५ वर्ष देखि स्वास्थ्य क्षेत्रमा अनुभव"
+      "experience_sectors": [],
+      "proposed_business": null
     },
     {
       "sn": 10,
       "name": "कोषराज वन्त",
-      "address": "गोरखा जिल्ला, बगुवा गा.वि.स वडा नं. ६",
+      "address": "गोरखा जिल्ला बगुवा गा.वि.स वडा नं. ६",
       "age": 60,
       "nationality": "नेपाली",
       "education": "एम.इ",
       "shares": 100000,
       "share_percent": 1.42,
       "experience": "सशस्त्र प्रहरीमा ३० वर्षको अनुभव",
-      "experience_sectors": [
-        "सुरक्षा"
-      ],
-      "proposed_business": "सशस्त्र प्रहरीमा ३० वर्षको अनुभव"
+      "experience_sectors": [],
+      "proposed_business": null
     },
     {
       "sn": 11,
       "name": "स्मार्ट इन्भेष्टमेन्ट प्रा.लि.",
-      "address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. ३५",
+      "address": "काठमाण्डौ जिल्ला काठमाण्डौ महानगरपालिका वडा नं. ३५",
       "age": null,
       "nationality": "नेपाली",
       "education": null,
@@ -186,22 +182,20 @@
     {
       "sn": 12,
       "name": "संगीता सुवेदी बस्नेत",
-      "address": "काठमाण्डौ जिल्ला, काठमाण्डौ म.न.पा. वडा नं. ३६",
+      "address": "काठमाण्डौ जिल्ला काठमाण्डौ म.न.पा. वडा नं. ३६",
       "age": 49,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर र एम.ए.",
       "shares": 75000,
       "share_percent": 1.07,
       "experience": "वित्त क्षेत्रमा २५ वर्षको अनुभव",
-      "experience_sectors": [
-        "वित्त"
-      ],
-      "proposed_business": "वित्त क्षेत्रमा २५ वर्षको अनुभव"
+      "experience_sectors": [],
+      "proposed_business": null
     },
     {
       "sn": 13,
       "name": "पूर्ण बहादुर कुँवर",
-      "address": "म्याग्दी जिल्ला, सिङ्गा-९",
+      "address": "म्याग्दी जिल्ला सिङ्ग-९",
       "age": 48,
       "nationality": "नेपाली",
       "education": "एस.एल.सी",
@@ -213,8 +207,8 @@
     },
     {
       "sn": 14,
-      "name": "मनिप्लमन्ट इन्भेष्टमेन्ट प्रा.लि.",
-      "address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. ३२",
+      "name": "मनिप्लान्ट इन्भेष्टमेन्ट प्रा.लि.",
+      "address": "काठमाण्डौ जिल्ला काठमाण्डौ महानगरपालिका वडा नं. ३२",
       "age": null,
       "nationality": "नेपाली",
       "education": null,
@@ -234,25 +228,21 @@
       "shares": 71000,
       "share_percent": 1.01,
       "experience": "व्यवसाय",
-      "experience_sectors": [
-        "व्यापार"
-      ],
-      "proposed_business": "व्यवसाय"
+      "experience_sectors": [],
+      "proposed_business": null
     },
     {
       "sn": 16,
       "name": "विकास मान श्रेष्ठ",
-      "address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. १२",
+      "address": "काठमाण्डौ जिल्ला काठमाण्डौ महानगरपालिका वडा नं. १२",
       "age": 54,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 70000,
       "share_percent": 1.0,
       "experience": "व्यवसाय",
-      "experience_sectors": [
-        "व्यापार"
-      ],
-      "proposed_business": "व्यवसाय"
+      "experience_sectors": [],
+      "proposed_business": null
     },
     {
       "sn": 17,
@@ -264,10 +254,8 @@
       "shares": 94280,
       "share_percent": 1.34,
       "experience": "व्यवसाय",
-      "experience_sectors": [
-        "व्यापार"
-      ],
-      "proposed_business": "व्यवसाय"
+      "experience_sectors": [],
+      "proposed_business": null
     },
     {
       "sn": 18,
@@ -279,123 +267,150 @@
       "shares": 70000,
       "share_percent": 1.0,
       "experience": "व्यवसाय",
-      "experience_sectors": [
-        "व्यापार"
-      ],
-      "proposed_business": "व्यवसाय"
+      "experience_sectors": [],
+      "proposed_business": null
     }
   ],
   "directors": [
     {
       "sn": 1,
       "name": "श्री इन्द्रमाया तामाङ्ग (लिनावल)",
-      "address": "रामेछाप जिल्ला, सुनापति गाउँपालिका वडा नं. ४",
+      "address": "रामेछाप जिल्ला सुनापति गाउँपालिका वडा नं. ४",
       "position": "अध्यक्ष",
       "nationality": "नेपाली",
       "shares": 128500,
       "education": "एस.एल.सी",
-      "experience": "उर्जा क्षेत्रमा १० वर्षको अनुभव, होटल र ट्रेकिङ्ग व्यवसायमा अनुभव",
+      "experience": "उर्जा क्षेत्रमा १० वर्षको अनुभव",
       "experience_sectors": [
-        "जलविद्युत",
-        "पर्यटन"
+        "होटेल र ट्रेकिङ व्यवसायमा अनुभव"
       ],
-      "proposed_business": "उर्जा क्षेत्रमा १० वर्षको अनुभव"
+      "proposed_business": null
     },
     {
       "sn": 2,
       "name": "श्री रोशन शाह",
-      "address": "सिरहा जिल्ला, सिरहा न.पा. वडा नं. ६",
+      "address": "सिरहा जिल्ला सिरहा न.पा. वडा नं. ६",
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": 278260,
       "education": "स्नातक (वि.इ)",
-      "experience": "विगत ७ वर्ष देखि हाइड्रोपावर क्षेत्रको अनुभव, साइट इन्जिनियर : Japan Turkey Metro Joint Venture मा २०६३ फाल्गुन देखि २०६६ वैशाख सम्म, आयोजना प्रबन्धक : रसुवा Construction प्रा.लि. मा २०६७/०९/२८ देखि २०६९ भदौ सम्म",
+      "experience": "विगत ७ वर्ष देखि हाइड्रोपावर क्षेत्रको अनुभव",
       "experience_sectors": [
-        "जलविद्युत",
-        "इन्जिनियरिङ्ग"
+        "साइट इन्जिनियर : Japan Turkey Metro Joint Venture मा २०६३ फाल्गुन देखि २०६६ वैशाख सम्म",
+        "आयोजना प्रबन्धक : रसुवा Construction प्रा.लि. मा २०६७/०९/२८ देखि २०६९ भदौ सम्म"
       ],
-      "proposed_business": "विगत ७ वर्ष देखि हाइड्रोपावर क्षेत्रको अनुभव"
+      "proposed_business": null
     },
     {
       "sn": 3,
-      "name": "श्री शशि राज श्रेष्ठ",
-      "address": "ललितपुर जिल्ला, ल.पु.म.न.पा. वडा नं. ४",
+      "name": "श्री शशी राज श्रेष्ठ",
+      "address": "ललितपुर जिल्ला ल.पु.मा.न.पा.वडा नं. ४",
       "position": "स्वतन्त्र संचालक",
       "nationality": "नेपाली",
       "shares": null,
       "education": "एम.इ",
       "experience": "उर्जा क्षेत्रमा १० वर्षको अनुभव",
-      "experience_sectors": [
-        "जलविद्युत"
-      ],
-      "proposed_business": "उर्जा क्षेत्रमा १० वर्षको अनुभव"
+      "experience_sectors": [],
+      "proposed_business": null
     },
     {
       "sn": 4,
       "name": "श्री नर हाङ्ग राई",
-      "address": "ललितपुर जिल्ला, ठेचो वडा नं. ८",
+      "address": "ललितपुर जिल्ला ठेचो वडा नं. ८",
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": 60000,
       "education": "आइ.ए",
-      "experience": "उर्जा क्षेत्रमा ७ वर्षको अनुभव, संस्थापक युनाइटेड एकेडेमी",
+      "experience": "उर्जा क्षेत्रमा ७ वर्षको अनुभव",
       "experience_sectors": [
-        "जलविद्युत",
-        "शिक्षा"
+        "संस्थापक युनाइटेड एकेडेमी"
       ],
-      "proposed_business": "उर्जा क्षेत्रमा ७ वर्षको अनुभव"
+      "proposed_business": null
     },
     {
       "sn": 5,
       "name": "श्री उदिम बहादुर देवकोटा",
-      "address": "झापा जिल्ला, काकरभिट्टा गा.वि.स. वडा नं. ४",
+      "address": "झापा जिल्ला काकरभिट्टा गा.वि.स.वडा नं. ४",
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": 20000,
       "education": "वि.ए/वि.एड",
-      "experience": "उर्जा क्षेत्रमा २ वर्षको अनुभव, सरकारी निजामती सेवामा ३७ वर्षको अनुभव",
+      "experience": "उर्जा क्षेत्रमा २ वर्षको अनुभव",
       "experience_sectors": [
-        "जलविद्युत",
-        "प्रशासन"
+        "सरकारी निजामती सेवामा ३७ वर्षको अनुभव"
       ],
-      "proposed_business": "उर्जा क्षेत्रमा २ वर्षको अनुभव"
+      "proposed_business": null
     },
     {
       "sn": 6,
       "name": "श्री समय कर्माचार्य",
-      "address": "ललितपुर जिल्ला, ललितपुर नगरपालिका वडा नं. २२",
+      "address": "ललितपुर जिल्ला ललितपुर नगरपालिका वडा नं. २२",
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": 10000,
       "education": "एम.वि.ए",
       "experience": "उर्जा क्षेत्रमा ९ वर्षको अनुभव",
-      "experience_sectors": [
-        "जलविद्युत"
-      ],
-      "proposed_business": "उर्जा क्षेत्रमा ९ वर्षको अनुभव"
+      "experience_sectors": [],
+      "proposed_business": null
     }
   ],
   "director_affiliations": [
     {
-      "director_name": "श्री ओम बहादुर बस्नेत",
-      "director_address": "झापा जिल्ला, काकरभिट्टा गा.वि.स. वडा नं. ०७",
+      "director_name": "श्री इन्द्रमाया तामाङ्ग (लिनावल)",
+      "director_address": "रामेछाप जिल्ला सुनापति गाउँपालिका वडा नं. ४",
+      "affiliations": []
+    },
+    {
+      "director_name": "श्री रोशन शाह",
+      "director_address": "सिरहा जिल्ला सिरहा न.पा. वडा नं. ६",
       "affiliations": [
         {
-          "company": "स्मार्ट इन्भेष्टमेन्ट लिमिटेड",
-          "address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. ३५",
-          "role": "अध्यक्ष",
+          "company": "मनिप्लान्ट इन्भेष्टमेन्ट प्रा.लि.",
+          "address": "का.म.न.पा.-३२,काठमाण्डौ",
+          "role": "संचालक",
           "from": null,
           "to": null
         }
       ]
     },
     {
-      "director_name": "श्रीमती सुसन कर्माचार्य",
-      "director_address": "ललितपुर जिल्ला, ल.म.न.पा. वडा नं. २२",
+      "director_name": "श्री शशी राज श्रेष्ठ",
+      "director_address": "ललितपुर जिल्ला ल.पु.मा.न.पा.वडा नं.२२",
+      "affiliations": []
+    },
+    {
+      "director_name": "श्री नरहाङ्ग राई",
+      "director_address": "ललितपुर जिल्ला ठेचो वडा नं. ८",
       "affiliations": [
         {
-          "company": "स्मार्ट इन्भेष्टमेन्ट लिमिटेड",
-          "address": "काठमाण्डौ जिल्ला, काठमाण्डौ महानगरपालिका वडा नं. ३५",
+          "company": "युनाइटेड एकेडेमी",
+          "address": "ललितपुर उ.म.न.पा, कुमारीपाटी",
+          "role": "संस्थापक",
+          "from": "२०७७/१२/२९",
+          "to": "हाल सम्म"
+        }
+      ]
+    },
+    {
+      "director_name": "श्री उदिम बहादुर देवकोटा",
+      "director_address": "झापा जिल्ला काकरभिट्टा गा.वि.स.वडा नं. ४",
+      "affiliations": [
+        {
+          "company": "ललिगुँरास वाटिका सेकेन्डरी स्कूल",
+          "address": "नरेफाँट ३२, काठमाण्डौ।",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री समय कर्माचार्य",
+      "director_address": "ललितपुर जिल्ला ललितपुर नगरपालिका वडा नं. २२",
+      "affiliations": [
+        {
+          "company": "स्मार्ट हाइड्रो पावर प्रा. लि.",
+          "address": "ललितपुर",
           "role": "संचालक",
           "from": null,
           "to": null

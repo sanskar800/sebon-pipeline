@@ -3,24 +3,388 @@
   "source_title": "8% ICFC Finance Ltd. Debenture 2089",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/02/22/QIUlQ3dBXD9wfN9uiflB7LPoCa3BEpR3jNlGfZkh.pdf",
   "issue_date": "2026-02-22",
-  "extracted_at": "2026-06-22T09:26:00+00:00",
+  "extracted_at": "2026-06-22T10:48:53+00:00",
   "total_pages": 65,
   "table_pages": [
-    8,
     10,
-    12
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
   ],
   "counts": {
-    "shareholders": 0,
-    "directors": 0,
-    "director_affiliations": 0
+    "shareholders": 11,
+    "directors": 7,
+    "director_affiliations": 2
   },
   "llm_cost": {
-    "in": 5952,
-    "out": 78,
-    "cost_usd": 0.0021
+    "in": 7836,
+    "out": 3688,
+    "cost_usd": 0.0116
   },
-  "shareholders": [],
-  "directors": [],
-  "director_affiliations": []
+  "shareholders": [
+    {
+      "sn": 1,
+      "name": "पुरुषोत्तम पौडेल",
+      "address": "महाराजगञ्ज, काठमाण्डौ",
+      "age": 63,
+      "nationality": "नेपाली",
+      "education": "आइ. ए.",
+      "shares": 607502,
+      "share_percent": 5.13,
+      "experience": "कन्टिनेन्टल ट्रेडीङ्ग इन्टरप्राइजेज प्रा. लि. को संचालक",
+      "experience_sectors": [
+        "व्यापार",
+        "संचालक"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 2,
+      "name": "सुशिल कुमार पन्त",
+      "address": "काठमाण्डौ १",
+      "age": 63,
+      "nationality": "नेपाली",
+      "education": "एलएलबि-नेपाल, एमसीएल-दिल्ली, एल.एल.एम-यूएसए",
+      "shares": 523747,
+      "share_percent": 4.43,
+      "experience": "महान्यायाधिवक्ता, जुरिष्ट एण्ड कम्पनी ल फर्म",
+      "experience_sectors": [
+        "कानुन",
+        "महान्यायाधिवक्ता"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 3,
+      "name": "युनाइटेड डिष्ट्रिब्युटर्स प्रा.लि.",
+      "address": "थापाथली, काठमाण्डौ",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 418259,
+      "share_percent": 3.53,
+      "experience": "मिति २०६०।०१।५ मा कम्पनी रजिष्ट्रारको कार्यालयबाट इजाजत प्राप्त गरी विविध वस्तुको आयात, खरिद, बिक्रि, वितरण गर्ने",
+      "experience_sectors": [
+        "व्यापार",
+        "आयात",
+        "वितरण"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "राम बाबु पन्त",
+      "address": "काठमाण्डौ १",
+      "age": 72,
+      "nationality": "नेपाली",
+      "education": "एम.कम.",
+      "shares": 328364,
+      "share_percent": 2.77,
+      "experience": "नेपाल राष्ट्र बैंकमा १९ वर्ष कार्य गरि डेपुटी गभर्नर पदबाट अवकाश प्राप्त र आइ. सि. एफ. सि. फाइनान्स लि.मा १२ वर्ष कार्य अनुभव भई प्रमुख कार्यकारी अधिकृतबाट अवकाश प्राप्त",
+      "experience_sectors": [
+        "बैंकिङ्ग",
+        "व्यवस्थापन"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 5,
+      "name": "राजेश उपाध्याय",
+      "address": "काठमाण्डौ",
+      "age": 60,
+      "nationality": "नेपाली",
+      "education": "एम.बि.ए.",
+      "shares": 262944,
+      "share_percent": 2.22,
+      "experience": "कन्टिनेन्टल ट्रेडिङ्ग प्रा. लि.अध्यक्ष महालक्ष्मी विकास बैंक लि.",
+      "experience_sectors": [
+        "व्यापार",
+        "बैंकिङ्ग",
+        "संचालक"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 6,
+      "name": "दावा योञ्जन",
+      "address": "काठमाण्डौ",
+      "age": 46,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 213759,
+      "share_percent": 1.81,
+      "experience": "व्यापार व्यवसायको अनुभव",
+      "experience_sectors": [
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 7,
+      "name": "शिव ट्रेड इन्टरनेशनल ट्रेडर्स",
+      "address": "तेबहाल, काठमाण्डौ",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 206314,
+      "share_percent": 1.74,
+      "experience": "मिति २०४५।०१।०३ मा रजिष्टर भई विविध वस्तुहरूको आयात निर्यात कर्ताको रुपमा कार्यरत",
+      "experience_sectors": [
+        "व्यापार",
+        "आयात",
+        "निर्यात"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 8,
+      "name": "कन्टिनेन्टल मार्केटिङ्ग प्रा. लि.",
+      "address": "टेकू, काठमाण्डौ",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 167567,
+      "share_percent": 1.42,
+      "experience": "दर्ता नं. १९२८७।०७४।०७५ नेपाल टेलिकमको रिचार्ज कार्ड सम्बन्धी काम",
+      "experience_sectors": [
+        "दूरसञ्चार",
+        "वितरण"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 9,
+      "name": "गोपाल प्रसाद दाहाल",
+      "address": "काठमाण्डौ",
+      "age": 61,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 143841,
+      "share_percent": 1.22,
+      "experience": "नोकरी अर्थ मन्त्रालय",
+      "experience_sectors": [
+        "सरकारी सेवा",
+        "अर्थ मन्त्रालय"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 10,
+      "name": "सौरभ पन्त",
+      "address": "काठमाण्डौ",
+      "age": 41,
+      "nationality": "नेपाली",
+      "education": "एस.एल.सी.",
+      "shares": 135249,
+      "share_percent": 1.14,
+      "experience": "व्यापार व्यवसायको अनुभव",
+      "experience_sectors": [
+        "व्यापार"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 11,
+      "name": "सरिता ओझा न्यौपाने",
+      "address": "वडा नं. ७, काठमाण्डौ",
+      "age": 56,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 121219,
+      "share_percent": 1.02,
+      "experience": "गृहिणी",
+      "experience_sectors": [
+        "घरायसी"
+      ],
+      "proposed_business": null
+    }
+  ],
+  "directors": [
+    {
+      "sn": 1,
+      "name": "सुशीलकुमार अर्याल",
+      "position": "अध्यक्ष (संस्थापक)",
+      "nationality": "नेपाली",
+      "address": "डिल्लीबजार काठमाण्डौ",
+      "shares": 19074,
+      "education": "स्नातक",
+      "experience": "राष्ट्रिय वाणिज्य बैंकमा वि.सं. २०२४ साल देखि २०६० साल सम्म विभिन्न पदमा कार्य गरेको अनुभव र हाल अवकाश प्राप्त भएको। आइ.सि.एफ.सि. फाइनान्स लिमिटेडमा मिति २०७३/०७/०१ देखि संचालक पदमा र २०८०/०७/०२ देखि हाल सम्म अध्यक्ष पदमा कार्यरत।",
+      "experience_sectors": [
+        "बैंकिङ्ग",
+        "संचालक"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 2,
+      "name": "अच्युतराज आचार्य",
+      "position": "संचालक (संस्थापक)",
+      "nationality": "नेपाली",
+      "address": "ललितपुर-१२ सातदोबाटो",
+      "shares": 2314,
+      "education": "स्नातक",
+      "experience": "नेपाल राष्ट्र बैंकमा ३२ वर्षको अनुभव। आइ.सि.एफ.सि. फाइनान्स लिमिटेडमा मिति २०८१/०९/२९ देखि हाल सम्म संचालक पदमा कार्यरत।",
+      "experience_sectors": [
+        "बैंकिङ्ग",
+        "संचालक"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 3,
+      "name": "रचना अधिकारी",
+      "position": "संचालक (संस्थापक)",
+      "nationality": "नेपाली",
+      "address": "भरतपुर चितवन",
+      "shares": 100,
+      "education": "स्नातकोत्तर/चार्टर्ड एकाउन्टेन्ट्स",
+      "experience": "आइ.सि.एफ.सि. फाइनान्स लिमिटेडमा मिति २०८१/०९/२९ देखि हाल सम्म संचालक पदमा कार्यरत। प्रमुख वित्तीय अधिकृत पदमा आई. पे. रेमिटमा कार्यरत तथा ९ वर्षको कार्य अनुभव।",
+      "experience_sectors": [
+        "वित्तीय",
+        "चार्टर्ड एकाउन्टेन्सी",
+        "संचालक"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 4,
+      "name": "हेमशिखा जोशी गर्ग",
+      "position": "संचालक (सर्वसाधारण)",
+      "nationality": "नेपाली",
+      "address": "का.म.न.पा-१, काठमाण्डौ",
+      "shares": 6057,
+      "education": "स्नातकोत्तर",
+      "experience": "आइ.सि.एफ.सि. फाइनान्स लिमिटेडमा मिति २०७६/०९/२९ देखि हाल सम्म संचालक पदमा कार्यरत। Training in networking security from H.K Hitech, Jodhpur मा सन् २०१५ देखि २०१६ सम्म कार्य गरेको कार्यअनुभव। द इलाइट मार्केटिङ्ग प्रा.लि. मा कार्यरत।",
+      "experience_sectors": [
+        "सूचना प्रविधि",
+        "मार्केटिङ्ग",
+        "संचालक"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 5,
+      "name": "सफल भट्टराई",
+      "position": "संचालक (सर्वसाधारण)",
+      "nationality": "नेपाली",
+      "address": "काठमाण्डौ",
+      "shares": 225,
+      "education": "स्नातकोत्तर",
+      "experience": "आइ.सि.एफ.सि. फाइनान्स लिमिटेडमा मिति २०८०/०९/२९ देखि हाल सम्म संचालक पदमा कार्यरत। Classic FM 101.2 MHZ मा News Reader को रुपमा सन् २००७ देखि २००८ सम्मको कार्य अनुभव। सहिद स्मारक कलेजमा अर्थशास्त्रको लेक्चररको रुपमा सन् २०१२ देखि २०१८ सम्मको कार्य अनुभव। त्रीनीटी इन्टरनेसनल कलेजमा अर्थशास्त्रको लेक्चररको रुपमा सन् २०१८ देखि २०२० सम्मको कार्य अनुभव। नेपाल पुलिस स्कुलमा सन् २०२० मा करिव १ वर्ष सम्म अर्थशास्त्र विषयको लेक्चररको रुपमा कार्य अनुभव।",
+      "experience_sectors": [
+        "सञ्चार",
+        "शिक्षा",
+        "अर्थशास्त्र",
+        "संचालक"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 6,
+      "name": "विजय मान श्रेष्ठ",
+      "position": "संचालक (सर्वसाधारण)",
+      "nationality": "नेपाली",
+      "address": "टोखा, १० काठमाण्डौ",
+      "shares": 100,
+      "education": "PG Diploma in Sanitary Engineering",
+      "experience": "आइ.सि.एफ.सि. फाइनान्स लिमिटेडमा मिति २०८१/०३/१४ देखि हाल सम्म संचालक पदमा कार्यरत। Freelance Consultant as Wash Engineer मा सन् २०१९ देखि हाल सम्म कार्यरत। काठमाण्डौ उपत्यका खानेपानी लिमिटेडमा सन् २००८ देखि २०१९ सम्म विभिन्न पदमा रही कार्य गरेको कार्यअनुभव। मेलम्ची वाटर सप्लाई डेभलपमेन्ट बोर्डमा सन् १९९९ देखि २००२ सम्म वरिष्ठ इन्जिनियरको रुपमा कार्यअनुभव। नेपाल वाटर सप्लाई कर्पोरेशनमा सन् १९९८ देखि १९९९ सम्म सहायक प्रबन्धकको रुपमा कार्यअनुभव। मल्टी डिसिप्लिनरी कन्सल्टेन्ट्स प्रा.ली. मा सन् १९९७ देखि १९९८ सम्म टीम लिडरको रुपमा कार्यअनुभव। नेपाल वाटर सप्लाई कर्पोरेशनमा सन् १९८६ देखि १९९७ सम्म विभिन्न पदमा रही कार्य गरेको कार्यअनुभव। डिपार्टमेन्ट अफ हाउजिङ्ग विल्डीङ्ग एण्ड फिजिकल प्लानिङ्गमा सन् १९८४ देखि १९८६ सम्म इन्जिनियर कन्स्ट्रक्सन सुपरभिजनको रुपमा कार्य गरेको कार्यअनुभव।",
+      "experience_sectors": [
+        "इन्जिनियरिङ्ग",
+        "खानेपानी",
+        "परामर्श",
+        "संचालक"
+      ],
+      "proposed_business": null
+    },
+    {
+      "sn": 7,
+      "name": "रामराज खकुरेल",
+      "position": "संचालक (स्वतन्त्र)",
+      "nationality": "नेपाली",
+      "address": "खरेलथोक-८ काभ्रेपलाञ्चोक",
+      "shares": null,
+      "education": "स्नातकोत्तर",
+      "experience": "आइ.सि.एफ.सि. फाइनान्स लिमिटेडमा मिति २०८१/११/२५ देखि हाल सम्म स्वतन्त्र संचालक पदमा कार्यरत। निजामती सेवा शिक्षा, विज्ञान तथा प्रविधिमा ३० वर्षको कार्य अनुभव भई अवकाश प्राप्त।",
+      "experience_sectors": [
+        "निजामती सेवा",
+        "शिक्षा",
+        "विज्ञान तथा प्रविधि",
+        "संचालक"
+      ],
+      "proposed_business": null
+    }
+  ],
+  "director_affiliations": [
+    {
+      "director_name": "हेमशिखा जोशी गर्ग",
+      "director_address": "का.म.न.पा-१, काठमाण्डौ",
+      "affiliations": [
+        {
+          "company": "लाइफ केयर डिष्ट्रिब्युटर प्रा. लि.",
+          "address": null,
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "माइक्रो प्रा. लि.",
+          "address": null,
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "एपेक्स प्रा. लि.",
+          "address": null,
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "प्रतिज्ञा ट्रेड लिङ्क प्रा. लि.",
+          "address": null,
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "ओम गणेश ईएमपी",
+          "address": null,
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "रचना अधिकारी",
+      "director_address": "भरतपुर चितवन",
+      "affiliations": [
+        {
+          "company": "माउन्टेन इनर्जी नेपाल लिमिटेड",
+          "address": null,
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "आई. पे. रेमिट प्रा. लि",
+          "address": null,
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ]
+    }
+  ]
 }

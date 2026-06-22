@@ -3,13 +3,16 @@
   "source_title": "Beni Hydropower Project Limited",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/03/16/ML5jP2iflc3iq8Q6PrSQ1zFygUQJZJyrNcm511Me.pdf",
   "issue_date": "2026-03-16",
-  "extracted_at": "2026-06-22T09:22:56+00:00",
+  "extracted_at": "2026-06-22T10:45:33+00:00",
   "total_pages": 51,
   "table_pages": [
+    14,
+    15,
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "counts": {
     "shareholders": 22,
@@ -17,9 +20,9 @@
     "director_affiliations": 5
   },
   "llm_cost": {
-    "in": 2516,
-    "out": 4382,
-    "cost_usd": 0.0117
+    "in": 4112,
+    "out": 4465,
+    "cost_usd": 0.0124
   },
   "shareholders": [
     {
@@ -57,13 +60,13 @@
       "name": "बेनी इन्फ्रास्ट्रक्चर इन्भेष्टमेन्ट प्रा.लि.",
       "address": "का.म.न.पा. वडा नं. १, काठमाडौं",
       "age": null,
-      "nationality": "नेपाली",
-      "education": null,
+      "nationality": "लागू नहुने",
+      "education": "लागू नहुने",
       "shares": 752550,
       "share_percent": 9.05,
-      "experience": null,
+      "experience": "लागू नहुने",
       "experience_sectors": [],
-      "proposed_business": null
+      "proposed_business": "लागू नहुने"
     },
     {
       "sn": 4,
@@ -100,13 +103,13 @@
       "name": "बि.जि. ग्रुप प्रा.लि.",
       "address": "काठमाडौं जिल्ला, का.म.न.पा. वडा नं. १",
       "age": null,
-      "nationality": "नेपाली",
-      "education": null,
+      "nationality": "लागू नहुने",
+      "education": "लागू नहुने",
       "shares": 310300,
       "share_percent": 3.73,
-      "experience": null,
+      "experience": "लागू नहुने",
       "experience_sectors": [],
-      "proposed_business": null
+      "proposed_business": "लागू नहुने"
     },
     {
       "sn": 7,
@@ -143,17 +146,17 @@
       "name": "वान वो वान कम्पनी लिमिटेड",
       "address": "काठमाडौं",
       "age": null,
-      "nationality": "नेपाली",
-      "education": null,
+      "nationality": "लागू नहुने",
+      "education": "लागू नहुने",
       "shares": 648000,
       "share_percent": 7.79,
-      "experience": null,
+      "experience": "लागू नहुने",
       "experience_sectors": [],
-      "proposed_business": null
+      "proposed_business": "लागू नहुने"
     },
     {
       "sn": 10,
-      "name": "लाक्पा तेन्जिङ्ग शेर्पा",
+      "name": "लाक्पा तेन्जिङ शेर्पा",
       "address": "काठमाडौं जिल्ला, का.म.न.पा. वडा नं. ३२",
       "age": 59,
       "nationality": "नेपाली",
@@ -162,7 +165,7 @@
       "share_percent": 1.2,
       "experience": "भू.पू. सैनिक",
       "experience_sectors": [
-        "सैनिक"
+        "सैन्य"
       ],
       "proposed_business": "३० वर्षको अनुभव"
     },
@@ -186,17 +189,17 @@
       "name": "बि.आई.जि. इन्भेष्टमेन्ट प्रा.लि.",
       "address": "ललितपुर जिल्ला, ललितपुर महानगरपालिका वडा नं. १४",
       "age": null,
-      "nationality": "नेपाली",
-      "education": null,
+      "nationality": "लागू नहुने",
+      "education": "लागू नहुने",
       "shares": 320000,
       "share_percent": 3.85,
-      "experience": null,
+      "experience": "लागू नहुने",
       "experience_sectors": [],
-      "proposed_business": null
+      "proposed_business": "लागू नहुने"
     },
     {
       "sn": 13,
-      "name": "सोनाम छिरिङ्ग शेर्पा",
+      "name": "सोनाम छिरिङ शेर्पा",
       "address": "घोर्टली गा.वि.स. ८, सिन्धुपाल्चोक",
       "age": 31,
       "nationality": "नेपाली",
@@ -276,8 +279,7 @@
       "share_percent": 1.29,
       "experience": "व्यापार व्यवसाय",
       "experience_sectors": [
-        "व्यापार",
-        "व्यवसाय"
+        "व्यापार"
       ],
       "proposed_business": "५ वर्षको अनुभव"
     },
@@ -298,7 +300,7 @@
     },
     {
       "sn": 20,
-      "name": "छिरिङ्ग शेर्पा",
+      "name": "छिरिङ शेर्पा",
       "address": "काठमाडौं जिल्ला, का.म.न.पा. वडा नं. ०५",
       "age": 37,
       "nationality": "नेपाली",
@@ -349,8 +351,7 @@
       "education": "स्नातकोत्तर (समाजशास्त्र)",
       "experience": "सभापति-स्वतन्त्र उर्जा उत्पादक संघ नेपाल, काठमाडौं (२०८० देखि हालसम्म)",
       "experience_sectors": [
-        "जलविद्युत",
-        "उर्जा"
+        "जलविद्युत"
       ],
       "proposed_business": "जलविद्युत उत्पादन क्षेत्रमा २० वर्षको अनुभव"
     },
@@ -364,8 +365,7 @@
       "education": "सिभिल इन्जिनियर",
       "experience": "अध्यक्ष, काठमाडौं इन्जिनियरिङ्ग कलेज (२०६२ देखि हालसम्म)",
       "experience_sectors": [
-        "शिक्षा",
-        "इन्जिनियरिङ्ग"
+        "शिक्षा"
       ],
       "proposed_business": "नभएको"
     },
@@ -379,19 +379,19 @@
       "education": "स्नातकोत्तर (ग्रामीण विकास)",
       "experience": "नभएको",
       "experience_sectors": [
-        "पूँजी बजार"
+        "पुँजी बजार"
       ],
       "proposed_business": "२०५५ देखि हालसम्म पूँजी बजारक्षेत्रमा आवद्ध"
     },
     {
       "sn": 4,
-      "name": "सोनम छिरिङ्ग शेर्पा",
+      "name": "सोनम छिरिङ शेर्पा",
       "address": "बौद्ध",
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": 736000,
       "education": "स्नातक (व्यवस्थापन)",
-      "experience": "प्रबन्ध संचालक- सप्राइट प्रा. लि. (डिपार्टमेन्ट स्टोर) २०६४ देखि हालसम्म",
+      "experience": "प्रवन्ध संचालक- सपराइट प्रा. लि. (डिपार्टमेन्ट स्टोर) २०६४ देखि हालसम्म",
       "experience_sectors": [
         "व्यवसाय"
       ],
@@ -415,7 +415,7 @@
   "director_affiliations": [
     {
       "director_name": "श्री गणेश कार्की",
-      "director_address": "कुपण्डोल",
+      "director_address": "कुपण्डोल (प्रतिनिधि युग होल्डीङ्ग प्रा.लि.)",
       "affiliations": [
         {
           "company": "स्वतन्त्र उर्जा उत्पादक संघ नेपाल",
@@ -428,7 +428,7 @@
     },
     {
       "director_name": "श्री हिरेन्द्र मान प्रधान",
-      "director_address": "महाराजगंज",
+      "director_address": "महाराजगंज (प्रतिनिधि वान वो वान कम्पनी लिमिटेड)",
       "affiliations": [
         {
           "company": "काठमाडौं इन्जिनियरिङ्ग कलेज",
@@ -445,13 +445,13 @@
       "affiliations": []
     },
     {
-      "director_name": "श्री सोनम छिरिङ्ग शेर्पा",
+      "director_name": "श्री सोनम छिरिङ शेर्पा",
       "director_address": "बौद्ध",
       "affiliations": [
         {
-          "company": "सप्राइट प्रा. लि. (डिपार्टमेन्ट स्टोर)",
-          "address": "ठमेल",
-          "role": "प्रबन्ध संचालक",
+          "company": "सपराइट प्रा. लि.",
+          "address": "ठमेल (डिपार्टमेन्ट स्टोर)",
+          "role": "प्रवन्ध संचालक",
           "from": "2064",
           "to": "हालसम्म"
         }
@@ -469,7 +469,7 @@
           "to": "हालसम्म"
         },
         {
-          "company": "सुपर शेर्पा एण्ड वेभ-जभी",
+          "company": "सुपर शेर्पा एण्ड वेभ-जेभी",
           "address": "काठमाडौं",
           "role": "पाटनर",
           "from": "2016",
