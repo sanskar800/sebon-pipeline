@@ -3,7 +3,7 @@
   "source_title": "Siddhartha Equity Fund-2-Mutual Fund",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/04/30/AT7AmZzN4Iz8ZAF1ga4uQM1b6mmXUf2HFHNpf4YY.pdf",
   "issue_date": "2026-04-30",
-  "extracted_at": "2026-06-23T08:11:04+00:00",
+  "extracted_at": "2026-06-23T08:30:05+00:00",
   "total_pages": 54,
   "table_pages": [
     19,
@@ -24,8 +24,8 @@
   },
   "llm_cost": {
     "in": 5699,
-    "out": 9802,
-    "cost_usd": 0.0262
+    "out": 9476,
+    "cost_usd": 0.0254
   },
   "shareholders": [
     {
@@ -266,7 +266,7 @@
       ],
       "experience_sectors": [
         "व्यापार",
-        "बीमा",
+        "इन्स्योरेन्स",
         "रियल स्टेट",
         "उद्योग"
       ]
@@ -292,7 +292,7 @@
       "experience_sectors": [
         "व्यापार",
         "रियल स्टेट",
-        "बीमा",
+        "इन्स्योरेन्स",
         "बैंकिङ्ग"
       ]
     },
@@ -365,7 +365,7 @@
     },
     {
       "sn": 16,
-      "name": "श्री रटनलाल केडिया",
+      "name": "श्री रतनलाल केडिया",
       "address": "वीरगञ्ज-७, अलैखिया रोड",
       "age": null,
       "nationality": "नेपाली",
@@ -736,7 +736,7 @@
         }
       ],
       "experience_sectors": [
-        "व्यापार"
+        "व्यवसाय"
       ]
     },
     {
@@ -758,7 +758,7 @@
         }
       ],
       "experience_sectors": [
-        "व्यापार"
+        "व्यवसाय"
       ]
     },
     {
@@ -978,7 +978,7 @@
         }
       ],
       "experience_sectors": [
-        "व्यापार"
+        "कार्पेट"
       ]
     },
     {
@@ -1007,19 +1007,13 @@
       "sector_experience": [],
       "other_experience": [
         {
-          "organization": "सिमेन्ट तथा ट्राभल एण्ड टुर व्यवसाय",
-          "role": "संचालक",
+          "organization": "सिमेन्ट तथा ट्राभल एण्ड टुर व्यवसायमा १३ वर्ष भन्दा बढीको अनुभव",
+          "role": null,
           "from": null,
           "to": null
         },
         {
-          "organization": "अर्घाखाँची सिमेन्ट प्रा. लि.",
-          "role": "संचालक",
-          "from": null,
-          "to": null
-        },
-        {
-          "organization": "बृज सिमेन्ट प्रा. लि.",
+          "organization": "अर्घाखाँची सिमेन्ट प्रा. लि. तथा बृज सिमेन्ट प्रा. लि.",
           "role": "संचालक",
           "from": null,
           "to": null
@@ -1041,19 +1035,13 @@
       "sector_experience": [],
       "other_experience": [
         {
-          "organization": "PricewaterhouseCoopers LLP, U.K.",
+          "organization": "U.K. स्थित PricewaterhouseCoopers LLP",
           "role": null,
           "from": null,
           "to": null
         },
         {
-          "organization": "रिलाईन्स सुपरटेक सिमेन्ट",
-          "role": null,
-          "from": null,
-          "to": null
-        },
-        {
-          "organization": "रिलाईन्स पेपर मिल्स",
+          "organization": "रिलाईन्स सुपरटेक सिमेन्ट तथा रिलाईन्स पेपर मिल्समा अनुभव",
           "role": null,
           "from": null,
           "to": null
@@ -1072,7 +1060,7 @@
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": null,
-      "education": "एम.बि.एस.",
+      "education": "एम.वि.एस.",
       "sector_experience": [],
       "other_experience": [
         {
@@ -1105,12 +1093,12 @@
       "position": "स्वतन्त्र संचालक",
       "nationality": "नेपाली",
       "shares": null,
-      "education": "एम.बि.ए.",
+      "education": "एम.वि.ए.",
       "sector_experience": [],
       "other_experience": [
         {
-          "organization": "वित्त शास्त्रको अध्यापन कार्य",
-          "role": "प्राध्यापक",
+          "organization": "वित्त शास्त्रको अध्यापन कार्यमा २५ वर्ष भन्दा बढीको अनुभव",
+          "role": null,
           "from": null,
           "to": null
         },
@@ -1118,7 +1106,7 @@
           "organization": "शंकर देव क्याम्पस",
           "role": "प्राध्यापक",
           "from": null,
-          "to": null
+          "to": "हाल"
         }
       ],
       "experience_sectors": [
@@ -1136,8 +1124,8 @@
       "sector_experience": [],
       "other_experience": [
         {
-          "organization": "प्राध्यापन क्षेत्र",
-          "role": "प्राध्यापक",
+          "organization": "प्राध्यापन क्षेत्रमा २२ वर्ष भन्दा बढीको कार्यअनुभव",
+          "role": null,
           "from": null,
           "to": null
         },
@@ -1145,7 +1133,7 @@
           "organization": "शंकर देव क्याम्पस",
           "role": "प्राध्यापक",
           "from": null,
-          "to": null
+          "to": "हाल"
         }
       ],
       "experience_sectors": [
@@ -1172,7 +1160,7 @@
       "director_address": null,
       "affiliations": [
         {
-          "company": "रिलाईन्स पेपर मिल्स प्रा. लि.",
+          "company": "रिलाईन्स पेपर मिल्स् प्रा. लि.",
           "address": "भैरहवा",
           "role": "संचालक",
           "from": null,

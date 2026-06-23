@@ -1,0 +1,281 @@
+{
+  "company": "Salapa Bikash Bank Ltd.",
+  "source_title": "Salapa Bikash Bank Ltd.- General Public",
+  "prospectus_url": "https://sebon.gov.np/uploads/2025/12/31/VVJefJLqM3FzjCpcyTmmhhysotrwnBvyKOJMFbA7.pdf",
+  "issue_date": "2025-12-31",
+  "extracted_at": "2026-06-23T08:45:42+00:00",
+  "total_pages": 57,
+  "table_pages": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "counts": {
+    "shareholders": 0,
+    "directors": 6,
+    "director_affiliations": 0,
+    "promoter_companies": 0
+  },
+  "llm_cost": {
+    "in": 8119,
+    "out": 1941,
+    "cost_usd": 0.0073
+  },
+  "shareholders": [],
+  "directors": [
+    {
+      "sn": 1,
+      "name": "टंक राई",
+      "address": "दिक्तेल रुपाकोट मझुवागढी नगरपालिका - १२ खोटाङ",
+      "position": "अध्यक्ष",
+      "nationality": "नेपाली",
+      "shares": 8000,
+      "education": "स्नातक",
+      "sector_experience": [
+        {
+          "organization": "बैंकिङ क्षेत्र",
+          "role": "संचालक",
+          "from": null,
+          "to": "१२ वर्ष"
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "जालपा मा.वि.",
+          "role": "विज्ञान शिक्षक",
+          "from": "२०४०",
+          "to": "२०४५"
+        },
+        {
+          "organization": "महेन्द्र ज्योति मा.वि. चौरीखर्क, सोलुखुम्बु",
+          "role": "प्र.अ.",
+          "from": "२०४६ पुस",
+          "to": "२०४७ पुस"
+        },
+        {
+          "organization": "इन्द्रेनी नेपाल प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": "२०६३",
+          "to": "२०७०"
+        },
+        {
+          "organization": "जालपा जनसेवा केन्द्र",
+          "role": "कार्यकारी अध्यक्ष",
+          "from": "२०६५",
+          "to": "२०७१"
+        },
+        {
+          "organization": "साल्पा विकास बैंक लि.",
+          "role": "अध्यक्ष",
+          "from": "२०६९",
+          "to": "हाल"
+        }
+      ],
+      "experience_sectors": [
+        "बैंकिङ",
+        "शिक्षा",
+        "गैरसरकारी संस्था"
+      ]
+    },
+    {
+      "sn": 2,
+      "name": "लब कुमार राई",
+      "address": "ऐसेलुखर्क गाउँपालिका - ५ खोटाङ",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 11400,
+      "education": "स्नातक",
+      "sector_experience": [
+        {
+          "organization": "बैंकिङ क्षेत्र",
+          "role": "संचालक",
+          "from": null,
+          "to": "१२ वर्ष"
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "सि.सु.मा.वि. ऐसेलुखर्क",
+          "role": "नि.मा.वि.शिक्षक",
+          "from": "२०२७",
+          "to": "२०३४"
+        },
+        {
+          "organization": "सि.सु.मा.वि. ऐसेलुखर्क",
+          "role": "मा.वि.शिक्षक",
+          "from": "२०३४",
+          "to": "२०४८"
+        },
+        {
+          "organization": "सि.सु.मा.वि. ऐसेलुखर्क",
+          "role": "प्र.अ.",
+          "from": "२०४८",
+          "to": "२०६८ माघ"
+        },
+        {
+          "organization": "साल्पा विकास बैंक लि.",
+          "role": "संचालक",
+          "from": "२०६९",
+          "to": "हाल"
+        }
+      ],
+      "experience_sectors": [
+        "बैंकिङ",
+        "शिक्षा"
+      ]
+    },
+    {
+      "sn": 3,
+      "name": "शरण कुमार राई",
+      "address": "दिप्रुङ चुइचुम्मा गा.पा. १ खोटाङ",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 12400,
+      "education": "स्नातकोत्तर",
+      "sector_experience": [
+        {
+          "organization": "बैंकिङ क्षेत्र",
+          "role": "संचालक",
+          "from": null,
+          "to": "१२ वर्ष"
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "दिबु ईन्भेष्टमेन्ट कम्पनी लि.",
+          "role": "कार्यकारी प्रबन्धक निर्देशक",
+          "from": "२०६७/०१/१३",
+          "to": "हाल"
+        },
+        {
+          "organization": "साल्पा विकास बैंक लि.",
+          "role": "संचालक",
+          "from": "२०६९",
+          "to": "हाल"
+        }
+      ],
+      "experience_sectors": [
+        "बैंकिङ",
+        "लगानी"
+      ]
+    },
+    {
+      "sn": 4,
+      "name": "हरिन्द्र प्रसाद राई",
+      "address": "खोटेहाङ गाउँपालिका - ५ खोटाङ",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 8900,
+      "education": "स्नातक",
+      "sector_experience": [
+        {
+          "organization": "बैंकिङ क्षेत्र",
+          "role": "संचालक",
+          "from": null,
+          "to": "१२ वर्ष"
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "नेपाल बार काउन्सिल",
+          "role": "सदस्य",
+          "from": "२०५४",
+          "to": "हाल"
+        },
+        {
+          "organization": "साल्पा विकास बैंक लि.",
+          "role": "संचालक",
+          "from": "२०६९",
+          "to": "हाल"
+        }
+      ],
+      "experience_sectors": [
+        "बैंकिङ",
+        "कानुन"
+      ]
+    },
+    {
+      "sn": 5,
+      "name": "चन्द्र बहादुर खड्का",
+      "address": "खोटेहाङ गाउँपालिका - ८ खोटाङ",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 9600,
+      "education": "स्नातक",
+      "sector_experience": [
+        {
+          "organization": "बैंकिङ क्षेत्र",
+          "role": "संचालक",
+          "from": null,
+          "to": "१२ वर्ष"
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "कानुन व्यवसाय",
+          "role": "कानुन व्यवसायी",
+          "from": "२०५२",
+          "to": "हाल"
+        },
+        {
+          "organization": "साल्पा विकास बैंक लि.",
+          "role": "संचालक",
+          "from": "२०६९",
+          "to": "हाल"
+        }
+      ],
+      "experience_sectors": [
+        "बैंकिङ",
+        "कानुन"
+      ]
+    },
+    {
+      "sn": 6,
+      "name": "लता केसी",
+      "address": "रुपन्देही जिल्ला उप मनपा - ६",
+      "position": "स्वतन्त्र संचालक",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "स्नातकोत्तर",
+      "sector_experience": [
+        {
+          "organization": "नेपाल राष्ट्र बैंक",
+          "role": "उपनिर्देशक",
+          "from": null,
+          "to": "अवकाश"
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "नेपाल राष्ट्र बैंक",
+          "role": "उप-निर्देशक (अधिकृत द्वितीय)",
+          "from": "२०४३/०९/१३",
+          "to": "२०७१/१२/२७"
+        },
+        {
+          "organization": "साल्पा विकास बैंक लि.",
+          "role": "स्वतन्त्र संचालक",
+          "from": "२०७८/०८/०१",
+          "to": "हाल"
+        }
+      ],
+      "experience_sectors": [
+        "बैंकिङ",
+        "केन्द्रीय बैंक"
+      ]
+    }
+  ],
+  "director_affiliations": [],
+  "promoter_companies": []
+}

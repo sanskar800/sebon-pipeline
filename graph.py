@@ -68,13 +68,19 @@ def build():
             p = node(a.get("director_name"), "person")
             for af in a.get("affiliations", []):
                 edge(p, node(af.get("company"), "affiliated"), "affiliation", af.get("role") or "आवद्ध")
+        for pc in d.get("promoter_companies", []):       # corporate promoter + its own board
+            cn = node(pc.get("company"), "affiliated")
+            edge(cn, c, "promoter", "प्रवर्द्धक संस्था")
+            for dr in pc.get("directors", []):
+                edge(node(dr.get("name"), "person"), cn, "director", "सञ्चालक")
     return list(nodes.values()), edges
 
 
 GROUP = {"prospectus": ("#2980b9", "IPO company"),
          "affiliated": ("#16a085", "other company"),
          "person": ("#e67e22", "promoter / director")}
-REL = {"shareholder": "#9b59b6", "director": "#2980b9", "affiliation": "#16a085"}
+REL = {"shareholder": "#9b59b6", "director": "#2980b9", "affiliation": "#16a085",
+       "promoter": "#c0392b"}
 
 
 def write_html(nodes, edges):

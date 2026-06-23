@@ -3,7 +3,7 @@
   "source_title": "Beni Hydropower Project Limited",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/03/16/ML5jP2iflc3iq8Q6PrSQ1zFygUQJZJyrNcm511Me.pdf",
   "issue_date": "2026-03-16",
-  "extracted_at": "2026-06-22T10:45:33+00:00",
+  "extracted_at": "2026-06-23T08:34:40+00:00",
   "total_pages": 51,
   "table_pages": [
     14,
@@ -17,12 +17,13 @@
   "counts": {
     "shareholders": 22,
     "directors": 5,
-    "director_affiliations": 5
+    "director_affiliations": 4,
+    "promoter_companies": 6
   },
   "llm_cost": {
-    "in": 4112,
-    "out": 4465,
-    "cost_usd": 0.0124
+    "in": 4563,
+    "out": 7300,
+    "cost_usd": 0.0196
   },
   "shareholders": [
     {
@@ -34,11 +35,18 @@
       "education": "माध्यमिक",
       "shares": 480000,
       "share_percent": 5.77,
-      "experience": "क वर्ग निर्माण व्यवसायी",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "क वर्ग निर्माण व्यवसायी",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "निर्माण"
-      ],
-      "proposed_business": "२५ वर्षको अनुभव"
+      ]
     },
     {
       "sn": 2,
@@ -46,14 +54,21 @@
       "address": "ललितपुर जिल्ला, ललितपुर महानगरपालिका वडा नं. १५",
       "age": 59,
       "nationality": "नेपाली",
-      "education": "इन्जिनियर",
       "shares": 632867,
       "share_percent": 7.61,
-      "experience": "जलविद्युत विज्ञ",
+      "education": "इन्जिनियर",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "जलविद्युत विज्ञ",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "जलविद्युत"
-      ],
-      "proposed_business": "३० वर्षको अनुभव"
+      ]
     },
     {
       "sn": 3,
@@ -61,12 +76,12 @@
       "address": "का.म.न.पा. वडा नं. १, काठमाडौं",
       "age": null,
       "nationality": "लागू नहुने",
-      "education": "लागू नहुने",
       "shares": 752550,
       "share_percent": 9.05,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": "लागू नहुने"
+      "education": "लागू नहुने",
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 4,
@@ -74,14 +89,21 @@
       "address": "काठमाडौं जिल्ला, का.म.न.पा. वडा नं. १३",
       "age": 73,
       "nationality": "नेपाली",
-      "education": "स्नातक",
       "shares": 100000,
       "share_percent": 1.2,
-      "experience": "इन्धन व्यवसाय",
-      "experience_sectors": [
-        "व्यवसाय"
+      "education": "स्नातक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "इन्धन व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": "५० वर्षको अनुभव"
+      "experience_sectors": [
+        "इन्धन"
+      ]
     },
     {
       "sn": 5,
@@ -89,14 +111,22 @@
       "address": "चितवन जिल्ला, भण्डारा गा.वि.स. वडा नं. ८",
       "age": 51,
       "nationality": "नेपाली",
-      "education": "स्नातक",
       "shares": 99986,
       "share_percent": 1.2,
-      "experience": "इन्धन व्यवसाय, पोल्ट्री व्यवसाय",
-      "experience_sectors": [
-        "व्यवसाय"
+      "education": "स्नातक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "इन्धन व्यवसाय, पोल्ट्री व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": "३० वर्षको अनुभव"
+      "experience_sectors": [
+        "इन्धन",
+        "कृषि"
+      ]
     },
     {
       "sn": 6,
@@ -104,12 +134,12 @@
       "address": "काठमाडौं जिल्ला, का.म.न.पा. वडा नं. १",
       "age": null,
       "nationality": "लागू नहुने",
-      "education": "लागू नहुने",
       "shares": 310300,
       "share_percent": 3.73,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": "लागू नहुने"
+      "education": "लागू नहुने",
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 7,
@@ -117,14 +147,21 @@
       "address": "सोलुखुम्बु जिल्ला, बेनी गा.वि.स. वडा नं. ९",
       "age": 59,
       "nationality": "नेपाली",
-      "education": "स्नातक",
       "shares": 100000,
       "share_percent": 1.2,
-      "experience": "वैदेशिक व्यापार",
+      "education": "स्नातक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वैदेशिक व्यापार",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार"
-      ],
-      "proposed_business": "३० वर्षको अनुभव"
+      ]
     },
     {
       "sn": 8,
@@ -132,14 +169,21 @@
       "address": "सोलुखुम्बु जिल्ला, टाक्सिन्दु गा.वि.स. वडा नं. ९",
       "age": 70,
       "nationality": "नेपाली",
-      "education": "स्नातक",
       "shares": 302329,
       "share_percent": 3.63,
-      "experience": "निर्माण व्यवसायी",
+      "education": "स्नातक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "निर्माण व्यवसायी",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "निर्माण"
-      ],
-      "proposed_business": "४० वर्षको अनुभव"
+      ]
     },
     {
       "sn": 9,
@@ -147,27 +191,34 @@
       "address": "काठमाडौं",
       "age": null,
       "nationality": "लागू नहुने",
-      "education": "लागू नहुने",
       "shares": 648000,
       "share_percent": 7.79,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": "लागू नहुने"
+      "education": "लागू नहुने",
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 10,
-      "name": "लाक्पा तेन्जिङ शेर्पा",
+      "name": "ल्हाक्पा तेन्जिङ शेर्पा",
       "address": "काठमाडौं जिल्ला, का.म.न.पा. वडा नं. ३२",
       "age": 59,
       "nationality": "नेपाली",
-      "education": "माध्यमिक",
       "shares": 100000,
       "share_percent": 1.2,
-      "experience": "भू.पू. सैनिक",
+      "education": "माध्यमिक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "भू.पू. सैनिक",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "सैन्य"
-      ],
-      "proposed_business": "३० वर्षको अनुभव"
+      ]
     },
     {
       "sn": 11,
@@ -175,14 +226,21 @@
       "address": "ह्वाकु गा.वि.स. वडा नं. ८, तेह्रथुम",
       "age": 53,
       "nationality": "नेपाली",
-      "education": "स्नातकोत्तर",
       "shares": 213000,
       "share_percent": 2.56,
-      "experience": "व्यवसाय",
-      "experience_sectors": [
-        "व्यवसाय"
+      "education": "स्नातकोत्तर",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": "२७ वर्षको अनुभव"
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 12,
@@ -190,27 +248,34 @@
       "address": "ललितपुर जिल्ला, ललितपुर महानगरपालिका वडा नं. १४",
       "age": null,
       "nationality": "लागू नहुने",
-      "education": "लागू नहुने",
       "shares": 320000,
       "share_percent": 3.85,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": "लागू नहुने"
+      "education": "लागू नहुने",
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 13,
       "name": "सोनाम छिरिङ शेर्पा",
-      "address": "घोर्टली गा.वि.स. ८, सिन्धुपाल्चोक",
+      "address": "घोर्थली गा.वि.स. ८, सिन्धुपाल्चोक",
       "age": 31,
       "nationality": "नेपाली",
-      "education": "स्नातक",
       "shares": 736000,
       "share_percent": 8.85,
-      "experience": "व्यवसाय",
-      "experience_sectors": [
-        "व्यवसाय"
+      "education": "स्नातक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": "२० वर्षको अनुभव"
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 14,
@@ -218,12 +283,12 @@
       "address": "चन्द्रागिरी न.पा. १, काठमाडौं",
       "age": 56,
       "nationality": "नेपाली",
-      "education": null,
       "shares": 100000,
       "share_percent": 1.2,
-      "experience": "नभएको",
-      "experience_sectors": [],
-      "proposed_business": "नभएको"
+      "education": null,
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 15,
@@ -231,14 +296,21 @@
       "address": "सोलुखुम्बु जिल्ला, तामाखानी गा.वि.स. वडा नं. १",
       "age": 52,
       "nationality": "नेपाली",
-      "education": "माध्यमिक",
       "shares": 105000,
       "share_percent": 1.26,
-      "experience": "वैदेशिक रोजगार",
+      "education": "माध्यमिक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वैदेशिक रोजगार",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "वैदेशिक रोजगार"
-      ],
-      "proposed_business": "१५ वर्षको अनुभव"
+      ]
     },
     {
       "sn": 16,
@@ -246,12 +318,12 @@
       "address": "सिन्धुपाल्चोक जिल्ला, चोकटी गा.वि.स. वडा नं. २",
       "age": 39,
       "nationality": "नेपाली",
-      "education": null,
       "shares": 223000,
       "share_percent": 2.68,
-      "experience": "नभएको",
-      "experience_sectors": [],
-      "proposed_business": "नभएको"
+      "education": null,
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 17,
@@ -259,14 +331,21 @@
       "address": "सोलुखुम्बु जिल्ला, तामाखानी गा.वि.स. वडा नं. १",
       "age": 56,
       "nationality": "नेपाली",
-      "education": "माध्यमिक",
       "shares": 100000,
       "share_percent": 1.2,
-      "experience": "वैदेशिक रोजगार",
+      "education": "माध्यमिक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वैदेशिक रोजगार",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "वैदेशिक रोजगार"
-      ],
-      "proposed_business": "२५ वर्षको अनुभव"
+      ]
     },
     {
       "sn": 18,
@@ -274,14 +353,21 @@
       "address": "गोरखा जिल्ला, फिनाम गा.वि.स. वडा नं. ५",
       "age": 44,
       "nationality": "नेपाली",
-      "education": "स्नातक",
       "shares": 107000,
       "share_percent": 1.29,
-      "experience": "व्यापार व्यवसाय",
+      "education": "स्नातक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार"
-      ],
-      "proposed_business": "५ वर्षको अनुभव"
+      ]
     },
     {
       "sn": 19,
@@ -289,14 +375,21 @@
       "address": "सोलुखुम्बु जिल्ला, टाक्सिन्दु गा.वि.स. वडा नं. ९",
       "age": 46,
       "nationality": "नेपाली",
-      "education": "माध्यमिक",
       "shares": 125000,
       "share_percent": 1.5,
-      "experience": "निर्माण व्यवसायी",
+      "education": "माध्यमिक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "निर्माण व्यवसायी",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "निर्माण"
-      ],
-      "proposed_business": "१५ वर्षको अनुभव"
+      ]
     },
     {
       "sn": 20,
@@ -304,40 +397,61 @@
       "address": "काठमाडौं जिल्ला, का.म.न.पा. वडा नं. ०५",
       "age": 37,
       "nationality": "नेपाली",
-      "education": "स्नातकोत्तर",
       "shares": 110500,
       "share_percent": 1.33,
-      "experience": "वैदेशिक रोजगार",
+      "education": "स्नातकोत्तर",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वैदेशिक रोजगार",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "वैदेशिक रोजगार"
-      ],
-      "proposed_business": "१० वर्षको अनुभव"
+      ]
     },
     {
       "sn": 21,
       "name": "युएन महर्जन",
-      "address": "ललितपुर जिल्ला, ल.पु.उ.म.न.पा. वडा नं. ४",
+      "address": "ललितपुर जिल्ला, ल.पु. उप.म.न.पा. वडा नं. ४",
       "age": 48,
       "nationality": "नेपाली",
-      "education": "स्नातक",
       "shares": 256570,
       "share_percent": 3.08,
-      "experience": "नभएको",
-      "experience_sectors": [],
-      "proposed_business": "१० वर्षको अनुभव"
+      "education": "स्नातक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "१० वर्षको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": []
     },
     {
       "sn": 22,
       "name": "युगजुङ्ग कार्की",
-      "address": "ललितपुर जिल्ला, ल.पु.उ.म.न.पा. वडा नं. ४",
+      "address": "ललितपुर जिल्ला, ल.पु. उप.म.न.पा. वडा नं. ४",
       "age": 23,
       "nationality": "नेपाली",
-      "education": "माध्यमिक",
       "shares": 166000,
       "share_percent": 2.0,
-      "experience": "नभएको",
-      "experience_sectors": [],
-      "proposed_business": "५ वर्षको अनुभव"
+      "education": "माध्यमिक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "५ वर्षको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": []
     }
   ],
   "directors": [
@@ -349,11 +463,61 @@
       "nationality": "नेपाली",
       "shares": 10000,
       "education": "स्नातकोत्तर (समाजशास्त्र)",
-      "experience": "सभापति-स्वतन्त्र उर्जा उत्पादक संघ नेपाल, काठमाडौं (२०८० देखि हालसम्म)",
+      "sector_experience": [
+        {
+          "organization": "जलविद्युत उत्पादन क्षेत्र",
+          "role": null,
+          "from": "2070",
+          "to": "2080"
+        },
+        {
+          "organization": "२५ मे.वा. सिंगटी हाईड्रो पावर",
+          "role": "निर्माण कार्य सम्पन्न गरेको",
+          "from": "2071",
+          "to": "2078"
+        },
+        {
+          "organization": "४.२ मे.वा. सभा खोला जलविद्युत आयोजना",
+          "role": "निर्माण कार्य सम्पन्न गरेको",
+          "from": "2069",
+          "to": "2074"
+        },
+        {
+          "organization": "५४ मे.वा. सुपर दोर्दी खोला जलविद्युत आयोजना",
+          "role": "निर्माण कार्य सम्पन्न गरेको",
+          "from": "2078",
+          "to": "2080"
+        },
+        {
+          "organization": "१५ मे.वा. र ४.१ मे.वा. को निर्माणाधिन सभा खोला जलविद्युत आयोजना",
+          "role": null,
+          "from": "2078",
+          "to": "हाल"
+        },
+        {
+          "organization": "२१ मे.वा. निर्माणाधिन खुदी खोला जलविद्युत आयोजना",
+          "role": null,
+          "from": "2078",
+          "to": "हाल"
+        },
+        {
+          "organization": "३.२ मे.वा. निर्माणाधिन गेलुम खोला जलविद्युत आयोजना",
+          "role": null,
+          "from": "2074",
+          "to": "2080"
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "स्वतन्त्र उर्जा उत्पादक संघ नेपाल, काठमाडौं",
+          "role": "सभापति",
+          "from": "2080",
+          "to": "हाल"
+        }
+      ],
       "experience_sectors": [
         "जलविद्युत"
-      ],
-      "proposed_business": "जलविद्युत उत्पादन क्षेत्रमा २० वर्षको अनुभव"
+      ]
     },
     {
       "sn": 2,
@@ -363,11 +527,31 @@
       "nationality": "नेपाली",
       "shares": 648000,
       "education": "सिभिल इन्जिनियर",
-      "experience": "अध्यक्ष, काठमाडौं इन्जिनियरिङ्ग कलेज (२०६२ देखि हालसम्म)",
-      "experience_sectors": [
-        "शिक्षा"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "काठमाडौं इन्जिनियरिङ्ग कलेज",
+          "role": "अध्यक्ष",
+          "from": "2062",
+          "to": "हाल"
+        },
+        {
+          "organization": "योजना विभाग, त्रिभुवन विश्वविद्यालय, कीर्तिपुर",
+          "role": "प्रमुख",
+          "from": "2059",
+          "to": "2062"
+        },
+        {
+          "organization": "वेस्टर्न रिजन क्याम्पस, पोखरा",
+          "role": "क्याम्पस प्रमुख/परियोजना संयोजक",
+          "from": "2046",
+          "to": "2049"
+        }
       ],
-      "proposed_business": "नभएको"
+      "experience_sectors": [
+        "शिक्षा",
+        "इन्जिनियरिङ"
+      ]
     },
     {
       "sn": 3,
@@ -377,11 +561,18 @@
       "nationality": "नेपाली",
       "shares": 50000,
       "education": "स्नातकोत्तर (ग्रामीण विकास)",
-      "experience": "नभएको",
-      "experience_sectors": [
-        "पुँजी बजार"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "पूँजी बजारक्षेत्र",
+          "role": "आवद्ध",
+          "from": "2055",
+          "to": "हाल"
+        }
       ],
-      "proposed_business": "२०५५ देखि हालसम्म पूँजी बजारक्षेत्रमा आवद्ध"
+      "experience_sectors": [
+        "पूँजी बजार"
+      ]
     },
     {
       "sn": 4,
@@ -391,58 +582,79 @@
       "nationality": "नेपाली",
       "shares": 736000,
       "education": "स्नातक (व्यवस्थापन)",
-      "experience": "प्रवन्ध संचालक- सपराइट प्रा. लि. (डिपार्टमेन्ट स्टोर) २०६४ देखि हालसम्म",
-      "experience_sectors": [
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सपराइट प्रा. लि. (डिपार्टमेन्ट स्टोर)",
+          "role": "प्रवन्ध संचालक",
+          "from": "2064",
+          "to": "हाल"
+        }
       ],
-      "proposed_business": "नभएको"
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 5,
       "name": "पेम्बा गेल्बु शेर्पा",
-      "address": "सोलुखुम्बु",
+      "address": null,
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": 125000,
-      "education": "+२",
-      "experience": "अध्यक्ष - सुपर शेर्पा कन्स्ट्रक्सन प्रा. लि. २०१६ देखि हालसम्म",
+      "education": "+2",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सुपर शेर्पा कन्स्ट्रक्सन प्रा. लि.",
+          "role": "सिभिल कन्ट्रयाक्टर",
+          "from": "1996",
+          "to": "1999"
+        },
+        {
+          "organization": "सुपर शेर्पा कन्स्ट्रक्सन प्रा. लि.",
+          "role": "अध्यक्ष",
+          "from": "2016",
+          "to": "हाल"
+        },
+        {
+          "organization": "सुपर शेर्पा एण्ड वैभ–हभी",
+          "role": "पाटनर",
+          "from": "2016",
+          "to": "हाल"
+        }
+      ],
       "experience_sectors": [
         "निर्माण"
-      ],
-      "proposed_business": "नभएको"
+      ]
     }
   ],
   "director_affiliations": [
     {
       "director_name": "श्री गणेश कार्की",
-      "director_address": "कुपण्डोल (प्रतिनिधि युग होल्डीङ्ग प्रा.लि.)",
+      "director_address": "कुपण्डोल",
       "affiliations": [
         {
           "company": "स्वतन्त्र उर्जा उत्पादक संघ नेपाल",
           "address": "काठमाडौं",
           "role": "सभापति",
           "from": "2080",
-          "to": "हालसम्म"
+          "to": "हाल"
         }
       ]
     },
     {
       "director_name": "श्री हिरेन्द्र मान प्रधान",
-      "director_address": "महाराजगंज (प्रतिनिधि वान वो वान कम्पनी लिमिटेड)",
+      "director_address": "महाराजगंज",
       "affiliations": [
         {
           "company": "काठमाडौं इन्जिनियरिङ्ग कलेज",
           "address": "काठमाडौं",
           "role": "अध्यक्ष",
           "from": "2062",
-          "to": "हालसम्म"
+          "to": "हाल"
         }
       ]
-    },
-    {
-      "director_name": "श्री वाई कुमार श्रेष्ठ",
-      "director_address": "नयाँ बानेश्वर",
-      "affiliations": []
     },
     {
       "director_name": "श्री सोनम छिरिङ शेर्पा",
@@ -453,7 +665,7 @@
           "address": "ठमेल (डिपार्टमेन्ट स्टोर)",
           "role": "प्रवन्ध संचालक",
           "from": "2064",
-          "to": "हालसम्म"
+          "to": "हाल"
         }
       ]
     },
@@ -466,14 +678,128 @@
           "address": "काठमाडौं",
           "role": "अध्यक्ष",
           "from": "2016",
-          "to": "हालसम्म"
+          "to": "हाल"
         },
         {
-          "company": "सुपर शेर्पा एण्ड वेभ-जेभी",
+          "company": "सुपर शेर्पा एण्ड वैभ–हभी",
           "address": "काठमाडौं",
           "role": "पाटनर",
           "from": "2016",
-          "to": "हालसम्म"
+          "to": "हाल"
+        }
+      ]
+    }
+  ],
+  "promoter_companies": [
+    {
+      "sn": 1,
+      "company": "बेनी इन्फ्रास्ट्रक्चर इन्भेष्टमेन्ट प्रा.लि.",
+      "address": "का.जि.का.म.न.पा. वडा नं. ०१",
+      "profile": "कम्पनी रजिष्ट्रार कार्यालयमा मिति २०७१/०८/१२ गते दर्ता भएको यस संस्थाले विभिन्न जलविद्युत उत्पादन तथा वितरण गर्नकोलागि मुख्य लगानीकर्ताको रुपमा रहेको छ । कम्पनीको मुख्य उद्देश्य साना ठूला जलविद्युत आयोजनामा लगानी गर्ने हो । अधिकृत पूँजी : २५,००,००,०००, जारी पूँजी : २५,००,००,०००, चुक्ता पूँजी : २,००,००,०००",
+      "directors": [
+        {
+          "name": "समन मानन्धर",
+          "address": "नयाँ बजार"
+        }
+      ]
+    },
+    {
+      "sn": 2,
+      "company": "बि.जि. ग्रुप प्रा.लि.",
+      "address": "का.जि.का.म.न.पा. वडा नं. ०१",
+      "profile": "कम्पनी रजिष्ट्रार कार्यालयमा मिति २०६७/१०/१४ गते दर्ता भएको यस संस्थाले विभिन्न जलविद्युत उत्पादन तथा वितरण गर्नकोलागि मुख्य लगानीकर्ताको रुपमा रहेको छ । कम्पनीको मुख्य उद्देश्य सम्भावित भएका साना, मझौला तथा ठूला जलविद्युत उत्पादन, प्रसारण तथा वितरण गर्न लगानी गर्ने । अधिकृत पूँजी : १०,००,००,०००, जारी पूँजी : १०,००,००,०००, चुक्ता पूँजी : ४,००,००,०००",
+      "directors": [
+        {
+          "name": "गणेश कार्की",
+          "address": "कुपण्डोल"
+        },
+        {
+          "name": "बटु लामिछाने",
+          "address": "बुढानिलकण्ठ"
+        }
+      ]
+    },
+    {
+      "sn": 3,
+      "company": "वान वो वान कम्पनी लिमिटेड",
+      "address": "काठमाडौं",
+      "profile": "कम्पनी रजिष्ट्रार कार्यालयमा मिति २०६४/१०/१७ गते दर्ता भएको यस संस्थाले विभिन्न जलविद्युत उत्पादन तथा वितरण गर्नकोलागि मुख्य लगानीकर्ताको रुपमा रहेको छ । कम्पनीको मुख्य उद्देश्य जलविद्युत, खनिज, शिक्षा, धितोपत्र, व्यापार, आदि काम गर्ने विभिन्न कम्पनीहरूको स्थापना गर्ने तथा पहिले नै स्थापना भै सकेका कम्पनीको शेयरमा लगानी गरी पूँजी परिचालन गर्न सहयोग गर्ने । अधिकृत पूँजी : १५,००,००,०००, जारी पूँजी : १५,००,००,०००, चुक्ता पूँजी : १२,३६,६०,०००",
+      "directors": [
+        {
+          "name": "हिरेन्द्र मान प्रधान",
+          "address": "महाराजगंज"
+        },
+        {
+          "name": "कृष्ण प्रसाद सिग्देल",
+          "address": "महाराजगंज"
+        },
+        {
+          "name": "कन्हैया लाल गुप्ता",
+          "address": "बालुवाटार"
+        },
+        {
+          "name": "विनोद कुमार तिमिल्सिना",
+          "address": "धुम्बाराही"
+        },
+        {
+          "name": "ध्रुव कुमार उप्रेती",
+          "address": "वनस्थली"
+        },
+        {
+          "name": "खगेन्द्र प्रसाद उप्रेती",
+          "address": "सुकेधारा"
+        }
+      ]
+    },
+    {
+      "sn": 4,
+      "company": "बि.आई.जि. इन्भेष्टमेन्ट प्रा.लि.",
+      "address": "ललितपुर महानगरपालिका वडा नं. १४",
+      "profile": "कम्पनी रजिष्ट्रार कार्यालयमा मिति २०७३/०९/२७ गते दर्ता भएको यस संस्थाले पब्लिक लिमिटेड कम्पनी, प्राइभेट लिमिटेड कम्पनी, बैंक तथा वित्तीय संस्थाहरू, बीमा कम्पनीको शेयर, धितोपत्रमा लगानी गर्ने, नेपाल सरकारले जारी गरेका बचत पत्र तथा ऋणपत्रमा लगानी गर्ने, जलविद्युतमा लगानी गर्न मुख्य उद्देश्य रहेको छ । अधिकृत पूँजी : १०,००,००,०००, जारी पूँजी : ५,००,००,०००, चुक्ता पूँजी : ५,००,००,०००",
+      "directors": [
+        {
+          "name": "राम कुमार राई",
+          "address": "ललितपुर"
+        },
+        {
+          "name": "पृथ्वी राज राई",
+          "address": "ललितपुर"
+        },
+        {
+          "name": "विनोद बुढाथोकी",
+          "address": "रुपन्देही"
+        }
+      ]
+    },
+    {
+      "sn": 5,
+      "company": "उर्जा तथा प्राविधिक विकास प्रा. लिमिटेड",
+      "address": "ललितपुर",
+      "profile": "राष्ट्रको पूर्वाधार विकासकोलागि विज्ञहरूका समूहले वि.स. २०७० वैशाखमा उर्जा तथा प्राविधिक विकास प्रा. लिमिटेडको स्थापना गरेको थियो । कम्पनी रजिष्ट्रार कार्यालयमा मिति २०७०/०१/१२ गते दर्ता भएको यस संस्थासँग आयोजनामा प्रमाणित विशेषज्ञता रही अद्वितीय व्यापार मोडेल छ । यस संस्थाको लगानीकर्तासँग पूर्वाधार आयोजनाहरूको कार्यान्वयन गर्न राम्रो अनुभव रहेको छ । साथै, यस कम्पनीको मुख्य उद्देश्य जलविद्युत तथा अन्य उर्जा उत्पादन गर्ने कम्पनीहरूमा लगानी गर्ने रहेको छ । अधिकृत पूँजी : २,००,००,०००, जारी पूँजी : १,००,००,०००, चुक्ता पूँजी : ७५,००,०००",
+      "directors": [
+        {
+          "name": "दिलिप कुमार दिओ",
+          "address": "कुपण्डोल"
+        },
+        {
+          "name": "अनिल महर्जन",
+          "address": "गोदावरी-१४, ललितपुर"
+        },
+        {
+          "name": "शालिकराम पौडेल",
+          "address": "भरतपुर"
+        }
+      ]
+    },
+    {
+      "sn": 6,
+      "company": "युग होल्डीङ्ग प्रा.लि.",
+      "address": "ललितपुर महानगरपालिका वडा नं. ०२",
+      "profile": "कम्पनी रजिष्ट्रार कार्यालयमा मिति २०७५/०५/२४ गते दर्ता भएको घरजग्गा कारोबार र जलविद्युत आयोजनाहरूमा लगानी गर्न मुख्य उद्देश्य रहेको छ । अधिकृत पूँजी : ५,००,०००, जारी पूँजी : ५,००,०००, चुक्ता पूँजी : ५,००,०००",
+      "directors": [
+        {
+          "name": "युग जंग कार्की",
+          "address": "कुपण्डोल"
         }
       ]
     }

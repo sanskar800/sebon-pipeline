@@ -3,7 +3,7 @@
   "source_title": "Everest Colour Ltd.- General Public",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/06/05/CuPHT5KFC3AHWRvZ71KHV1ZDhuqZhlWMnzGlTWNh.pdf",
   "issue_date": "2026-06-05",
-  "extracted_at": "2026-06-22T10:36:50+00:00",
+  "extracted_at": "2026-06-23T08:23:57+00:00",
   "total_pages": 60,
   "table_pages": [
     16,
@@ -24,12 +24,13 @@
   "counts": {
     "shareholders": 23,
     "directors": 5,
-    "director_affiliations": 5
+    "director_affiliations": 5,
+    "promoter_companies": 3
   },
   "llm_cost": {
-    "in": 7836,
-    "out": 4408,
-    "cost_usd": 0.0134
+    "in": 8287,
+    "out": 6382,
+    "cost_usd": 0.0184
   },
   "shareholders": [
     {
@@ -41,12 +42,19 @@
       "education": "माध्यमिक",
       "shares": 160500,
       "share_percent": 7.26,
-      "experience": "शिक्षण र व्यापार (६ वर्ष)",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "शिक्षण र व्यापार (६ वर्ष)",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "शिक्षण",
         "व्यापार"
-      ],
-      "proposed_business": "छैन"
+      ]
     },
     {
       "sn": 2,
@@ -57,12 +65,19 @@
       "education": "उच्च माध्यमिक",
       "shares": 150000,
       "share_percent": 6.79,
-      "experience": "आयात/निर्यात क्षेत्रमा ५ वर्षको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "आयात/निर्यात क्षेत्रमा ५ वर्षको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "आयात",
         "निर्यात"
-      ],
-      "proposed_business": "छैन"
+      ]
     },
     {
       "sn": 3,
@@ -73,9 +88,18 @@
       "education": "स्नातकोत्तर",
       "shares": 141650,
       "share_percent": 6.41,
-      "experience": "२४ वर्षको अनुभव",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [
+        {
+          "organization": "२४ वर्षको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
+      "experience_sectors": [
+        "रंग व्यवसाय"
+      ]
     },
     {
       "sn": 4,
@@ -86,11 +110,25 @@
       "education": "स्नातक",
       "shares": 131450,
       "share_percent": 5.95,
-      "experience": "कला सम्बन्धि १ वर्षको अनुभव",
+      "sector_experience": [
+        {
+          "organization": "३ वर्ष",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "कला सम्बन्धि १ वर्षको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "कला"
-      ],
-      "proposed_business": "३ वर्ष"
+      ]
     },
     {
       "sn": 5,
@@ -101,11 +139,18 @@
       "education": "स्नातक",
       "shares": 100000,
       "share_percent": 4.52,
-      "experience": "व्यापार (१५ वर्ष)",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "व्यापार (१५ वर्ष)",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार"
-      ],
-      "proposed_business": "छैन"
+      ]
     },
     {
       "sn": 6,
@@ -116,13 +161,19 @@
       "education": "प्रवीणता प्रमाणपत्र",
       "shares": 75000,
       "share_percent": 3.39,
-      "experience": "स्थानीय बजार तथा आयात/निर्यातमा २० वर्षको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "स्थानीय बजार तथा आयात/निर्यातमा २० वर्षको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
-        "स्थानीय बजार",
         "आयात",
         "निर्यात"
-      ],
-      "proposed_business": "छैन"
+      ]
     },
     {
       "sn": 7,
@@ -131,13 +182,20 @@
       "age": 27,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
-      "shares": 44100,
+      "shares": 43500,
       "share_percent": 2.0,
-      "experience": "व्यापार विश्लेषक (४ वर्ष)",
-      "experience_sectors": [
-        "व्यापार"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "व्यापार विश्लेषक (४ वर्ष)",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": "छैन"
+      "experience_sectors": [
+        "व्यापार विश्लेषण"
+      ]
     },
     {
       "sn": 8,
@@ -148,24 +206,38 @@
       "education": "स्नातक",
       "shares": 79068,
       "share_percent": 3.58,
-      "experience": "२१ वर्ष",
-      "experience_sectors": [],
-      "proposed_business": "छैन"
+      "sector_experience": [
+        {
+          "organization": "२१ वर्ष",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 9,
       "name": "विजय रानाभाट",
-      "address": "जि. काठमाडौँ, कानपा, वडा नं. ९, परिवर्तित का.म.न.पा. वडा नं ९",
+      "address": "जि. काठमाडौँ, कानपा, वडा नं. ९, परिवर्तित का.म.पा. वडा नं ९",
       "age": 46,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
       "shares": 56000,
       "share_percent": 2.53,
-      "experience": "शेयर बजार (२० वर्ष)",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "शेयर बजार (२० वर्ष)",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "शेयर बजार"
-      ],
-      "proposed_business": "छैन"
+      ]
     },
     {
       "sn": 10,
@@ -176,11 +248,18 @@
       "education": "स्नातक",
       "shares": 50500,
       "share_percent": 2.29,
-      "experience": "दुरसञ्चारमा ६ वर्ष",
-      "experience_sectors": [
-        "दुरसञ्चार"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "दुरसञ्चारमा ६ वर्ष",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": "छैन"
+      "experience_sectors": [
+        "दूरसञ्चार"
+      ]
     },
     {
       "sn": 11,
@@ -188,12 +267,12 @@
       "address": "जि. काठमाडौँ, का.म.पा. वडा नं २२ खिचापोखरी",
       "age": 8,
       "nationality": "नेपाली",
-      "education": "छैन",
+      "education": null,
       "shares": 50000,
       "share_percent": 2.26,
-      "experience": "छैन",
-      "experience_sectors": [],
-      "proposed_business": "छैन"
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 12,
@@ -204,9 +283,16 @@
       "education": "स्नातक",
       "shares": 40646,
       "share_percent": 1.84,
-      "experience": "१५ वर्ष",
-      "experience_sectors": [],
-      "proposed_business": "छैन"
+      "sector_experience": [
+        {
+          "organization": "१५ वर्ष",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 13,
@@ -217,9 +303,9 @@
       "education": "माध्यमिक",
       "shares": 40000,
       "share_percent": 1.81,
-      "experience": "छैन",
-      "experience_sectors": [],
-      "proposed_business": "छैन"
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 14,
@@ -227,12 +313,19 @@
       "address": "जिल्ला चितवन, गितानगर ५",
       "age": 62,
       "nationality": "नेपाली",
-      "shares": 39891,
-      "share_percent": 1.81,
       "education": "माध्यमिक",
-      "experience": "१५ वर्ष",
-      "experience_sectors": [],
-      "proposed_business": "छैन"
+      "shares": 39811,
+      "share_percent": 1.81,
+      "sector_experience": [
+        {
+          "organization": "१५ वर्ष",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 15,
@@ -240,12 +333,19 @@
       "address": "हल्दीवारी ३, झापा",
       "age": 46,
       "nationality": "नेपाली",
+      "education": "माध्यमिक",
       "shares": 35145,
       "share_percent": 1.59,
-      "education": "माध्यमिक",
-      "experience": "२१ वर्ष",
-      "experience_sectors": [],
-      "proposed_business": "छैन"
+      "sector_experience": [
+        {
+          "organization": "२१ वर्ष",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 16,
@@ -253,12 +353,19 @@
       "address": "जिल्ला रुपन्देही, बुटवल ७",
       "age": 35,
       "nationality": "नेपाली",
+      "education": "स्नातक",
       "shares": 66000,
       "share_percent": 1.49,
-      "education": "स्नातक",
-      "experience": "१८ वर्ष",
-      "experience_sectors": [],
-      "proposed_business": "छैन"
+      "sector_experience": [
+        {
+          "organization": "१८ वर्ष",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 17,
@@ -266,27 +373,34 @@
       "address": "जि. काभ्रे, मण्डनदेउपुर न.पा., वडा नं ९",
       "age": 19,
       "nationality": "नेपाली",
+      "education": "उच्च माध्यमिक",
       "shares": 30000,
       "share_percent": 1.36,
-      "education": "उच्च माध्यमिक",
-      "experience": "छैन",
-      "experience_sectors": [],
-      "proposed_business": "छैन"
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 18,
       "name": "निस्ता खाँड",
-      "address": "जि. नवलपरासी शिव मन्दिर ८",
+      "address": "जि. नवलपरासी शिवमन्दिर ८",
       "age": 47,
       "nationality": "नेपाली",
+      "education": "उच्च माध्यमिक",
       "shares": 28110,
       "share_percent": 1.27,
-      "education": "उच्च माध्यमिक",
-      "experience": "सामाजिक सेवा (२० वर्ष)",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सामाजिक सेवा (२० वर्ष)",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "सामाजिक सेवा"
-      ],
-      "proposed_business": "छैन"
+      ]
     },
     {
       "sn": 19,
@@ -294,14 +408,21 @@
       "address": "जि. झापा गौरादह ७ हाल गौरादह २",
       "age": 44,
       "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
       "shares": 26650,
       "share_percent": 1.21,
-      "education": "स्नातकोत्तर",
-      "experience": "लेखापाल (१० वर्ष)",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "लेखापाल (१० वर्ष)",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "लेखा"
-      ],
-      "proposed_business": "छैन"
+      ]
     },
     {
       "sn": 20,
@@ -309,12 +430,19 @@
       "address": "जि. काभ्रे पाँचखाल ६ परिवर्तित पाँचखाल न.पा. वडा नं. ४",
       "age": 47,
       "nationality": "नेपाली",
+      "education": "प्रवीणता प्रमाणपत्र",
       "shares": 25000,
       "share_percent": 1.13,
-      "education": "प्रवीणता प्रमाणपत्र",
-      "experience": "सम्बन्धित क्षेत्रको १५ वर्षको अनुभव",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [
+        {
+          "organization": "सम्बन्धित क्षेत्रको १५ वर्षको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 21,
@@ -322,25 +450,32 @@
       "address": "जि. काठमाडौँ, वार्ड नं १०, स्यूचाटार नगरपालिका, नागार्जुन",
       "age": 4,
       "nationality": "नेपाली",
+      "education": null,
       "shares": 25000,
       "share_percent": 1.13,
-      "education": "छैन",
-      "experience": "छैन",
-      "experience_sectors": [],
-      "proposed_business": "छैन"
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 22,
       "name": "अनन्त वर्तौला",
-      "address": "कुमरोज ७ चितवन परिवर्तित खैरहनी ६",
+      "address": "कुमारोज ७ चितवन परिवर्तित खैरहनी ६",
       "age": 34,
       "nationality": "नेपाली",
+      "education": "उच्च माध्यमिक",
       "shares": 24900,
       "share_percent": 1.13,
-      "education": "उच्च माध्यमिक",
-      "experience": "१३ वर्ष",
-      "experience_sectors": [],
-      "proposed_business": "छैन"
+      "sector_experience": [
+        {
+          "organization": "१३ वर्ष",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 23,
@@ -348,12 +483,12 @@
       "address": "जिल्ला झापा, गौरादह वडा नं. ७ परिवर्तित गौरादह न.पा., वडा नं २",
       "age": 39,
       "nationality": "नेपाली",
+      "education": "उच्च माध्यमिक",
       "shares": 24050,
       "share_percent": 1.09,
-      "education": "उच्च माध्यमिक",
-      "experience": "छैन",
-      "experience_sectors": [],
-      "proposed_business": "छैन"
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     }
   ],
   "directors": [
@@ -365,13 +500,19 @@
       "nationality": "नेपाली",
       "shares": 75000,
       "education": "प्रमाणपत्र तह",
-      "experience": "स्थानीय बजार तथा आयात/निर्यातमा २० वर्षको अनुभव (वि.सं. २०६२)",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "स्थानीय बजार तथा आयात/निर्यातमा २० वर्षको अनुभव",
+          "role": null,
+          "from": "२०६२",
+          "to": null
+        }
+      ],
       "experience_sectors": [
-        "स्थानीय बजार",
         "आयात",
         "निर्यात"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 2,
@@ -381,11 +522,18 @@
       "nationality": "नेपाली",
       "shares": 141650,
       "education": "स्नातकोत्तर",
-      "experience": "रंग सम्बन्धित व्यवसाय क्षेत्रमा वि.सं. २०५८ साल देखि",
+      "sector_experience": [
+        {
+          "organization": "रंग सम्बन्धित व्यवसाय क्षेत्रमा",
+          "role": null,
+          "from": "२०५८",
+          "to": null
+        }
+      ],
+      "other_experience": [],
       "experience_sectors": [
         "रंग व्यवसाय"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 3,
@@ -395,12 +543,19 @@
       "nationality": "नेपाली",
       "shares": 150000,
       "education": "प्रमाणपत्र तह",
-      "experience": "आयात/निर्यात व्यवसाय क्षेत्रमा ५ वर्षको अनुभव (वि.सं. २०७७)",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "आयात/निर्यात व्यवसाय क्षेत्रमा ५ वर्षको अनुभव",
+          "role": null,
+          "from": "२०७७",
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "आयात",
         "निर्यात"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 4,
@@ -410,11 +565,18 @@
       "nationality": "नेपाली",
       "shares": 25000,
       "education": "प्रमाणपत्र तह",
-      "experience": "निर्माण सामाग्री व्यवसाय सम्बन्धित क्षेत्रमा वि.सं. २०६७ साल देखि",
+      "sector_experience": [
+        {
+          "organization": "निर्माण सामाग्री व्यवसाय सम्बन्धित क्षेत्रमा",
+          "role": null,
+          "from": "२०६७",
+          "to": null
+        }
+      ],
+      "other_experience": [],
       "experience_sectors": [
         "निर्माण सामाग्री"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 5,
@@ -424,12 +586,19 @@
       "nationality": "नेपाली",
       "shares": null,
       "education": "स्नातकोत्तर",
-      "experience": "लेखा तथा वित्त क्षेत्रमा १८ वर्षको अनुभव वि.सं. २०६८",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "लेखा तथा वित्त क्षेत्रमा १८ वर्षको अनुभव",
+          "role": null,
+          "from": "२०६८",
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "लेखा",
         "वित्त"
-      ],
-      "proposed_business": null
+      ]
     }
   ],
   "director_affiliations": [
@@ -439,7 +608,7 @@
       "affiliations": [
         {
           "company": "श्री शुभ ट्रेडर्स",
-          "address": "असन काठमाण्डौ",
+          "address": "असन काठमाडौँ",
           "role": "प्रोप्राइटर",
           "from": null,
           "to": null
@@ -465,7 +634,7 @@
       "affiliations": [
         {
           "company": "इभा इम्पोर्ट एण्ड एक्सपोर्ट",
-          "address": "असन काठमाण्डौ",
+          "address": "असन काठमाडौँ",
           "role": "प्रोप्राइटर",
           "from": null,
           "to": null
@@ -495,6 +664,108 @@
           "role": "प्रोप्राइटर",
           "from": null,
           "to": null
+        }
+      ]
+    }
+  ],
+  "promoter_companies": [
+    {
+      "sn": 1,
+      "company": "स्मार्ट एट इन्भेष्टमेन्ट प्रा.लि.",
+      "address": "जि. काठमाडौँ, का.म.पा. वडा नं २२ खिचापोखरी",
+      "profile": "व्यापारिक भवन, अपार्टमेन्ट वा हाउजिङ्ग निर्माण गरी बिक्री गर्ने, लगानी विभिन्न स्वदेशी तथा विदेशी कम्पनी, जलविद्युत (Hydropower), बैंक तथा वित्तीय संस्थाहरुको शेयर, डिबेन्चर र ऋण पत्रहरुमा लगानी गर्ने, किस्ताबन्दी सुविधा सवारी साधन र घरायसी सामग्रीहरु सुलभ किस्ताबन्दी वा हायर पर्चेज (Hire Purchase) मा उपलब्ध गराउने, परामर्श सेवा घरजग्गा, निर्माण र व्यवस्थापकीय विषयमा शुल्क लिई वा नलिई परामर्श प्रदान गर्ने ।",
+      "directors": [
+        {
+          "name": "मनोहर विक्रम कुंवर",
+          "address": null
+        },
+        {
+          "name": "बुद्ध रत्न महर्जन",
+          "address": null
+        },
+        {
+          "name": "अनिल राज राजकर्णिकार",
+          "address": null
+        },
+        {
+          "name": "चन्द्रमान मानन्धर",
+          "address": null
+        },
+        {
+          "name": "सशिन श्रेष्ठ",
+          "address": null
+        },
+        {
+          "name": "रमेश लाल श्रेष्ठ",
+          "address": null
+        },
+        {
+          "name": "जितेन्द्र नारायण श्रेष्ठ",
+          "address": null
+        }
+      ]
+    },
+    {
+      "sn": 2,
+      "company": "लगानी हब प्रा. लि.",
+      "address": "जि. काठमाडौँ, वार्ड नं १०, स्यूचाटार नगरपालिका, नागार्जुन",
+      "profile": "स्टक इन्भेष्टमेन्ट, कमोडिटी सम्बन्धि कारोवार तथा हाउजिङ्ग डेभलपमेन्ट गर्ने। घर, घडेरी, जग्गा खरिद बिक्री गर्ने वा भाडामा तथा लिजमा लिने दिने। आधुनिक सुविधा सम्पन्न विजनेस कम्प्लेक्स तथा आवासिय भवनहरु निर्माण गर्ने। जमिन प्लटिङ्ग गर्ने र ढल, पानी, बिजुली जस्ता भौतिक सुविधाहरु विकास गर्ने। शेयर, डिबेन्चर र बण्डहरु खरीद गरी लगानी गर्ने। म्युचुअल फण्ड सम्बन्धि कार्य गर्ने।",
+      "directors": [
+        {
+          "name": "विष्णु पोखरेल",
+          "address": null
+        },
+        {
+          "name": "विजय रानाभाट",
+          "address": null
+        },
+        {
+          "name": "नवीस पोखरेल",
+          "address": null
+        },
+        {
+          "name": "लिलाराज ढकाल",
+          "address": null
+        },
+        {
+          "name": "प्राप्ती अधिकारी",
+          "address": null
+        },
+        {
+          "name": "नवराज पौड्याल",
+          "address": null
+        },
+        {
+          "name": "तेज दत्त खकुराल",
+          "address": null
+        }
+      ]
+    },
+    {
+      "sn": 3,
+      "company": "इन्टेलिजेन्ट इन्भेष्टर प्रा. लि.",
+      "address": "जि. काठमाडौँ, का.म.न.पा. वडा नं २८",
+      "profile": "लगानी (Investment): प्रचलित कानुन बमोजिम स्थापना भएका विभिन्न प्रा.लि. र पब्लिक कम्पनीहरुको प्राथमिक (IPO) तथा सेकेन्डरी शेयरमा लगानी गर्ने, घरजग्गा कारोवार: घर जग्गा खरिद, हाउजिङ्ग व्यवसाय र अन्य लगानी सम्बन्धी व्यवसाय सञ्चालन गर्ने, परामर्श र तालिम: लगानीकर्ताहरुलाई शेयर तथा शेयर नामसारी सम्बन्धी परामर्श दिने र तालिम सञ्चालन गर्ने, आयात-निर्यात: हस्तकलाका सामान, पश्मिना, तयारी पोशाक, खाद्यान्न (चिया, कफी, जडीबुटी), फर्निचर, इलेक्ट्रिक सामान र मेसिनरी उपकरणहरुको आयात-निर्यात तथा व्यापार गर्ने।",
+      "directors": [
+        {
+          "name": "तेज बहादुर श्रेष्ठ",
+          "address": null
+        },
+        {
+          "name": "शिव कुमार जोशी",
+          "address": null
+        },
+        {
+          "name": "सुन्दर खड्का",
+          "address": null
+        },
+        {
+          "name": "विवेक भण्डारी",
+          "address": null
+        },
+        {
+          "name": "गौतम श्रेष्ठ",
+          "address": null
         }
       ]
     }

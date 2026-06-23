@@ -3,7 +3,7 @@
   "source_title": "Sarvottam Paints Industries Ltd.-General Public",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/06/11/KhCk7fIB9fCxQrN6BQfp4tRmBZSX1bC6mqC7MS6w.pdf",
   "issue_date": "2026-06-11",
-  "extracted_at": "2026-06-23T08:12:59+00:00",
+  "extracted_at": "2026-06-23T08:23:10+00:00",
   "total_pages": 68,
   "table_pages": [
     27,
@@ -29,7 +29,7 @@
   },
   "llm_cost": {
     "in": 8287,
-    "out": 3661,
+    "out": 3650,
     "cost_usd": 0.0116
   },
   "shareholders": [
@@ -91,7 +91,7 @@
     },
     {
       "sn": 2,
-      "name": "श्री शिव सिंह कार्की",
+      "name": "शिव सिंह कार्की",
       "address": null,
       "age": 53,
       "nationality": "नेपाली",
@@ -108,7 +108,7 @@
       ],
       "other_experience": [
         {
-          "organization": "सामन्ता पश्चिमाना इन्डष्ट्रीज",
+          "organization": "सामन्ता पश्चिमा इन्डष्ट्रीज",
           "role": "प्रोप्राइटर",
           "from": "२०६०/०४/३०",
           "to": "२०७३/०३/३०"
@@ -126,13 +126,13 @@
           "to": "हाल"
         },
         {
-          "organization": "सूर्या लाइफ इन्स्योरेन्स क. लि.",
+          "organization": "सूर्या लाइफ इन्स्योरेन्स क. ली.",
           "role": "सञ्चालक",
-          "from": "२०७०/०६/०७",
-          "to": "२०७२/०६/२२"
+          "from": "२०७०.०६.०७",
+          "to": "२०७२.०६.२२"
         },
         {
-          "organization": "ओ.एन. सर्भीस सेन्टर प्रा.ली.",
+          "organization": "ओ.एन. सर्वीस सेन्टर प्रा.ली.",
           "role": "सञ्चालक",
           "from": "२०७८/०५/२१",
           "to": "हाल"
@@ -151,7 +151,7 @@
         }
       ],
       "experience_sectors": [
-        "उद्योग",
+        "इन्डष्ट्रीज",
         "बैंकिङ्ग",
         "बीमा",
         "इन्भेष्टमेन्ट",
@@ -161,13 +161,13 @@
     },
     {
       "sn": 3,
-      "name": "श्री नविन प्रसाद भट्ट",
+      "name": "नविन प्रसाद भट्ट",
       "address": null,
       "age": 42,
       "nationality": "नेपाली",
       "education": "बि.बि.एस.",
       "shares": 128529,
-      "share_percent": 3.785,
+      "share_percent": 3.78,
       "sector_experience": [
         {
           "organization": "सर्वोत्तम पेन्ट्स ई. लि.",
@@ -190,7 +190,7 @@
     },
     {
       "sn": 4,
-      "name": "श्री तर्क राज भट्ट",
+      "name": "तर्क राज भट्ट",
       "address": null,
       "age": 45,
       "nationality": "नेपाली",
@@ -225,19 +225,19 @@
         }
       ],
       "experience_sectors": [
-        "फर्मा",
+        "फार्मास्युटिकल्स",
         "सप्लायर्स"
       ]
     },
     {
       "sn": 5,
-      "name": "श्री अनुप अर्याल",
+      "name": "अनुप अर्याल",
       "address": null,
       "age": 25,
       "nationality": "नेपाली",
       "education": "एम.बि.ए.",
       "shares": 40000,
-      "share_percent": 1.178,
+      "share_percent": 1.176,
       "sector_experience": [],
       "other_experience": [
         {
@@ -250,7 +250,7 @@
           "organization": "सिल्भरलाईन एग्रो प्रा.लि.",
           "role": "म्यानेजिङ डाइरेक्टर",
           "from": null,
-          "to": "हाल"
+          "to": null
         }
       ],
       "experience_sectors": [
@@ -262,7 +262,7 @@
   "directors": [
     {
       "sn": 1,
-      "name": "श्री शिव सिंह कार्की",
+      "name": "शिव सिंह कार्की",
       "address": null,
       "position": "अध्यक्ष",
       "nationality": "नेपाली",
@@ -278,7 +278,7 @@
       ],
       "other_experience": [
         {
-          "organization": "सामन्ता पश्चिमाना इन्डष्ट्रीज",
+          "organization": "सामन्ता पश्चिमा इन्डष्ट्रीज",
           "role": "प्रोप्राइटर",
           "from": "२०६०/०४/३०",
           "to": "२०७३/०३/३०"
@@ -298,11 +298,11 @@
         {
           "organization": "सूर्या लाइफ इन्स्योरेन्स क. लि.",
           "role": "सञ्चालक",
-          "from": "२०७०/०६/०७",
-          "to": "२०७२/०६/२२"
+          "from": "२०७०.०६.०७",
+          "to": "२०७२.०६.२२"
         },
         {
-          "organization": "ओ.एन. सर्भीस सेन्टर प्रा.लि.",
+          "organization": "ओ.एन. सर्वीस सेन्टर प्रा.लि.",
           "role": "सञ्चालक",
           "from": "२०७८/०५/२१",
           "to": "हाल"
@@ -321,7 +321,7 @@
         }
       ],
       "experience_sectors": [
-        "उद्योग",
+        "इन्डष्ट्रीज",
         "बैंकिङ्ग",
         "बीमा",
         "इन्भेष्टमेन्ट",
@@ -331,9 +331,9 @@
     },
     {
       "sn": 2,
-      "name": "श्री लक्ष्मी दत्त पाण्डेय",
+      "name": "लक्ष्मी दत्त पाण्डेय",
       "address": null,
-      "position": "सञ्चालक",
+      "position": "संचालक",
       "nationality": "नेपाली",
       "shares": 885786,
       "education": "बि.ए.",
@@ -366,13 +366,13 @@
         },
         {
           "organization": "पाण्डे लक्ष्मी सप्लायर्स कम्पनी",
-          "role": "सञ्चालक",
+          "role": "संचालक",
           "from": "२०७७/०६/१९",
           "to": "हाल"
         },
         {
           "organization": "पाण्डे लक्ष्मी ज्वेलर्स",
-          "role": "सञ्चालक",
+          "role": "संचालक",
           "from": "२०७७/०६/१९",
           "to": "हाल"
         }
@@ -386,9 +386,9 @@
     },
     {
       "sn": 3,
-      "name": "श्री नविन प्रसाद भट्ट",
+      "name": "नविन प्रसाद भट्ट",
       "address": null,
-      "position": "प्रवन्ध सञ्चालक",
+      "position": "प्रवन्ध संचालक",
       "nationality": "नेपाली",
       "shares": 128529,
       "education": "बि.बि.एस.",
@@ -414,9 +414,9 @@
     },
     {
       "sn": 4,
-      "name": "श्री कमलेश पाण्डेय",
+      "name": "कमलेश पाण्डेय",
       "address": null,
-      "position": "स्वतन्त्र सञ्चालक",
+      "position": "स्वतन्त्र संचालक",
       "nationality": "नेपाली",
       "shares": null,
       "education": "बि.बि.एस.",
@@ -436,7 +436,7 @@
   ],
   "director_affiliations": [
     {
-      "director_name": "श्री शिव सिंह कार्की",
+      "director_name": "शिव सिंह कार्की",
       "director_address": null,
       "affiliations": [
         {
@@ -456,7 +456,7 @@
       ]
     },
     {
-      "director_name": "श्री लक्ष्मी दत्त पाण्डेय",
+      "director_name": "लक्ष्मी दत्त पाण्डेय",
       "director_address": null,
       "affiliations": [
         {

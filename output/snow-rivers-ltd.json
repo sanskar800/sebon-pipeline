@@ -3,7 +3,7 @@
   "source_title": "Snow Rivers Ltd.- General Public",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/05/12/X241tCrYNDt8i6Ddie1SnuhmZDEEVrCQSsEg9kzH.pdf",
   "issue_date": "2026-05-12",
-  "extracted_at": "2026-06-22T10:39:57+00:00",
+  "extracted_at": "2026-06-23T08:28:03+00:00",
   "total_pages": 49,
   "table_pages": [
     10,
@@ -24,204 +24,365 @@
   "counts": {
     "shareholders": 33,
     "directors": 4,
-    "director_affiliations": 4
+    "director_affiliations": 1,
+    "promoter_companies": 2
   },
   "llm_cost": {
-    "in": 7668,
-    "out": 6516,
-    "cost_usd": 0.0186
+    "in": 8119,
+    "out": 9714,
+    "cost_usd": 0.0267
   },
   "shareholders": [
     {
       "sn": 1,
-      "name": "श्री मोहन विक्रम कार्की",
+      "name": "मोहन विक्रम कार्की",
       "address": "सुनकोशी गा.पा.-६, थुम्पाखर, सिन्धुपाल्चोक",
       "age": 52,
       "nationality": "नेपाली",
-      "education": "आइ.ए.",
+      "education": "आई.ए.",
       "shares": 900000,
       "share_percent": 12,
-      "experience": "अध्यक्ष - सुपरमाई हाईड्रोपावर लिमिटेड (२०७३ देखि २०७९ श्रावण मसान्त सम्म), अध्यक्ष-आशुतोष इनर्जी लि. (२०७७ देखि हाल सम्म)",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "सुपरमाई हाईड्रोपावर लिमिटेड",
+          "role": "अध्यक्ष",
+          "from": "२०७३",
+          "to": "२०७९ श्रावण मसान्त"
+        },
+        {
+          "organization": "आशुतोष इनर्जी लि.",
+          "role": "अध्यक्ष",
+          "from": "२०७७",
+          "to": "हाल सम्म"
+        }
+      ],
       "experience_sectors": [
         "जलविद्युत"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 2,
-      "name": "श्री नेशनल इक्वीटी फण्ड-१",
+      "name": "नेशनल इक्वीटी फण्ड-१",
       "address": "ललितपुर म.न.पा.-१०, कुपण्डोल, ललितपुर",
       "age": null,
       "nationality": "लागू नहुने",
       "education": "लागू नहुने",
       "shares": 900000,
       "share_percent": 12,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": "लागू नहुने"
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 3,
-      "name": "श्री प्रताप गुरुङ्ग",
+      "name": "प्रताप गुरुङ्ग",
       "address": "काठमाण्डौ म.न.-८, गुह्येश्वरी, काठमाण्डौ",
       "age": 63,
       "nationality": "नेपाली",
-      "education": "आइ.ए.",
+      "education": "आई.ए.",
       "shares": 450000,
       "share_percent": 6,
-      "experience": "संचालक- डायनामिक हाइड्रो इनर्जी प्रा. लि. (२०७४ देखि २०८२ पौष सम्म)",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "डायनामिक्स हाईड्रो इनर्जी प्रा. लि.",
+          "role": "संचालक",
+          "from": "२०७४",
+          "to": "२०८२ पौष सम्म"
+        }
+      ],
       "experience_sectors": [
         "जलविद्युत"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 4,
-      "name": "श्री नेशनल हाइड्रो फण्ड-२",
+      "name": "नेशनल हाईड्रो फण्ड-२",
       "address": "ललितपुर म.न.पा.-१०, कुपण्डोल, ललितपुर",
       "age": null,
       "nationality": "लागू नहुने",
       "education": "लागू नहुने",
       "shares": 400000,
       "share_percent": 5.33,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": "लागू नहुने"
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 5,
-      "name": "श्री भीमसेन भण्डारी",
+      "name": "भीमसेन भण्डारी",
       "address": "सुनकोशी गा.पा.-६, थुम्पाखर, सिन्धुपाल्चोक",
       "age": 33,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
       "shares": 374000,
       "share_percent": 4.99,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 6,
-      "name": "श्री तारा बहादुर कार्की",
+      "name": "तारा बहादुर कार्की",
       "address": "सुनकोशी गा.पा.-६, थुम्पाखर, सिन्धुपाल्चोक",
       "age": 49,
       "nationality": "नेपाली",
       "education": "एम.ए.",
       "shares": 260000,
       "share_percent": 3.47,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 7,
-      "name": "श्री दिपा राना मगर",
+      "name": "दिपा राना मगर",
       "address": "नारायण न.पा.-५, दैलेख",
       "age": 28,
       "nationality": "नेपाली",
-      "education": "नर्सिङमा स्नातक",
+      "education": "नर्सिङ्गमा स्नातक",
       "shares": 192000,
       "share_percent": 2.56,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 8,
-      "name": "श्री हरिहर उप्रेती",
+      "name": "हरिहर उप्रेती",
       "address": "काठमाण्डौ म.न.पा.-३१, बानेश्वर, काठमाण्डौ",
       "age": 64,
       "nationality": "नेपाली",
       "education": "एस.एल.सी.",
       "shares": 183385,
       "share_percent": 2.45,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 9,
-      "name": "श्री डिल्ली प्रसाद पराजुली",
+      "name": "डिल्ली प्रसाद पराजुली",
       "address": "बुढानिलकण्ठ न.पा.-४, काठमाण्डौ",
       "age": 54,
       "nationality": "नेपाली",
       "education": "बि.बि.एम.",
       "shares": 170000,
       "share_percent": 2.27,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 10,
-      "name": "श्री सविता वर्तौला",
+      "name": "सविता वर्तौला",
       "address": "बुढानिलकण्ठ न.पा.-४, काठमाण्डौ",
       "age": 44,
       "nationality": "नेपाली",
       "education": "बि.बि.एम.",
       "shares": 170000,
       "share_percent": 2.27,
-      "experience": "प्रबन्ध संचालक - त्रिमूर्ती इन्टरनेशनल ट्रेड कम्पनी लिमिटेड (२०६६ देखि हाल सम्म)",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "त्रिमूर्ती इन्टरनेशनल ट्रेड कम्पनी लिमिटेड",
+          "role": "प्रबन्ध संचालक",
+          "from": "२०६६",
+          "to": "हाल सम्म"
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 11,
-      "name": "श्री दुर्गा प्रसाद उप्रेती",
+      "name": "दुर्गा प्रसाद उप्रेती",
       "address": "काठमाण्डौ म.न.पा.-१०, बानेश्वर, काठमाण्डौ",
       "age": 62,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 168461,
       "share_percent": 2.25,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 12,
-      "name": "श्री मेघ नाथ ढुंगाना",
+      "name": "मेघ नाथ ढुङ्गाना",
       "address": "इलाम न.पा.-२, सुम्बेक, इलाम",
       "age": 50,
       "nationality": "नेपाली",
       "education": "सिभिल ओभरसियर",
       "shares": 165000,
       "share_percent": 2.2,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 13,
-      "name": "श्री श्रीजेश गुरागाई",
+      "name": "श्रीजेश गुरागाई",
       "address": "बुढानिलकण्ठ न.पा.-८, काठमाण्डौ",
       "age": 25,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
       "shares": 150000,
-      "share_percent": 2,
-      "experience": "व्यापार/व्यवसाय",
+      "share_percent": 2.0,
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 14,
@@ -232,393 +393,823 @@
       "education": "विद्यावारिधि",
       "shares": 135000,
       "share_percent": 1.8,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 15,
-      "name": "श्री सुमिरा खड्का",
+      "name": "सुमिरा खड्का",
       "address": "त्रियुगा न.पा.-११, उदयपुर",
       "age": 39,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 126923,
       "share_percent": 1.69,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 16,
-      "name": "श्री पूर्णध्वज कार्की",
+      "name": "पूर्णध्वज कार्की",
       "address": "सुनकोशी गा.पा.-६, थुम्पाखर, सिन्धुपाल्चोक",
       "age": 44,
       "nationality": "नेपाली",
       "education": "बि.ए.",
       "shares": 125000,
       "share_percent": 1.67,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 17,
-      "name": "श्री दल बहादुर रुम्बा",
+      "name": "दल बहादुर रुम्बा",
       "address": "सुनकोशी गा.पा.-४, यमुनाडाँडा, सिन्धुपाल्चोक",
       "age": 54,
       "nationality": "नेपाली",
-      "education": "आइ.ए.",
+      "education": "आई.ए.",
       "shares": 110000,
       "share_percent": 1.47,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 18,
-      "name": "श्री उत्तम पौडेल",
+      "name": "उत्तम पौडेल",
       "address": "भानु न.पा.-११, रुपाकोट, तनहूँ",
       "age": 39,
       "nationality": "नेपाली",
       "education": "बि.सि.इ.",
       "shares": 110000,
       "share_percent": 1.47,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 19,
-      "name": "श्री बासु खड्का",
+      "name": "बासु खड्का",
       "address": "काठमाण्डौ म.न.पा.-३१, काठमाण्डौ",
       "age": 53,
       "nationality": "नेपाली",
       "education": "आई.कम.",
       "shares": 100000,
       "share_percent": 1.33,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 20,
-      "name": "श्री भोगेन्द्र कुमार गुरागाई",
-      "address": "बुढानिलकण्ठ न.पा.-८, काठमाणषौ",
+      "name": "भोगेन्द्र कुमार गुरागाई",
+      "address": "बुढानिलकण्ठ न.पा.-८, काठमाण्डौ",
       "age": 67,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
       "shares": 100000,
       "share_percent": 1.33,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 21,
-      "name": "श्री विरोध कुमार बन्जारा",
+      "name": "विरोध कुमार बन्जारा",
       "address": "बनेपा न.पा.-११, उग्रतारा जनागाल, काभ्रे",
       "age": 43,
       "nationality": "नेपाली",
       "education": "बि.इ./एम.बि.ए.",
       "shares": 100000,
       "share_percent": 1.33,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 22,
-      "name": "श्री देवका शिवाकोटी उप्रेती",
+      "name": "देवका शिवाकोटी उप्रेती",
       "address": "काठमाण्डौ म.न.पा.-३१, काठमाण्डौ",
       "age": 60,
       "nationality": "नेपाली",
       "education": "एस.एल.सी.",
       "shares": 100000,
       "share_percent": 1.33,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 23,
-      "name": "श्री कृष्ण प्रसाद न्यौपाने",
+      "name": "कृष्ण प्रसाद न्यौपाने",
       "address": "काठमाण्डौ म.न.पा.-९, काठमाण्डौ",
       "age": 66,
       "nationality": "नेपाली",
       "education": "एम.कम.",
       "shares": 100000,
       "share_percent": 1.33,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 24,
-      "name": "श्री माधव प्रसाद मैनाली",
-      "address": "कालिन्चोक गा.पा.-९, सुन्द्रावती, दोलखा",
+      "name": "माधव प्रसाद मैनाली",
+      "address": "कालिञ्चोक गा.पा.-९, सुन्द्रावती, दोलखा",
       "age": 46,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
       "shares": 100000,
       "share_percent": 1.33,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 25,
-      "name": "श्री प्रज्वल उप्रेती",
+      "name": "प्रज्वल उप्रेती",
       "address": "काठमाण्डौ म.न.पा.-३१, बानेश्वर, काठमाण्डौ",
       "age": 33,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
       "shares": 100000,
       "share_percent": 1.33,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 26,
-      "name": "श्री राजेन्द्र राज भारती",
+      "name": "राजेश राज भारती",
       "address": "धुनीबेशी न.पा.-२, छत्रेदेउराली, धादिङ्ग",
       "age": 35,
       "nationality": "नेपाली",
       "education": "बि.सि.इ.",
       "shares": 100000,
       "share_percent": 1.33,
-      "experience": "प्रोजेक्ट ईन्जिनियर - सुपरमाई हाईड्रोपावर लिमिटेड (मिति २०७३ देखि २०७४ सम्म), प्रोजेक्ट म्यानेजर - कावेली ३ हाइड्रो पावर प्रोजेक्ट (२०७८ देखि २०७९ सम्म)",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "सुपरमाई हाईड्रोपावर लिमिटेड",
+          "role": "प्रोजेक्ट ईन्जिनियर",
+          "from": "२०७३",
+          "to": "२०७४"
+        },
+        {
+          "organization": "कावेली ३ हाईड्रो पावर प्रोजेक्ट",
+          "role": "प्रोजेक्ट म्यानेजर",
+          "from": "२०७८",
+          "to": "२०७९"
+        }
+      ],
       "experience_sectors": [
         "जलविद्युत"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 27,
-      "name": "श्री रतन कुमार चौधरी",
+      "name": "रतन कुमार चौधरी",
       "address": "इलाम न.पा.-१, इलाम जिल्ला",
       "age": 72,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 94615,
       "share_percent": 1.26,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 28,
-      "name": "श्री जेनिसा उप्रेती",
+      "name": "जेनिसा उप्रेती",
       "address": "काठमाण्डौ म.न.पा.-१०, बानेश्वर, काठमाण्डौ",
       "age": 34,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
-      "shares": 900000,
+      "shares": 90000,
       "share_percent": 1.2,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 29,
-      "name": "श्री निजेश उप्रेती",
+      "name": "निजेश उप्रेती",
       "address": "काठमाण्डौ म.न.पा.-१०, बानेश्वर, काठमाण्डौ",
       "age": 32,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
       "shares": 90000,
       "share_percent": 1.2,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 30,
-      "name": "श्री निर्मला चुडाल",
+      "name": "निर्मला चुडाल",
       "address": "काठमाण्डौ म.न.पा.-१०, बानेश्वर, काठमाण्डौ",
       "age": 58,
       "nationality": "नेपाली",
       "education": "एस.एल.सी.",
       "shares": 90000,
       "share_percent": 1.2,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 31,
-      "name": "श्री प्रचिता उप्रेती",
+      "name": "प्रचिता उप्रेती",
       "address": "काठमाण्डौ म.न.पा.-३१, बानेश्वर, काठमाण्डौ",
       "age": 28,
       "nationality": "नेपाली",
       "education": "बि.बि.ए.",
       "shares": 80000,
       "share_percent": 1.07,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 32,
-      "name": "श्री प्रकृति उप्रेती",
+      "name": "प्रकृति उप्रेती",
       "address": "काठमाण्डौ म.न.पा.-३१, बानेश्वर, काठमाण्डौ",
       "age": 35,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
       "shares": 80000,
       "share_percent": 1.07,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     },
     {
       "sn": 33,
-      "name": "श्री सन्दिका पौड्याल",
-      "address": "देवचुली न.पा.-३, दिव्यपुरी, नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "name": "सन्दिका पौड्याल",
+      "address": "देवचुली गा.पा.-३, दिब्यपुरी, नवलपरासी (बर्दघाट सुस्ता पूर्व)",
       "age": 32,
       "nationality": "नेपाली",
       "education": "शहरी योजनामा स्नातकोत्तर",
       "shares": 76000,
       "share_percent": 1.01,
-      "experience": "व्यापार/व्यवसाय",
+      "sector_experience": [
+        {
+          "organization": "यस कम्पनीमा संस्थापक शेयरधनी रहेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "व्यापार/व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार/व्यवसाय"
-      ],
-      "proposed_business": "यस कम्पनीमा संस्थापक शेयरधनी रहेको।"
+      ]
     }
   ],
   "directors": [
     {
       "sn": 1,
-      "name": "श्री मोहन विक्रम कार्की",
-      "address": "सुनकोशी गा.पा.-६, सिन्धुपाल्चोक।",
+      "name": "मोहन विक्रम कार्की",
+      "address": "सुनकोशी गा.पा.-६, सिन्धुपाल्चोक",
       "position": "अध्यक्ष",
       "nationality": "नेपाली",
       "shares": 900000,
       "education": "इन्टरमिडिएट इन आर्टस्",
-      "experience": "१) अध्यक्ष, डायनामिक हाईड्रो इनर्जि लि, २) अध्यक्ष - सुपरमाई हाईड्रोपावर लिमिटेड (२०७३ देखि २०७९ श्रावण मसान्त सम्म), ३) अध्यक्ष, हिल्टन हाईड्रो इनर्जि लि, ४) अध्यक्ष, इलेक्ट्रो पावर कम्पनी लि, ५) अध्यक्ष, कालिका इनर्जि लि, ६) अध्यक्ष, आशुतोष इनर्जि लि, ७) प्रबन्ध संचालक, कावेली हाईड्रोपावर कम्पनी लि, ८) प्रबन्ध संचालक, सूर्य होल्डिङ्ग प्रा. लि",
-      "experience_sectors": [
-        "जलविद्युत"
+      "sector_experience": [
+        {
+          "organization": "स्नो रिभर्स लिमिटेड",
+          "role": "अध्यक्ष",
+          "from": "२०८२/०१/२६",
+          "to": "हाल सम्म"
+        }
       ],
-      "proposed_business": "अध्यक्ष : स्नो रिभर्स लिमिटेड (वि.सं २०८२/०१/२६ देखि हालसम्म)"
+      "other_experience": [
+        {
+          "organization": "डायनामिक्स हाईड्रो इनर्जी लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "सुपरमाई हाईड्रोपावर लिमिटेड",
+          "role": "अध्यक्ष",
+          "from": "२०७३",
+          "to": "२०७९ श्रावण मसान्त"
+        },
+        {
+          "organization": "हिल्टन हाईड्रो इनर्जी लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "इलेक्ट्रो पावर कम्पनी लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "कालिका इनर्जी लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "आशुतोष इनर्जी लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "कावेली हाईड्रोपावर कम्पनी लि.",
+          "role": "प्रबन्ध संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "सूर्य होल्डिङ्ग प्रा. लि.",
+          "role": "प्रबन्ध संचालक",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत",
+        "लगानी"
+      ]
     },
     {
       "sn": 2,
-      "name": "श्री उत्तम पौडेल",
-      "address": "भानु न.पा.-११, रुपाकोट, तनहूँ।",
+      "name": "उत्तम पौडेल",
+      "address": "भानु न.पा.-११, रुपाकोट, तनहूँ",
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": 110000,
       "education": "व्याचलर्स इन सिभिल इन्जिनियरिङ्ग (BCE)",
-      "experience": "१) परियोजना प्रबन्धक - आशुतोष इनर्जी लि (चेपे खोला साना जलविद्युत आयोजना), २) परियोजना प्रबन्धक - सगरमाथा जलविद्युत कम्पनी लि (सुपर माई-ए जलविद्युत आयोजना), ३) परियोजना प्रबन्धक - सुपरमाई हाईड्रोपावर कम्पनी लि (सुपर माई जलविद्युत आयोजना), ४) परियोजना प्रबन्धक - भूगोल इनर्जी डेभलपमेन्ट कम्पनी प्रा लि (द्वारी खोला जलविद्युत आयोजना प्रा. लि.)",
-      "experience_sectors": [
-        "जलविद्युत",
-        "सिभिल इन्जिनियरिङ्ग"
+      "sector_experience": [
+        {
+          "organization": "स्नो रिभर्स लिमिटेड",
+          "role": "संचालक",
+          "from": "२०८२/०९/०५",
+          "to": "हाल सम्म"
+        }
       ],
-      "proposed_business": "संचालक : स्नो रिभर्स लिमिटेड (वि.सं २०८२/०९/०५ देखि हालसम्म)"
+      "other_experience": [
+        {
+          "organization": "आशुतोष इनर्जी लि. (चेपे खोला साना जलविद्युत आयोजना)",
+          "role": "परियोजना प्रबन्धक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "सगरमाथा जलविद्युत कम्पनी लि. (सुपर माई-ए जलविद्युत आयोजना)",
+          "role": "परियोजना प्रबन्धक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "सुपरमाई हाईड्रोपावर कम्पनी लि. (सुपर माई जलविद्युत आयोजना)",
+          "role": "परियोजना प्रबन्धक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "भूगोल इनर्जी डेभलपमेन्ट कम्पनी प्रा. लि. (द्वारी खोला जलविद्युत आयोजना प्रा. लि.)",
+          "role": "परियोजना प्रबन्धक",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत"
+      ]
     },
     {
       "sn": 3,
-      "name": "श्रीमती दिपा राना मगर",
+      "name": "दिपा राना मगर",
       "address": "नारायण न.पा. ५, दैलेख",
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": 192000,
-      "education": "नर्सिङमा स्नातक",
-      "experience": "१) संस्थापक, इलेक्ट्रो पावर कम्पनी लि",
+      "education": "नर्सिङ्गमा स्नातक",
+      "sector_experience": [
+        {
+          "organization": "स्नो रिभर्स लिमिटेड",
+          "role": "संचालक",
+          "from": "२०८०/०५/२७",
+          "to": "हाल सम्म"
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "इलेक्ट्रो पावर कम्पनी लि.",
+          "role": "संस्थापक",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "जलविद्युत"
-      ],
-      "proposed_business": "संचालक : स्नो रिभर्स लिमिटेड (वि.सं २०८०/०५/२७ देखि हालसम्म)"
+      ]
     },
     {
       "sn": 4,
-      "name": "श्री प्रकाश श्रेष्ठ",
-      "address": "चाँगुनारायण न.पा ७, भक्तपुर।",
+      "name": "प्रकाश श्रेष्ठ",
+      "address": "चाँगुनारायण न.पा. ७, भक्तपुर",
       "position": "स्वतन्त्र संचालक",
       "nationality": "नेपाली",
       "shares": null,
       "education": "व्याचलर इन इन्जिनियरिङ्ग (सिभिल)",
-      "experience": "१) पूर्व प्रोजेक्ट इन्जिनियर, अपर चाकु ए हाइड्रो इलेक्ट्रिक प्रोजेक्ट, रावाखोला हाईड्रोपावर प्रोजेक्ट, चेपे खोला स्मल हाइड्रोपावर प्रोजेक्ट (प्रोजेक्ट इन्जिनियरको रुपमा कार्य गरेको ७ बर्षको अनुभव), २) वरिष्ठ सिभिल इन्जिनियर, सुपर कावेली खोला क्यासकेड जलविद्युत आयोजना, कावेली-३ जलविद्युत आयोजना (वरिष्ठ सिभिल इन्जिनियरको रुपमा कार्य गरेको ४ बर्षको अनुभव)",
-      "experience_sectors": [
-        "सिभिल इन्जिनियरिङ्ग",
-        "जलविद्युत"
+      "sector_experience": [
+        {
+          "organization": "स्नो रिभर्स लिमिटेड",
+          "role": "स्वतन्त्र संचालक",
+          "from": "२०८०/०५/२७",
+          "to": "हाल सम्म"
+        }
       ],
-      "proposed_business": "स्वतन्त्र संचालक : स्नो रिभर्स लिमिटेड (वि.सं २०८०/०५/२७ देखि हालसम्म)"
+      "other_experience": [
+        {
+          "organization": "अपर चाकु ए हाईड्रो इलेक्ट्रिक प्रोजेक्ट, रावाखोला हाईड्रोपावर प्रोजेक्ट, चेपे खोला स्मल हाईड्रोपावर प्रोजेक्ट",
+          "role": "पूर्व प्रोजेक्ट ईन्जिनियर",
+          "from": null,
+          "to": "७ वर्षको अनुभव"
+        },
+        {
+          "organization": "सुपर कावेली खोला क्यासकेड जलविद्युत आयोजना, कावेली-३ जलविद्युत आयोजना",
+          "role": "वरिष्ठ सिभिल ईन्जिनियर",
+          "from": null,
+          "to": "४ वर्षको अनुभव"
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत"
+      ]
     }
   ],
   "director_affiliations": [
     {
-      "director_name": "श्री मोहन विक्रम कार्की",
-      "director_address": "सुनकोशी गा.पा.-६, सिन्धुपाल्चोक।",
+      "director_name": "मोहन विक्रम कार्की",
+      "director_address": "सुनकोशी गा.पा.-६, सिन्धुपाल्चोक",
       "affiliations": [
         {
-          "company": "हिल्टन हाइड्रो इनर्जी लिमिटेड",
-          "address": "का.म.न.पा ३०, काठमाण्डौ।",
-          "role": "अध्यक्ष/सम्बद्ध",
+          "company": "हिल्टन हाईड्रो इनर्जी लिमिटेड",
+          "address": "का.म.न.पा. ३०, काठमाण्डौ",
+          "role": null,
           "from": null,
           "to": null
         },
         {
           "company": "आशुतोष इनर्जी लिमिटेड",
-          "address": "का.म.न.पा ३०, काठमाण्डौ।",
-          "role": "अध्यक्ष/सम्बद्ध",
+          "address": "का.म.न.पा. ३०, काठमाण्डौ",
+          "role": null,
           "from": null,
           "to": null
         }
       ]
+    }
+  ],
+  "promoter_companies": [
+    {
+      "sn": 1,
+      "company": "नेशनल इक्वीटी फण्ड-१",
+      "address": "ललितपुर म.न.पा., वडा नं. १०, कुपण्डोल, ललितपुर",
+      "profile": "धितोपत्र सम्बन्धि ऐन, २०६३ र विशिष्टीकृत लगानी कोष नियमावली, २०७५ बमोजिम मिति २०८०/०६/०४ मा नेपाल धितोपत्र बोर्डमा दर्ता भएको प्राइभेट इक्वीटी फण्ड हो। यसमा रु. १०००/- दरका ७० लाख इकाई बराबरको रु. ७ अर्बको कोष रहेको छ। कोष व्यवस्थापकमा नेशनल फण्ड म्यानेजमेन्ट लिमिटेड रहेको छ।",
+      "directors": [
+        {
+          "name": "घनश्याम थापा (प्रतिनिधि: क्यासकेड इन्भेष्टमेन्ट प्रा. लि.)",
+          "address": "अध्यक्ष"
+        },
+        {
+          "name": "सुवास खड्का (प्रतिनिधि: कर्मचारी सञ्चय कोष)",
+          "address": "संचालक"
+        }
+      ]
     },
     {
-      "director_name": "श्री उत्तम पौडेल",
-      "director_address": "भानु न.पा.-११, रुपाकोट, तनहूँ।",
-      "affiliations": []
-    },
-    {
-      "director_name": "श्रीमती दिपा राना मगर",
-      "director_address": "नारायण न.पा. ५, दैलेख",
-      "affiliations": []
-    },
-    {
-      "director_name": "श्री प्रकाश श्रेष्ठ",
-      "director_address": "चाँगुनारायण न.पा ७, भक्तपुर।",
-      "affiliations": []
+      "sn": 2,
+      "company": "नेशनल हाईड्रो फण्ड-२",
+      "address": "ललितपुर म.न.पा., वडा नं. १०, कुपण्डोल, ललितपुर",
+      "profile": "धितोपत्र सम्बन्धि ऐन, २०६३ र विशिष्टीकृत लगानी कोष नियमावली, २०७५ बमोजिम मिति २०८१/१०/२० मा नेपाल धितोपत्र बोर्डमा दर्ता भएको प्राइभेट इक्वीटी फण्ड हो। यसमा रु. १०००/- दरका ५ लाख इकाई बराबरको रु. ५० करोडको कोष रहेको छ। कोष व्यवस्थापकमा नेशनल फण्ड म्यानेजमेन्ट लिमिटेड रहेको छ।",
+      "directors": [
+        {
+          "name": "शर्जु कुमार थापा (प्रतिनिधि: सानिमा बैंक लि.)",
+          "address": "संचालक"
+        },
+        {
+          "name": "प्रसिद्ध राज अर्याल (प्रतिनिधि: माछापुच्छ्रे बैंक लि.)",
+          "address": "संचालक"
+        },
+        {
+          "name": "शोभा श्रेष्ठ",
+          "address": "स्वतन्त्र संचालक (ललितपुर म.न.पा. १, ललितपुर)"
+        }
+      ]
     }
   ]
 }

@@ -3,7 +3,7 @@
   "source_title": "Garima Subarna Yojana(Open Ended Mutual Fund)",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/03/15/D2ekZ0eeeu30qHKmczRGxtpGhJBNP4BaU1CYp2Lw.pdf",
   "issue_date": "2026-03-15",
-  "extracted_at": "2026-06-22T10:46:23+00:00",
+  "extracted_at": "2026-06-23T08:35:34+00:00",
   "total_pages": 78,
   "table_pages": [
     36,
@@ -24,12 +24,13 @@
   "counts": {
     "shareholders": 24,
     "directors": 6,
-    "director_affiliations": 3
+    "director_affiliations": 3,
+    "promoter_companies": 1
   },
   "llm_cost": {
-    "in": 7836,
-    "out": 4992,
-    "cost_usd": 0.0148
+    "in": 8287,
+    "out": 6204,
+    "cost_usd": 0.018
   },
   "shareholders": [
     {
@@ -41,24 +42,29 @@
       "education": "लागू नहुने",
       "shares": 1239000,
       "share_percent": 51.2,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 2,
-      "name": "रंजिश थापा",
+      "name": "रैजिज थापा",
       "address": "वालिङ-०६, स्याङ्जा",
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातक",
-      "shares": 141755,
-      "share_percent": 5.86,
-      "experience": "वैदेशिक रोजगारीमा ८ वर्षभन्दा बढीको अनुभव",
-      "experience_sectors": [
-        "वैदेशिक रोजगार"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वैदेशिक रोजगारीमा ८ वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "वैदेशिक रोजगारी"
+      ]
     },
     {
       "sn": 3,
@@ -67,13 +73,18 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "चार्टर्ड एकाउन्टेन्सी",
-      "shares": 110359,
-      "share_percent": 4.56,
-      "experience": "वित्तीय क्षेत्रमा १० वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वित्तीय क्षेत्रमा १० वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "वित्तीय क्षेत्र"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 4,
@@ -82,13 +93,18 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "चार्टर्ड एकाउन्टेन्सी",
-      "shares": 70000,
-      "share_percent": 2.89,
-      "experience": "वित्तीय क्षेत्रमा १० वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वित्तीय क्षेत्रमा १० वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "वित्तीय क्षेत्र"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 5,
@@ -97,13 +113,18 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "चार्टर्ड एकाउन्टेन्सी र स्नातकोत्तर",
-      "shares": 50000,
-      "share_percent": 2.07,
-      "experience": "वित्तीय क्षेत्रमा १५ वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वित्तीय क्षेत्रमा १५ वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "वित्तीय क्षेत्र"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 6,
@@ -112,14 +133,19 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातक",
-      "shares": 50000,
-      "share_percent": 2.07,
-      "experience": "शैक्षिक तथा प्रशासनिक क्षेत्रमा १५ वर्षभन्दा बढीको अनुभव",
-      "experience_sectors": [
-        "शैक्षिक क्षेत्र",
-        "प्रशासनिक क्षेत्र"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "शैक्षिक तथा प्रशासनिक क्षेत्रमा १५ वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "शिक्षा",
+        "प्रशासन"
+      ]
     },
     {
       "sn": 7,
@@ -128,29 +154,39 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "ए. सि. सि. ए. र स्नातकोत्तर",
-      "shares": 40000,
-      "share_percent": 1.65,
-      "experience": "वैदेशिक रोजगारीमा ८ वर्ष तथा व्यापार व्यवसायमा ५ वर्ष भन्दा बढीको अनुभव",
-      "experience_sectors": [
-        "वैदेशिक रोजगार",
-        "व्यापार व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वैदेशिक रोजगारीमा ८ वर्ष तथा व्यापार व्यवसायमा ५ वर्ष भन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "वैदेशिक रोजगारी",
+        "व्यापार व्यवसाय"
+      ]
     },
     {
       "sn": 8,
       "name": "हरि प्रसाद ढकाल",
-      "address": "काठमाडौं -२९, काठमाडौं",
+      "address": "काठमाण्डौ -२९, काठमाण्डौ",
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातक",
-      "shares": 30000,
-      "share_percent": 1.24,
-      "experience": "वैदेशिक व्यापारको क्षेत्रमा २८ वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वैदेशिक व्यापारको क्षेत्रमा २८ वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "वैदेशिक व्यापार"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 9,
@@ -159,13 +195,18 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
-      "shares": 25000,
-      "share_percent": 1.03,
-      "experience": "वित्तीय क्षेत्रमा संचालकको रुपमा १४ वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वित्तीय क्षेत्रमा संचालकको रुपमा १४ वर्षभन्दा बढीको अनुभव",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "वित्तीय क्षेत्र"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 10,
@@ -174,13 +215,18 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातक",
-      "shares": 25000,
-      "share_percent": 1.03,
-      "experience": "व्यापार व्यवसायमा ३५ वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "व्यापार व्यवसायमा ३५ वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार व्यवसाय"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 11,
@@ -189,13 +235,18 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
-      "shares": 25000,
-      "share_percent": 1.03,
-      "experience": "इन्जिनियरिङ क्षेत्रमा २० वर्षभन्दा बढीको अनुभव",
-      "experience_sectors": [
-        "इन्जिनियरिङ क्षेत्र"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "इन्जिनियरिङ क्षेत्रमा २० वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "इन्जिनियरिङ"
+      ]
     },
     {
       "sn": 12,
@@ -204,13 +255,18 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
-      "shares": 25000,
-      "share_percent": 1.03,
-      "experience": "व्यापार व्यवसायमा २६ वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "व्यापार व्यवसायमा २६ वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार व्यवसाय"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 13,
@@ -219,13 +275,18 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातक",
-      "shares": 21500,
-      "share_percent": 0.89,
-      "experience": "वित्तीय क्षेत्रमा १० वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वित्तीय क्षेत्रमा १० वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "वित्तीय क्षेत्र"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 14,
@@ -234,75 +295,100 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातक",
-      "shares": 20000,
-      "share_percent": 0.83,
-      "experience": "लेखा क्षेत्रमा ५ वर्ष भन्दा बढीको अनुभव",
-      "experience_sectors": [
-        "लेखा क्षेत्र"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "लेखा क्षेत्रमा ५ वर्ष भन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "लेखा"
+      ]
     },
     {
       "sn": 15,
       "name": "सतिस प्रसाद भट्ट",
-      "address": "दशरथचन्द-०७, बैतडी",
+      "address": "दशरथचन्द-०७, वैतडी",
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
-      "shares": 20000,
-      "share_percent": 0.83,
-      "experience": "वित्तीय तथा शैक्षिक क्षेत्रमा १० वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वित्तीय तथा शैक्षिक क्षेत्रमा १० वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "वित्तीय क्षेत्र",
-        "शैक्षिक क्षेत्र"
-      ],
-      "proposed_business": null
+        "शिक्षा"
+      ]
     },
     {
       "sn": 16,
       "name": "पुनम मानन्धर",
-      "address": "पकनाजोल-१६, काठमाडौं",
+      "address": "पकनाजोल-१६, काठमाण्डौ",
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
-      "shares": 20000,
-      "share_percent": 0.83,
-      "experience": "व्यापार व्यवसायमा ६ वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "व्यापार व्यवसायमा ६ वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार व्यवसाय"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 17,
-      "name": "प्रसिद्ध गौतम",
+      "name": "प्रशिद्ध गौतम",
       "address": "राजापुर-१०, बर्दिया",
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
-      "shares": 20000,
-      "share_percent": 0.83,
-      "experience": "वित्तीय तथा शैक्षिक क्षेत्रमा ६ वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वित्तीय तथा शैक्षिक क्षेत्रमा ६ वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "वित्तीय क्षेत्र",
-        "शैक्षिक क्षेत्र"
-      ],
-      "proposed_business": null
+        "शिक्षा"
+      ]
     },
     {
       "sn": 18,
       "name": "नलिनी वज्राचार्य",
-      "address": "काठमाडौं -१८, काठमाडौं",
+      "address": "काठमाण्डौ -१८, काठमाण्डौ",
       "age": null,
       "nationality": "नेपाली",
       "education": "चार्टर्ड एकाउन्टेन्सी",
-      "shares": 15000,
-      "share_percent": 0.62,
-      "experience": "वित्तीय क्षेत्रमा ५ वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वित्तीय क्षेत्रमा ५ वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "वित्तीय क्षेत्र"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 19,
@@ -311,13 +397,18 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "चार्टर्ड एकाउन्टेन्सी र स्नातकोत्तर",
-      "shares": 13333,
-      "share_percent": 0.55,
-      "experience": "वित्तीय क्षेत्रमा १० वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वित्तीय क्षेत्रमा १० वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "वित्तीय क्षेत्र"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 20,
@@ -326,13 +417,18 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातक",
-      "shares": 12500,
-      "share_percent": 0.52,
-      "experience": "व्यापार व्यवसायमा २० वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "व्यापार व्यवसायमा २० वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार व्यवसाय"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 21,
@@ -341,13 +437,18 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
-      "shares": 12250,
-      "share_percent": 0.51,
-      "experience": "निजामति सेवामा ३७ वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "निजामति सेवामा ३७ वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "निजामति सेवा"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 22,
@@ -356,13 +457,18 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "ए. सि. सि. ए.",
-      "shares": 10001,
-      "share_percent": 0.41,
-      "experience": "शैक्षिक क्षेत्रमा १५ वर्षभन्दा बढीको अनुभव",
-      "experience_sectors": [
-        "शैक्षिक क्षेत्र"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "शैक्षिक क्षेत्रमा १५ वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "शिक्षा"
+      ]
     },
     {
       "sn": 23,
@@ -371,13 +477,18 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
-      "shares": 10000,
-      "share_percent": 0.41,
-      "experience": "व्यापार व्यवसायमा ३० वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "व्यापार व्यवसायमा ३० वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार व्यवसाय"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 24,
@@ -386,107 +497,249 @@
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातकोत्तर",
-      "shares": 10000,
-      "share_percent": 0.41,
-      "experience": "औषधी उत्पादन तथा बिक्रीको क्षेत्रमा २० वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "औषधी उत्पादन तथा विक्रीको क्षेत्रमा २० वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "औषधी उत्पादन",
-        "बिक्री क्षेत्र"
-      ],
-      "proposed_business": null
+        "विक्री"
+      ]
     }
   ],
   "directors": [
     {
       "sn": 1,
       "name": "अनिल रेग्मी",
-      "address": "स्थायी: वालिङ - ०१, स्याङ्जा / हाल: ललितपुर- २५, ललितपुर",
+      "address": "स्थायी: वालिङ-०१, स्याङ्जा; हाल: ललितपुर-२५, ललितपुर",
       "position": "अध्यक्ष",
       "nationality": "नेपाली",
       "shares": null,
       "education": "चार्टर्ड एकाउन्टेन्सी",
-      "experience": "गरिमा विकास बैंक लिमिटेड - नायव प्रमुख कार्यकारी अधिकृत (सन् २०२४ देखि हाल सम्म), गरिमा विकास बैंक लिमिटेड - सहायक प्रमुख कार्यकारी अधिकृत (सन् २०२२ देखि २०२४ सम्म), प्रमुख वित्त अधिकृत तथा प्रमुख संचालन अधिकृत - साविकको सेञ्चुरी कमर्सियल बैंक लिमिटेड (सन् २०१८ देखि २०२२ सम्म), प्रमुख वित्त अधिकृत - साविकको जनता बैंक नेपाल लिमिटेड (सन् २०१२ देखि २०१८ सम्म), सन् २००९ देखि २०१२ सम्म लेखापरीक्षण पेशामा आवद्ध।",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "गरिमा विकास बैंक लिमिटेड",
+          "role": "नायव प्रमुख कार्यकारी अधिकृत",
+          "from": "2024",
+          "to": "हाल"
+        },
+        {
+          "organization": "गरिमा विकास बैंक लिमिटेड",
+          "role": "सहायक प्रमुख कार्यकारी अधिकृत",
+          "from": "2022",
+          "to": "2024"
+        },
+        {
+          "organization": "सेञ्चुरी कमर्सियल बैंक लिमिटेड",
+          "role": "प्रमुख वित्त अधिकृत तथा प्रमुख संचालन अधिकृत",
+          "from": "2018",
+          "to": "2022"
+        },
+        {
+          "organization": "जनता बैंक नेपाल लिमिटेड",
+          "role": "प्रमुख वित्त अधिकृत",
+          "from": "2012",
+          "to": "2018"
+        },
+        {
+          "organization": "लेखापरीक्षण पेशा",
+          "role": null,
+          "from": "2009",
+          "to": "2012"
+        }
+      ],
       "experience_sectors": [
         "बैंकिङ",
         "लेखापरीक्षण"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 2,
       "name": "शेर बहादुर बुढाथोकी",
-      "address": "का.म.न.पा - ३, काठमाडौं",
+      "address": "का.म.न.पा.-३, काठमाडौं",
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": null,
       "education": "स्नातकोत्तर तह",
-      "experience": "सहायक प्रमुख कार्यकारी अधिकृत - सिद्धार्थ बैंक लिमिटेड (सन् २००२ देखि २०२५ सम्म), वरिष्ठ अधिकृत - नबिल बैंक लिमिटेड (सन् १९८८ देखि २००२ सम्म)",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिद्धार्थ बैंक लिमिटेड",
+          "role": "सहायक प्रमुख कार्यकारी अधिकृत",
+          "from": "2002",
+          "to": "2025"
+        },
+        {
+          "organization": "नबिल बैंक लिमिटेड",
+          "role": "वरिष्ठ अधिकृत",
+          "from": "1988",
+          "to": "2002"
+        }
+      ],
       "experience_sectors": [
         "बैंकिङ"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 3,
       "name": "सुरेश कुमार श्रेष्ठ",
-      "address": "का.म.न.पा - ३१, काठमाडौं",
+      "address": "का.म.न.पा.-३१, काठमाडौं",
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": null,
       "education": "आर.ए",
-      "experience": "“ख” वर्गको दर्तावाला लेखापरीक्षकको रुपमा कार्यरत (सन् २००३ देखि हाल सम्म), लेखा सहनिर्देशक तथा प्रबन्धक - एभरेष्ट ऐयर प्रा.लि (५ वर्षको अनुभव), लेखा सहनिर्देशक तथा प्रबन्धक - सांग्रीला ऐयर प्रा.लि (७ वर्षको अनुभव), लेखापाल - हवाई विभाग (१५ वर्षको अनुभव)",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "\"ख\" वर्गको दर्तावाला लेखापरीक्षक",
+          "role": "लेखापरीक्षक",
+          "from": "2003",
+          "to": "हाल"
+        },
+        {
+          "organization": "एभरेष्ट एयर प्रा.लि.",
+          "role": "लेखा सहनिर्देशक तथा प्रबन्धक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "साङ्ग्रीला एयर प्रा.लि.",
+          "role": "लेखा सहनिर्देशक तथा प्रबन्धक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "हवाई विभाग",
+          "role": "लेखापाल",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "लेखापरीक्षण",
-        "लेखा व्यवस्थापन"
-      ],
-      "proposed_business": null
+        "हवाई सेवा"
+      ]
     },
     {
       "sn": 4,
       "name": "सुनिल कार्की",
-      "address": "स्थायी: पुतलीबजार - १३, स्याङ्जा, गण्डकी / हाल: पोखरा - १४, गण्डकी",
+      "address": "स्थायी: पुतलीबजार-१३, स्याङ्जा; हाल: पोखरा-१४, गण्डकी",
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": null,
       "education": "ए.सि.सि.ए., व्यवस्थापनमा स्नातकोत्तर",
-      "experience": "प्रमुख कार्यकारी अधिकृत - पोखरा वाश इन्डष्ट्रिज प्रा.लि. (सन् २०१७ देखि हाल सम्म), ग्रुप कार्यसम्पादन प्रबन्धक - ड्याम्को ग्रुप, केन्या (जनवरी २०१७ - अक्टोबर २०१७), प्रमुख वित्त अधिकृत - जुमा हार्डवेयर स्टोर, केन्या (जनवरी २०१५ - डिसेम्बर २०१६), संचालक - सगरमाथा इन्जिनियरिङ लिमिटेड, केन्या (जनवरी २०१४ - डिसेम्बर २०१६), वित्तीय नियन्त्रक - युरो प्लाष्टिक लिमिटेड, केन्या (सेप्टेम्बर २०१२ - डिसेम्बर २०१४)",
-      "experience_sectors": [
-        "औद्योगिक व्यवस्थापन",
-        "वित्तीय नियन्त्रण",
-        "कर्पोरेट व्यवस्थापन"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "पोखरा वाश इन्डष्ट्रिज प्रा.लि.",
+          "role": "प्रमुख कार्यकारी अधिकृत",
+          "from": "2017",
+          "to": "हाल"
+        },
+        {
+          "organization": "डाम्को ग्रुप, केन्या",
+          "role": "ग्रुप कार्यसम्पादन प्रबन्धक",
+          "from": "2017-01",
+          "to": "2017-10"
+        },
+        {
+          "organization": "जुमा हार्डवेयर स्टोर, केन्या",
+          "role": "प्रमुख वित्त अधिकृत",
+          "from": "2015-01",
+          "to": "2016-12"
+        },
+        {
+          "organization": "सगरमाथा इन्जिनियरिङ लिमिटेड, केन्या",
+          "role": "संचालक",
+          "from": "2014-01",
+          "to": "2016-12"
+        },
+        {
+          "organization": "युरो प्लाष्टिक लिमिटेड, केन्या",
+          "role": "वित्तीय नियन्त्रक",
+          "from": "2012-09",
+          "to": "2014-12"
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "उद्योग",
+        "वित्त",
+        "इन्जिनियरिङ"
+      ]
     },
     {
       "sn": 5,
       "name": "महेश प्रसाद काफ्ले",
-      "address": "स्थायी: तानसेन - ०२, पाल्पा / हाल: टोखा - ०५, काठमाडौं",
+      "address": "स्थायी: तानसेन-०२, पाल्पा; हाल: टोखा-०५, काठमाडौं",
       "position": "स्वतन्त्र संचालक",
       "nationality": "नेपाली",
       "shares": null,
       "education": "एम.बि.ए.",
-      "experience": "प्रमुख कार्यकारी अधिकृत - कामना सेवा विकास बैंक लिमिटेड (सन् २००९ देखि २०१८ सम्म), उपप्रबन्धक - सिद्धार्थ फाइनान्स लिमिटेड (सन् २००० देखि २००७ सम्म), शाखा प्रबन्धक - पश्चिमाञ्चल फाइनान्स लिमिटेड (सन् १९९७ देखि २००० सम्म), अधिकृत - पश्चिमाञ्चल ग्रामीण विकास बैंक (सन् १९९५ देखि १९९७ सम्म)",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "कामना सेवा विकास बैंक लिमिटेड",
+          "role": "प्रमुख कार्यकारी अधिकृत",
+          "from": "2009",
+          "to": "2018"
+        },
+        {
+          "organization": "सिद्धार्थ फाइनान्स लिमिटेड",
+          "role": "उपप्रबन्धक",
+          "from": "2000",
+          "to": "2007"
+        },
+        {
+          "organization": "पश्चिमाञ्चल फाइनान्स लिमिटेड",
+          "role": "शाखा प्रबन्धक",
+          "from": "1997",
+          "to": "2000"
+        },
+        {
+          "organization": "पश्चिमाञ्चल ग्रामीण विकास बैंक",
+          "role": "अधिकृत",
+          "from": "1995",
+          "to": "1997"
+        }
+      ],
       "experience_sectors": [
         "बैंकिङ",
-        "लघुवित्त"
-      ],
-      "proposed_business": null
+        "फाइनान्स"
+      ]
     },
     {
       "sn": 6,
       "name": "नैना नेपाल ढकाल",
-      "address": "काठमाडौं - १०, काठमाडौं",
+      "address": "काठमाण्डौ-१०, काठमाण्डौ",
       "position": "स्वतन्त्र संचालक",
       "nationality": "नेपाली",
       "shares": null,
       "education": "मानविकी र सामाजिक शास्त्रचार्य (अर्थशास्त्र)",
-      "experience": "नेपाल सरकारको कृषि तथा सहकारी मन्त्रालय अन्तर्गत राजपत्रांकित द्वितीय श्रेणीको नेपाल कृषि सेवा \"एग्रि इको एण्ड मार्केटिङ\" समूहको वरिष्ठ कृषि तथा अर्थ विज्ञको पदमा कार्य गरेको अनुभव (सन् २००९ देखि २०१५ सम्म), नेपाल सरकारको कृषि मन्त्रालय अन्तर्गत राजपत्रांकित तृतीय श्रेणीको नेपाल कृषि सेवा \"एग्रि इको मार्के. एण्ड स्टा\" समूहको सहायक योजना अधिकृतको पदमा कार्य गरेको अनुभव (सन् १९९३ देखि २००९ सम्म)",
-      "experience_sectors": [
-        "कृषि अर्थशास्त्र",
-        "सरकारी सेवा",
-        "योजना तर्जुमा"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "नेपाल सरकारको कृषि तथा सहकारी मन्त्रालय",
+          "role": "वरिष्ठ कृषि तथा अर्थ विज्ञ",
+          "from": "2009",
+          "to": "2015"
+        },
+        {
+          "organization": "नेपाल सरकारको कृषि मन्त्रालय",
+          "role": "सहायक योजना अधिकृत",
+          "from": "1993",
+          "to": "2009"
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "सरकारी सेवा",
+        "कृषि"
+      ]
     }
   ],
   "director_affiliations": [
@@ -495,7 +748,7 @@
       "director_address": null,
       "affiliations": [
         {
-          "company": "गरिमा विकास बैंक लिमिटेड, (Garima Bikas Bank Limited)",
+          "company": "गरिमा विकास बैंक लिमिटेड (Garima Bikas Bank Limited)",
           "address": "लाजिम्पाट, काठमाडौं",
           "role": "नायव प्रमुख कार्यकारी अधिकृत",
           "from": null,
@@ -526,6 +779,44 @@
           "role": "प्रमुख कार्यकारी अधिकृत",
           "from": null,
           "to": null
+        }
+      ]
+    }
+  ],
+  "promoter_companies": [
+    {
+      "sn": 1,
+      "company": "गरिमा विकास बैंक लिमिटेड",
+      "address": "लाजिम्पाट, काठमाडौं",
+      "profile": "बैंकिङ्ग व्यवसाय",
+      "directors": [
+        {
+          "name": "श्री दिलिप प्रताप खांण",
+          "address": "वालिङ्ग ९, स्याङ्जा"
+        },
+        {
+          "name": "डा. श्याम प्रसाद बस्याल",
+          "address": "गल्याङ्ग ३, स्याङ्जा"
+        },
+        {
+          "name": "श्री दिपेन्द्र श्रेष्ठ",
+          "address": "बेनी - ६, म्याग्दी"
+        },
+        {
+          "name": "श्री विमल पाण्डे",
+          "address": "भरतपुर ६, चितवन"
+        },
+        {
+          "name": "श्री सोभाकान्त ढकाल",
+          "address": "वालिङ्ग १, स्याङ्जा"
+        },
+        {
+          "name": "श्री आयुषमा कोइराला",
+          "address": "पोखरा ५, कास्की"
+        },
+        {
+          "name": "श्री मुकुन्द राज आचार्य",
+          "address": "चापाकोट - १, स्याङ्जा"
         }
       ]
     }

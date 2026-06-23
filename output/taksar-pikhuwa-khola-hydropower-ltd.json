@@ -3,7 +3,7 @@
   "source_title": "Taksar Pikhuwa Khola Hydropower Ltd.- General Public",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/05/05/A0VDj7q3cS7wHtZWuGnPyqxCbdEMFzGzEy8U1LVj.pdf",
   "issue_date": "2026-05-05",
-  "extracted_at": "2026-06-22T10:40:53+00:00",
+  "extracted_at": "2026-06-23T08:29:08+00:00",
   "total_pages": 58,
   "table_pages": [
     16,
@@ -20,454 +20,736 @@
   "counts": {
     "shareholders": 21,
     "directors": 5,
-    "director_affiliations": 2
+    "director_affiliations": 2,
+    "promoter_companies": 2
   },
   "llm_cost": {
-    "in": 5588,
-    "out": 4735,
-    "cost_usd": 0.0135
+    "in": 6039,
+    "out": 6462,
+    "cost_usd": 0.018
   },
   "shareholders": [
     {
       "sn": 1,
-      "name": "श्री अजय बल्लभ पन्त",
+      "name": "अजय बल्लभ पन्त",
       "address": "का.जि. का.म.न.पा. वडा नं. २२, काठमाडौं",
       "age": 40,
       "nationality": "नेपाली",
       "education": "स्नातक लिगल स्टडी",
       "shares": 125000,
       "share_percent": 1.6,
-      "experience": "७ वर्षको हाइड्रोपावर क्षेत्रमा कार्य अनुभव रहेको, हाल कार्यरत अध्यक्ष : देव उर्जा कन्स्ट्रक्सन प्रा.लि., अध्यक्ष : देव मल्टीप्रपोज इन्भेष्टमेन्ट प्रा.लि., संचालक : देव लिजिङ कम्पनी प्रा.लि., सदस्य : शिक्षा तथा खेलकुद समिति, नेपाल चेम्बर्स अफ कमर्स",
-      "experience_sectors": [
-        "हाइड्रोपावर",
-        "कन्स्ट्रक्सन",
-        "इन्भेष्टमेन्ट",
-        "लिजिङ"
+      "sector_experience": [
+        {
+          "organization": "हाइड्रोपावर क्षेत्र",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [
+        {
+          "organization": "देव उर्जा कन्स्ट्रक्सन प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": "हाल",
+          "to": "हाल"
+        },
+        {
+          "organization": "देव मल्टीप्रपोज इन्भेष्टमेन्ट प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": "हाल",
+          "to": "हाल"
+        },
+        {
+          "organization": "देव लिजिङ कम्पनी प्रा.लि.",
+          "role": "संचालक",
+          "from": "हाल",
+          "to": "हाल"
+        },
+        {
+          "organization": "शिक्षा तथा खेलकुद समिति, नेपाल चेम्बर्स अफ कमर्स",
+          "role": "सदस्य",
+          "from": "हाल",
+          "to": "हाल"
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत",
+        "निर्माण",
+        "वित्तीय",
+        "व्यापार"
+      ]
     },
     {
       "sn": 2,
-      "name": "श्री पञ्च वीर सिंह तुलाधर",
+      "name": "पञ्च वीर सिंह तुलाधर",
       "address": "का.जि. का.म.न.पा. वडा नं. २, काठमाडौं",
       "age": 87,
       "nationality": "नेपाली",
       "education": "एस.एल.सी.",
       "shares": 471564,
       "share_percent": 6.06,
-      "experience": "१० वर्षको हाइड्रोपावर सम्बन्धी कार्य अनुभव तथा व्यापार व्यवसाय",
-      "experience_sectors": [
-        "हाइड्रोपावर",
-        "व्यापार व्यवसाय"
+      "sector_experience": [
+        {
+          "organization": "हाइड्रोपावर सम्बन्धी कार्य",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [
+        {
+          "organization": "व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत",
+        "व्यापार"
+      ]
     },
     {
       "sn": 3,
-      "name": "श्री नरेन्द्र बल्लभ पन्त",
+      "name": "नरेन्द्र बल्लभ पन्त",
       "address": "का.जि. का.म.न.पा. वडा नं. २२, काठमाडौं",
       "age": 40,
       "nationality": "नेपाली",
       "education": "व्यवस्थापनमा स्नातक",
       "shares": 544104,
       "share_percent": 7.0,
-      "experience": "१३ वर्षको हाइड्रोपावर सम्बन्धी कार्य अनुभव रहेको हाल कार्यरत अध्यक्ष : ठूलो खोला हाइड्रोपावर लि., अध्यक्ष : देव ग्रुप अफ कम्पनी प्रा.लि., प्रबन्ध निर्देशक : देव लिजिङ कम्पनी प्रा.लि., कोषाध्यक्ष : स्वतन्त्र उर्जा उत्पादकहरूको संस्था नेपाल, कार्य समिति सदस्य : नेपाल चेम्बर्स अफ कमर्स, सभापति : उर्जा समिति, नेपाल चेम्बर्स अफ कमर्स",
-      "experience_sectors": [
-        "हाइड्रोपावर",
-        "लिजिङ"
+      "sector_experience": [
+        {
+          "organization": "हाइड्रोपावर सम्बन्धी कार्य",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [
+        {
+          "organization": "ठूलो खोला हाइड्रोपावर लि.",
+          "role": "अध्यक्ष",
+          "from": "हाल",
+          "to": "हाल"
+        },
+        {
+          "organization": "देव ग्रुप अफ कम्पनी प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": "हाल",
+          "to": "हाल"
+        },
+        {
+          "organization": "देव लिजिङ कम्पनी प्रा.लि.",
+          "role": "प्रबन्ध निर्देशक",
+          "from": "हाल",
+          "to": "हाल"
+        },
+        {
+          "organization": "स्वतन्त्र उर्जा उत्पादकहरूको संस्था नेपाल",
+          "role": "कोषाध्यक्ष",
+          "from": "हाल",
+          "to": "हाल"
+        },
+        {
+          "organization": "नेपाल चेम्बर्स अफ कमर्स",
+          "role": "कार्य समिति सदस्य",
+          "from": "हाल",
+          "to": "हाल"
+        },
+        {
+          "organization": "उर्जा समिति, नेपाल चेम्बर्स अफ कमर्स",
+          "role": "सभापति",
+          "from": "हाल",
+          "to": "हाल"
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत",
+        "वित्तीय",
+        "व्यापार"
+      ]
     },
     {
       "sn": 4,
-      "name": "श्री बाबु राजा चक्रधर",
+      "name": "बाबु राजा चक्रधर",
       "address": "चपाचो -८, भक्तपुर",
       "age": 51,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 150000,
       "share_percent": 1.93,
-      "experience": "व्यापार व्यवसाय",
-      "experience_sectors": [
-        "व्यापार व्यवसाय"
+      "sector_experience": [
+        {
+          "organization": "व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [],
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 5,
-      "name": "श्री देव उर्जा कन्स्ट्रक्सन प्रा.लि.",
+      "name": "देव उर्जा कन्स्ट्रक्सन प्रा.लि.",
       "address": "का.जि. का.म.न.पा. वडा नं. २२, काठमाडौं",
       "age": null,
       "nationality": "संगठित संस्था",
       "education": "लागू नहुने",
       "shares": 900000,
       "share_percent": 11.58,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 6,
-      "name": "श्री अम्बिका प्रसाद ढकाल",
+      "name": "अम्बिका प्रसाद ढकाल",
       "address": "तिवारी भञ्ज्याङ - ९, भोजपुर",
       "age": 62,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 93000,
       "share_percent": 1.19,
-      "experience": "१० वर्ष देखि हाइड्रोपावर प्रवर्द्धकको रुपमा कार्य अनुभव रहेको",
-      "experience_sectors": [
-        "हाइड्रोपावर"
+      "sector_experience": [
+        {
+          "organization": "हाइड्रोपावर प्रवर्द्धक",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [],
+      "experience_sectors": [
+        "जलविद्युत"
+      ]
     },
     {
       "sn": 7,
-      "name": "श्री श्याम प्रसाद शुक्ल अधिकारी",
+      "name": "श्याम प्रसाद शुक्ल अधिकारी",
       "address": "का.जि. का.म.न.पा. वडा नं. ७, काठमाडौं",
       "age": 64,
       "nationality": "नेपाली",
       "education": "स्नातक (इन्जिनियरिङ्ग)",
       "shares": 250000,
       "share_percent": 3.21,
-      "experience": "नेपाल टेलिकमबाट अवकाश प्राप्त, ६ वर्षको हाइड्रोपावर सम्बन्धी कार्य अनुभव रहेको",
-      "experience_sectors": [
-        "टेलिकम",
-        "हाइड्रोपावर"
+      "sector_experience": [
+        {
+          "organization": "नेपाल टेलिकम",
+          "role": "अवकाश प्राप्त",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "हाइड्रोपावर सम्बन्धी कार्य",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [],
+      "experience_sectors": [
+        "दूरसञ्चार",
+        "जलविद्युत"
+      ]
     },
     {
       "sn": 8,
-      "name": "श्री सरिता कुमारी उपाध्याय",
+      "name": "सरिता कुमारी उपाध्याय",
       "address": "का.जि. का.म.न.पा. वडा नं. ७, काठमाडौं",
       "age": 60,
       "nationality": "नेपाली",
       "education": "प्रमाणपत्र तह",
       "shares": 250000,
       "share_percent": 3.21,
-      "experience": null,
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 9,
-      "name": "श्री श्वेता अधिकारी",
+      "name": "श्वेता अधिकारी",
       "address": "का.जि. का.म.न.पा. वडा नं. ७, काठमाडौं",
       "age": 35,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 450000,
       "share_percent": 5.79,
-      "experience": "५ वर्षको हाइड्रोपावर सम्बन्धी कार्य अनुभव रहेको",
-      "experience_sectors": [
-        "हाइड्रोपावर"
+      "sector_experience": [
+        {
+          "organization": "हाइड्रोपावर सम्बन्धी कार्य",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [],
+      "experience_sectors": [
+        "जलविद्युत"
+      ]
     },
     {
       "sn": 10,
-      "name": "श्री विन्दु रेग्मी",
+      "name": "विन्दु रेग्मी",
       "address": "देवीस्थान-२, पर्वत हाल का.जि. का.म.न.पा. वडा नं. ३, काठमाडौं",
       "age": 36,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 100000,
       "share_percent": 1.28,
-      "experience": "शिक्षण पेशा सम्बन्धी अनुभव रहेको",
+      "sector_experience": [
+        {
+          "organization": "शिक्षण पेशा सम्बन्धी अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
       "experience_sectors": [
         "शिक्षा"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 11,
-      "name": "श्री रंश बल्लभ पन्त",
+      "name": "रंश बल्लभ पन्त",
       "address": "का.जि. का.म.न.पा. वडा नं. २२, काठमाडौं",
       "age": 11,
-      "nationality": "नेपाली (नावालक)",
+      "nationality": "नेपाली",
       "education": "लागू नहुने",
       "shares": 200000,
       "share_percent": 2.57,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 12,
-      "name": "श्री रेभांश बल्लभ पन्त",
+      "name": "रेभांश बल्लभ पन्त",
       "address": "का.जि. का.म.न.पा. वडा नं. २२, काठमाडौं",
       "age": 5,
-      "nationality": "नेपाली (नावालक)",
+      "nationality": "नेपाली",
       "education": "लागू नहुने",
       "shares": 200000,
       "share_percent": 2.57,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 13,
-      "name": "श्री आर्या पन्त",
+      "name": "आर्या पन्त",
       "address": "का.जि. का.म.न.पा. वडा नं. २२, काठमाडौं",
       "age": 8,
-      "nationality": "नेपाली (नावालक)",
+      "nationality": "नेपाली",
       "education": "लागू नहुने",
       "shares": 100000,
       "share_percent": 1.28,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 14,
-      "name": "श्री आश्री पन्त",
+      "name": "आश्री पन्त",
       "address": "का.जि. का.म.न.पा. वडा नं. २२, काठमाडौं",
       "age": 4,
-      "nationality": "नेपाली (नावालक)",
+      "nationality": "नेपाली",
       "education": "लागू नहुने",
       "shares": 100000,
       "share_percent": 1.28,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 15,
-      "name": "श्री प्रकाश वीर सिंह तुलाधर",
+      "name": "प्रकाश वीर सिंह तुलाधर",
       "address": "का.जि. का.म.न.पा. वडा नं. २७, काठमाडौं",
       "age": 63,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 200000,
       "share_percent": 2.57,
-      "experience": "व्यापार व्यवसाय",
-      "experience_sectors": [
-        "व्यापार व्यवसाय"
+      "sector_experience": [
+        {
+          "organization": "व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [],
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 16,
-      "name": "श्री प्रिय वीर सिंह तुलाधर",
+      "name": "प्रिय वीर सिंह तुलाधर",
       "address": "का.जि. का.म.न.पा. वडा नं. २२, काठमाडौं",
       "age": 55,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 200000,
       "share_percent": 2.57,
-      "experience": "व्यापार व्यवसाय",
-      "experience_sectors": [
-        "व्यापार व्यवसाय"
+      "sector_experience": [
+        {
+          "organization": "व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [],
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 17,
-      "name": "श्री पवन वीर सिंह तुलाधर",
+      "name": "पवन वीर सिंह तुलाधर",
       "address": "का.जि. का.म.न.पा. वडा नं. २४, काठमाडौं",
       "age": 61,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 200000,
       "share_percent": 2.57,
-      "experience": "व्यापार व्यवसाय",
-      "experience_sectors": [
-        "व्यापार व्यवसाय"
+      "sector_experience": [
+        {
+          "organization": "व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [],
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 18,
-      "name": "श्री परला देवी तुलाधर",
+      "name": "परला देवी तुलाधर",
       "address": "का.जि. का.म.न.पा. वडा नं. २४, काठमाडौं",
       "age": 57,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 200000,
       "share_percent": 2.57,
-      "experience": "व्यापार व्यवसाय",
-      "experience_sectors": [
-        "व्यापार व्यवसाय"
+      "sector_experience": [
+        {
+          "organization": "व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [],
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 19,
-      "name": "श्री सविन खड्का",
+      "name": "सविन खड्का",
       "address": "लादुक -२, दोलखा",
       "age": 42,
       "nationality": "नेपाली",
-      "education": "स्नातकोत्तर (सिभिल इन्जिनियरिङ्ग)",
+      "education": "स्नातकोत्तर (सिभिल इन्जिनियरिङ)",
       "shares": 170000,
       "share_percent": 2.18,
-      "experience": "निर्माण डिजाइनर सम्बन्धी कार्य अनुभव रहेको",
-      "experience_sectors": [
-        "इन्जिनियरिङ्ग",
-        "निर्माण"
+      "sector_experience": [
+        {
+          "organization": "निर्माण डिजाइनर सम्बन्धी कार्य",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [],
+      "experience_sectors": [
+        "निर्माण"
+      ]
     },
     {
       "sn": 20,
-      "name": "श्री प्रेक्षा सिंह",
+      "name": "प्रेक्षा सिंह",
       "address": "पिपलकोट-३, बझाङ्ग",
       "age": 35,
       "nationality": "नेपाली",
-      "education": "स्नातकोत्तर (इन्जिनियरिङ्ग म्यानेजमेन्ट)",
+      "education": "स्नातकोत्तर (इन्जिनियरिङ म्यानेजमेन्ट)",
       "shares": 100000,
       "share_percent": 1.28,
-      "experience": "एडीबीद्वारा सहयोग आयोजनामा कार्यरत",
-      "experience_sectors": [
-        "इन्जिनियरिङ्ग म्यानेजमेन्ट"
+      "sector_experience": [
+        {
+          "organization": "एडीबीद्वारा सहयोग आयोजना",
+          "role": "कार्यरत",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [],
+      "experience_sectors": [
+        "विकास आयोजना"
+      ]
     },
     {
       "sn": 21,
-      "name": "श्री भि.जे. इन्भेष्टमेन्ट कम्पनी प्रा.लि.",
+      "name": "भि.जे. इन्भेष्टमेन्ट कम्पनी प्रा.लि.",
       "address": "ल.पु.म.न.पा.-१५, ललितपुर",
       "age": null,
       "nationality": "संगठित संस्था",
       "education": "लागू नहुने",
       "shares": 250000,
       "share_percent": 3.21,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     }
   ],
   "directors": [
     {
       "sn": 1,
-      "name": "श्री अजय बल्लभ पन्त",
+      "name": "अजय बल्लभ पन्त",
       "address": "का.जि. का.म.न.पा. वडा नं. २२, काठमाडौं",
       "position": "अध्यक्ष (संस्थापक समूह)",
       "nationality": "नेपाली",
       "shares": 125000,
       "education": "स्नातक-लिगल स्टडी",
-      "experience": "१५ वर्ष देखि हाल सम्म इन्भेष्टमेन्ट तथा वित्तीय संस्थामा आवद्ध, देव उर्जा कन्स्ट्रक्सन प्रा.लि.-अध्यक्ष, देव लिजिङ कम्पनी लि.-संचालक, हाइड्रोपावर क्षेत्रमा ७ वर्षको आवद्धता",
-      "experience_sectors": [
-        "इन्भेष्टमेन्ट",
-        "वित्तीय संस्था",
-        "कन्स्ट्रक्सन",
-        "लिजिङ",
-        "हाइड्रोपावर"
+      "sector_experience": [
+        {
+          "organization": "जलविद्युत क्षेत्र",
+          "role": null,
+          "from": "२०७९",
+          "to": "हाल"
+        }
       ],
-      "proposed_business": "नभएको"
+      "other_experience": [
+        {
+          "organization": "इन्भेष्टमेन्ट तथा वित्तीय संस्था",
+          "role": "आबद्ध",
+          "from": "२०६७",
+          "to": "हाल"
+        },
+        {
+          "organization": "देव उर्जा कन्स्ट्रक्सन प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": "२०८०/०४/०१",
+          "to": "हाल"
+        },
+        {
+          "organization": "देव लिजिङ कम्पनी लि.",
+          "role": "संचालक",
+          "from": "२०७७/०४/०१",
+          "to": "हाल"
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत",
+        "वित्तीय",
+        "निर्माण"
+      ]
     },
     {
       "sn": 2,
-      "name": "श्री पञ्च वीर सिंह तुलाधर",
+      "name": "पञ्च वीर सिंह तुलाधर",
       "address": "का.जि. का.म.न.पा. वडा नं. २, काठमाडौं",
       "position": "संचालक (संस्थापक समूह)",
       "nationality": "नेपाली",
       "shares": 471564,
       "education": "एस.एल.सी.",
-      "experience": "विगत १० वर्ष देखि हाइड्रोपावर क्षेत्रमा संलग्नता, विगत ४० वर्षदेखि ट्रेडिङ्ग सम्बन्धी व्यापारमा संलग्नता",
-      "experience_sectors": [
-        "हाइड्रोपावर",
-        "ट्रेडिङ्ग"
+      "sector_experience": [
+        {
+          "organization": "जलविद्युत क्षेत्र",
+          "role": "संलग्नता",
+          "from": "२०७२",
+          "to": "हाल"
+        }
       ],
-      "proposed_business": "नभएको"
+      "other_experience": [
+        {
+          "organization": "ट्रेडिङ सम्बन्धी व्यापार",
+          "role": "संलग्नता",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत",
+        "व्यापार"
+      ]
     },
     {
       "sn": 3,
-      "name": "श्री सुरेश कुमार स्थापित",
+      "name": "सुरेश कुमार स्थापित",
       "address": "का.जि. का.म.न.पा. वडा नं. २२, काठमाडौं",
       "position": "संचालक (संस्थापक समूह)",
       "nationality": "नेपाली",
       "shares": 25000,
       "education": "स्नातक",
-      "experience": "मञ्जु श्री ट्रेड हाउस-संचालक, मञ्जु श्री फ्याब्रिक प्रा.लि.-संचालक, देव बचत तथा ऋण सहकारी संस्था लि.-कोषाध्यक्ष",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "मञ्जु श्री ट्रेड हाउस",
+          "role": "संचालक",
+          "from": "२०५४",
+          "to": "हाल"
+        },
+        {
+          "organization": "मञ्जु श्री फ्याब्रिक प्रा.लि.",
+          "role": "संचालक",
+          "from": "२०४८",
+          "to": "हाल"
+        },
+        {
+          "organization": "देव बचत तथा ऋण सहकारी संस्था लि.",
+          "role": "कोषाध्यक्ष",
+          "from": "२०७४",
+          "to": "हाल"
+        }
+      ],
       "experience_sectors": [
         "व्यापार",
+        "उत्पादन",
         "सहकारी"
-      ],
-      "proposed_business": "नभएको"
+      ]
     },
     {
       "sn": 4,
-      "name": "श्री शम्भू प्रसाद पन्त",
+      "name": "शम्भु प्रसाद पन्त",
       "address": "का.जि. का.म.न.पा. वडा नं. १८, काठमाडौं",
       "position": "संचालक (संस्थापक समूह)",
       "nationality": "नेपाली",
       "shares": 4500,
       "education": "स्नातक",
-      "experience": "सिभिल बैंक लि.-संचालक, नेपाल स्टक एक्सचेन्ज लि.-कर्मचारी",
-      "experience_sectors": [
-        "बैंकिङ्ग",
-        "धितोपत्र बजार"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिभिल बैंक लि.",
+          "role": "संचालक",
+          "from": "२०७६",
+          "to": "२०८०"
+        },
+        {
+          "organization": "नेपाल स्टक एक्सचेन्ज लि.",
+          "role": "कर्मचारी",
+          "from": "२०४३",
+          "to": "२०७३"
+        }
       ],
-      "proposed_business": "नभएको"
+      "experience_sectors": [
+        "बैंकिङ",
+        "धितोपत्र बजार"
+      ]
     },
     {
       "sn": 5,
-      "name": "श्री रश्मी नेपाल",
+      "name": "रश्मी नेपाल",
       "address": "का.जि. कीर्तिपुर न.पा. वडा नं. ४, काठमाडौं",
       "position": "स्वतन्त्र संचालक",
       "nationality": "नेपाली",
       "shares": null,
       "education": "स्नातकोत्तर",
-      "experience": "नेशनल लघुवित्त वित्तीय संस्था लि.-कर्मचारी",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "नेशनल लघुवित्त वित्तीय संस्था लि.",
+          "role": "कर्मचारी",
+          "from": "२०७२",
+          "to": "हाल"
+        }
+      ],
       "experience_sectors": [
         "लघुवित्त"
-      ],
-      "proposed_business": "नभएको"
+      ]
     }
   ],
   "director_affiliations": [
     {
-      "director_name": "श्री अजय बल्लभ पन्त",
+      "director_name": "अजय बल्लभ पन्त",
       "director_address": "का.जि. का.म.न.पा. वडा नं. २२, काठमाडौं",
       "affiliations": [
         {
           "company": "देव उर्जा कन्स्ट्रक्सन प्रा.लि.",
           "address": "का.जि. का.म.न.पा. वडा नं. २२, खिचापोखरी, काठमाडौं",
           "role": "अध्यक्ष",
-          "from": "2080/04/01",
-          "to": "हाल सम्म"
+          "from": "२०८०/०४/०१",
+          "to": "हाल"
         },
         {
           "company": "देव बचत तथा ऋण सहकारी संस्था लि.",
           "address": "का.जि. का.म.न.पा. वडा नं. २२, खिचापोखरी, काठमाडौं",
           "role": "अध्यक्ष",
-          "from": "2079/04/01",
-          "to": "हाल सम्म"
+          "from": "२०७९/०४/०१",
+          "to": "हाल"
         },
         {
           "company": "देव मल्टीप्रपोज इन्भेष्टमेन्ट प्रा.लि.",
           "address": "का.जि. का.म.न.पा. वडा नं. २२, खिचापोखरी, काठमाडौं",
           "role": "अध्यक्ष",
-          "from": "2076",
-          "to": "हाल सम्म"
+          "from": "२०६८",
+          "to": "हाल"
         },
         {
           "company": "देव लिजिङ कम्पनी प्रा.लि.",
           "address": "का.जि. का.म.न.पा. वडा नं. २२, खिचापोखरी, काठमाडौं",
           "role": "संचालक",
-          "from": "2077",
-          "to": "हाल सम्म"
+          "from": "२०७७",
+          "to": "हाल"
         },
         {
           "company": "शिक्षा तथा खेलकुद समिति, नेपाल चेम्बर्स अफ कमर्स",
           "address": "का.जि. का.म.न.पा., जमल, काठमाडौं",
           "role": "सदस्य",
-          "from": "2078",
-          "to": "2080 सम्म"
+          "from": "२०७८",
+          "to": "२०८०"
         }
       ]
     },
     {
-      "director_name": "श्री सुरेश कुमार स्थापित",
-      "director_address": "का.जि. का.म.न.पा. वडा नं. २२, काठमाडौं",
+      "director_name": "सुरेश कुमार स्थापित",
+      "director_address": "भक्तपुर",
       "affiliations": [
         {
           "company": "मञ्जुश्री फ्याब्रिक प्रा.लि.",
           "address": "भक्तपुर जिल्ला, ब्यासी १५ ङ, भक्तपुर",
           "role": "संचालक",
-          "from": "2058",
-          "to": "2080 सम्म"
+          "from": "२०५८",
+          "to": "२०८०"
+        }
+      ]
+    }
+  ],
+  "promoter_companies": [
+    {
+      "sn": 1,
+      "company": "देव उर्जा कन्स्ट्रक्सन प्रा.लि.",
+      "address": "का.जि. का.म.न.पा. वडा नं. २२, खिचापोखरी, काठमाडौं",
+      "profile": "कम्पनीको उद्देश्य: नेपाल सरकारको अनुमति लिई जलविद्युत शक्ति उत्पादन, प्रसारण तथा वितरण सम्बन्धी कार्य गर्नका लागि नयाँ आयोजनाहरु तयार गर्ने । रजिष्टर्ड नं. १७५८२/०७४/०७५, दर्ता मिति: २०७४/०८/२४, अधिकृत पूँजी: रु. ५,००,००,०००/-, जारी पूँजी: रु. ५,००,००,०००/-, चुक्ता पूँजी: रु. ५,००,००,०००/-",
+      "directors": [
+        {
+          "name": "अजय बल्लभ पन्त",
+          "address": "का.जि. का.म.न.पा. वडा नं. २२"
+        },
+        {
+          "name": "श्याम प्रसाद शुक्ल अधिकारी",
+          "address": "का.जि. का.म.न.पा. वडा नं. ७"
+        }
+      ]
+    },
+    {
+      "sn": 2,
+      "company": "भि.जे. इन्भेष्टमेन्ट कम्पनी प्रा.लि.",
+      "address": "ललितपुर जिल्ला, ललितपुर महानगर पालिका वडा नं. १५, खुमलटार",
+      "profile": "कम्पनीको उद्देश्य: विभिन्न कम्पनीमा लगानी गर्ने समेत । रजिष्टर्ड नं. २३९३४२/०७७/०७८, दर्ता मिति: २०७७/०४/१५, अधिकृत पूँजी: रु. ५,००,००,०००/-, जारी पूँजी: रु. ५,००,००,०००/-, चुक्ता पूँजी: रु. ५,००,००,०००/-",
+      "directors": [
+        {
+          "name": "विवेक झा",
+          "address": "धनुषा जिल्ला, जनकपुर उ.म.न.पा. वडा नं. २०"
         }
       ]
     }

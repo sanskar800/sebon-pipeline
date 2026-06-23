@@ -1,0 +1,1322 @@
+{
+  "company": "Solu Hydropower Ltd.",
+  "source_title": "Solu Hydropower Ltd.- General Public",
+  "prospectus_url": "https://sebon.gov.np/uploads/2026/01/12/rNRNm95LWdhI7jV37gG84YQzMJQR8dKxMjuretSh.pdf",
+  "issue_date": "2026-01-12",
+  "extracted_at": "2026-06-23T08:44:35+00:00",
+  "total_pages": 70,
+  "table_pages": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "counts": {
+    "shareholders": 24,
+    "directors": 5,
+    "director_affiliations": 5,
+    "promoter_companies": 5
+  },
+  "llm_cost": {
+    "in": 8287,
+    "out": 9662,
+    "cost_usd": 0.0266
+  },
+  "shareholders": [
+    {
+      "sn": 1,
+      "name": "श्री गोविन्द लाल संघाई",
+      "address": "का.जि.का.म.न.पा. वडा नं. २५, काठमाण्डौ",
+      "age": 61,
+      "nationality": "नेपाली",
+      "education": "आई.कम.",
+      "shares": 6531700,
+      "share_percent": 8.16,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "श्री पशुपति सिमेन्ट प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "नेपाल टी डेभलपमेन्ट कर्पोरेशन",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "त्रिवेणी दाल एण्ड ओयल इण्डष्ट्रिज प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "त्रिवेणी फिड इण्डष्ट्रिज प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "त्रिवेणी प्लास्टो पोलिमर्सप्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "नेपाल लाईफ इन्स्योरेन्स कम्पनी लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "सिमेन्ट",
+        "चिया",
+        "खाद्यान्न",
+        "दाना",
+        "प्लास्टिक",
+        "बीमा"
+      ]
+    },
+    {
+      "sn": 2,
+      "name": "श्री राम चन्द्र संघाई",
+      "address": "का.जि.का.म.न.पा. वडा नं. २४, काठमाण्डौ",
+      "age": 64,
+      "nationality": "नेपाली",
+      "education": "आई.कम.",
+      "shares": 3944700,
+      "share_percent": 4.93,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "त्रिवेणी स्पिनिङ्ग मिल्सप्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "गौरी शंकर ग्यास उद्योग प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "जी.पी डिष्ट्रीब्युटर प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "सिद्धार्थ ग्यास उद्योग प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "नवज्योति ग्यासेस प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "धागो",
+        "ग्यास",
+        "वितरण"
+      ]
+    },
+    {
+      "sn": 3,
+      "name": "श्री विरेन्द्र कुमार संघाई",
+      "address": "का.जि.का.म.न.पा. वडा नं. २५, काठमाण्डौ",
+      "age": 68,
+      "nationality": "नेपाली",
+      "education": "आई.कम.",
+      "shares": 3933700,
+      "share_percent": 4.92,
+      "sector_experience": [
+        {
+          "organization": "ग्रीन भेन्चर्स लिमिटेड",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "अन्नपूर्ण भेजिटेवल प्रोडक्टस प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "महालक्ष्मी सोल्भेन्ट एण्ड रिफाइनरी प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "नव ज्योति ग्यासेस प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "त्रिवेणी दाल एण्ड ओयल इण्डष्ट्रिज प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत",
+        "खाद्यान्न",
+        "ग्यास"
+      ]
+    },
+    {
+      "sn": 4,
+      "name": "श्री आदित्य संघाई",
+      "address": "का.जि.का.म.न.पा. वडा नं. २५, काठमाण्डौ",
+      "age": 39,
+      "nationality": "नेपाली",
+      "education": "वि.कम",
+      "shares": 3553000,
+      "share_percent": 4.44,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "घोराही सिमेन्ट इण्डष्ट्रिज लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "श्री पशुपति सिमेन्ट प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "एस.डि.पि.एल.ट्रेड प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "गोपालजी प्रोपर्टीज प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "टी.जी होल्डीड प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "सिमेन्ट",
+        "व्यापार",
+        "घरजग्गा",
+        "होल्डिङ्ग"
+      ]
+    },
+    {
+      "sn": 5,
+      "name": "श्री अनुज अग्रवाल",
+      "address": "का.जि. का.म.न.पा वडा नं. १, काठमाण्डौ",
+      "age": 51,
+      "nationality": "नेपाली",
+      "education": "एमविए",
+      "shares": 3300000,
+      "share_percent": 4.13,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "नेपाल इन्फ्रास्ट्रक्चर बैंक लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "युनाइटेड डिष्ट्रीब्युटर्स नेपाल प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "इन्डेक्स डिष्ट्रीब्युटर्स प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "बैंकिङ्ग",
+        "वितरण"
+      ]
+    },
+    {
+      "sn": 6,
+      "name": "श्री विशाल अग्रवाल",
+      "address": "का.जि. का.म.न.पा वडा नं. २, काठमाण्डौ",
+      "age": 48,
+      "nationality": "नेपाली",
+      "education": "एमविए",
+      "shares": 3290000,
+      "share_percent": 4.11,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "आइ जि आइ प्रुडेन्सियल इन्स्योरेन्स कं.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "पूजा इन्टरनेशनल नेपाल प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "विशाल ग्रुप लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "यति ब्रुवरी प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "पूजा कन्स्ट्रक्सन नेपाल प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "बीमा",
+        "व्यापार",
+        "उत्पादन",
+        "निर्माण"
+      ]
+    },
+    {
+      "sn": 7,
+      "name": "श्री सुभाष चन्द्र संघाई",
+      "address": "का.जि.का.म.न.पा. वडा नं. २५, काठमाण्डौ",
+      "age": 71,
+      "nationality": "नेपाली",
+      "education": "आई.कम.",
+      "shares": 3266700,
+      "share_percent": 4.08,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "नेपाल टी डेभलपमेन्ट कर्पोरेशन",
+          "role": "कार्यकारी अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "गणेश हिमाल टी इस्टेट प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "हल्दीवारी टी प्रोसेसिङ प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "त्रिवेणी फिड इण्डष्ट्रिज प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "त्रिवेणी प्लास्टो पोलिमर्सप्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "चिया",
+        "दाना",
+        "प्लास्टिक"
+      ]
+    },
+    {
+      "sn": 8,
+      "name": "श्री हर्ष वर्धन संघाई",
+      "address": "का.जि.का.म.न.पा. वडा नं. २५, काठमाण्डौ",
+      "age": 37,
+      "nationality": "नेपाली",
+      "education": "वि.एससी",
+      "shares": 3266000,
+      "share_percent": 4.08,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "जी.पी डिष्ट्रीब्युटर प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "जी.पी ट्रेडिङ्ग प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "हिमालयन नेपाल टी इन्डष्ट्रिज प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "टी.जी. होल्डीड प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "वितरण",
+        "व्यापार",
+        "चिया",
+        "होल्डिङ्ग"
+      ]
+    },
+    {
+      "sn": 9,
+      "name": "श्री निकुञ्ज अग्रवाल",
+      "address": "का.जि. का.म.न.पा वडा नं. २, काठमाण्डौ",
+      "age": 42,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 3125000,
+      "share_percent": 3.91,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "भि.जी.अटोमोबिल्स प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "एडभान्स अटोमोबिल्स प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "कमला रोलिङ्ग मिल्स प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "श्री गणेश प्रोपर्टीज एण्ड इन्भेष्टमेन्ट प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "अटोमोबाइल्स",
+        "फलाम",
+        "घरजग्गा"
+      ]
+    },
+    {
+      "sn": 10,
+      "name": "श्री पुरुषोत्तम लाल संघाई",
+      "address": "का.जि.का.म.न.पा. वडा नं. २५, काठमाण्डौ",
+      "age": 80,
+      "nationality": "नेपाली",
+      "education": "आई.कम.",
+      "shares": 2954700,
+      "share_percent": 3.69,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "घोराही सिमेन्ट इन्डष्ट्रिज प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "विश्वकर्मा माईन्स एण्ड मिनरल्स प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "त्रिवेणी फ्लेक्सोपैक प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "त्रिवेणी स्न्याक्स प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "त्रिवेणी प्रोपर्टीज प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "एस.डि.पि.एल.ट्रेड प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "टि.जी.ट्रेड कन्सर्न प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "सिमेन्ट",
+        "खानी",
+        "प्याकेजिङ्ग",
+        "खाद्यान्न",
+        "घरजग्गा",
+        "व्यापार"
+      ]
+    },
+    {
+      "sn": 11,
+      "name": "श्री अनुज राठी",
+      "address": "मोरङ्ग जिल्ला, विराटनगर वडा नं. १२",
+      "age": 47,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 2672369,
+      "share_percent": 3.34,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "करिव २० वर्ष भन्दा बढीको व्यवसायिक अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "व्यापार"
+      ]
+    },
+    {
+      "sn": 12,
+      "name": "श्री शैलेश संघाई",
+      "address": "का.जि.का.म.न.पा. वडा नं. २५, काठमाण्डौ",
+      "age": 40,
+      "nationality": "नेपाली",
+      "education": "एमविए",
+      "shares": 2588000,
+      "share_percent": 3.24,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "त्रिवेणी व्यापार कं.प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "टाईटन इन्टरनेशनल प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "आर.संघई इन्भेष्टमेन्ट प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "व्यापार",
+        "लगानी"
+      ]
+    },
+    {
+      "sn": 13,
+      "name": "श्री नितेश अग्रवाल",
+      "address": "सुनसरी जिल्ला, धरान वडा नं. ५",
+      "age": 49,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 5675040,
+      "share_percent": 7.09,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "मिलनियम इन्टरनेशनल ललसी, दुबई, यूएई",
+          "role": "म्यानेजर/पार्टनर",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "पारामाउण्ट डिष्ट्रीब्युटर डिएमसीसी, दुबई, यूएई",
+          "role": "म्यानेजर",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "पारामाउण्ट टेलिकम एफजेडका, दुबई, यूएई",
+          "role": "म्यानेजर",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "व्यापार",
+        "टेलिकम"
+      ]
+    },
+    {
+      "sn": 14,
+      "name": "श्री सकेत संघाई",
+      "address": "का.जि.का.म.न.पा. वडा नं. २५, काठमाण्डौ",
+      "age": 28,
+      "nationality": "नेपाली",
+      "education": "बि.बि.ए",
+      "shares": 2574000,
+      "share_percent": 3.22,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "मंगलम टी इस्टेट प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "चिया"
+      ]
+    },
+    {
+      "sn": 15,
+      "name": "श्री अर्पित अग्रवाल",
+      "address": "का.जि. का.म.न.पा वडा नं. २, काठमाण्डौ",
+      "age": 35,
+      "nationality": "नेपाली",
+      "education": "स्नातकोत्तर",
+      "shares": 2435000,
+      "share_percent": 3.04,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "आइ जि आइ प्रुडेन्सियल इन्स्योरेन्स कम्पनी लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "इन्डेक्स डिष्ट्रीब्युटर प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "विशाल मिनरल्स एण्ड माईन्स प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "बीमा",
+        "वितरण",
+        "खानी"
+      ]
+    },
+    {
+      "sn": 16,
+      "name": "श्री विन्दवासिनी ग्लोबल प्रा.लि.",
+      "address": "का.जि. का.म.न.पा वडा नं. ३१, काठमाण्डौ",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 2318000,
+      "share_percent": 2.9,
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
+    },
+    {
+      "sn": 17,
+      "name": "श्री अशोक कुमार अग्रवाल",
+      "address": "सुनसरी जिल्ला, धरान वडा नं ५",
+      "age": 63,
+      "nationality": "नेपाली",
+      "education": "बि.कम",
+      "shares": 2050000,
+      "share_percent": 2.56,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "लाइफ इन्स्योरेन्स कर्पोरेशन नेपाल लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "प्रुडेन्सियल क्यापिटल म्यानेजमेन्ट कं. प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "इमर्जिङ नेपाल लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "बीमा",
+        "वित्त",
+        "लगानी"
+      ]
+    },
+    {
+      "sn": 18,
+      "name": "श्री शालिमार इन्भेष्टमेन्ट कं.प्रा. लि.",
+      "address": "वीरगञ्ज वडा नं. १३, पर्सा",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 1968000,
+      "share_percent": 2.46,
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
+    },
+    {
+      "sn": 19,
+      "name": "श्री अनुपम राठी",
+      "address": "मोरङ्ग जिल्ला, विराटनगर वडा नं. १२",
+      "age": 49,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 1506270,
+      "share_percent": 1.88,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "करिव २० वर्ष भन्दा बढीको व्यवसायिक अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "व्यापार"
+      ]
+    },
+    {
+      "sn": 20,
+      "name": "श्री विरेन्द्र राठी",
+      "address": "मोरङ्ग जिल्ला, विराटनगर वडा नं. १२",
+      "age": 38,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 1425000,
+      "share_percent": 1.78,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "करिव २० वर्ष भन्दा बढीको व्यवसायिक अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "व्यापार"
+      ]
+    },
+    {
+      "sn": 21,
+      "name": "श्री तुल्सी राम अग्रवाल",
+      "address": "मोरङ्ग जिल्ला, विराटनगर वडा नं. ९",
+      "age": 74,
+      "nationality": "नेपाली",
+      "education": "बि.कम",
+      "shares": 925000,
+      "share_percent": 1.16,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "एन.आइ.सि एसिया बैंक लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "मैनावती स्टिल इन्डष्ट्रिज प्रा.लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "बैंकिङ्ग",
+        "फलाम"
+      ]
+    },
+    {
+      "sn": 22,
+      "name": "श्री आलोक राठी",
+      "address": "मोरङ्ग जिल्ला, विराटनगर वडा नं. १२",
+      "age": 37,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 855000,
+      "share_percent": 1.07,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "करिव २० वर्ष भन्दा बढीको व्यवसायिक अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "व्यापार"
+      ]
+    },
+    {
+      "sn": 23,
+      "name": "श्री अमित कुमार बेगानी",
+      "address": "का.जि.का.म.न.पा. वडा नं. १, काठमाण्डौ",
+      "age": 48,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 819525,
+      "share_percent": 1.02,
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "करिव २० वर्ष भन्दा बढीको व्यवसायिक अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "व्यापार"
+      ]
+    },
+    {
+      "sn": 24,
+      "name": "श्री सिद्धान्त बेगानी",
+      "address": "का.जि.का.म.न.पा. वडा नं. १, काठमाण्डौ",
+      "age": 28,
+      "nationality": "नेपाली",
+      "education": "स्नातक",
+      "shares": 819525,
+      "share_percent": 1.02,
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
+    }
+  ],
+  "directors": [
+    {
+      "sn": 1,
+      "name": "श्री सुभाष चन्द्र संघई",
+      "address": "का.जि.का.म.न.पा. वडा नं. २५, काठमाण्डौ",
+      "position": "अध्यक्ष",
+      "nationality": "नेपाली",
+      "shares": 3266700,
+      "education": "आई.कम.",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "नेपाल टी डेभलपमेन्ट कर्पोरेशन",
+          "role": "कार्यकारी अध्यक्ष",
+          "from": "2057/03/23",
+          "to": "हाल"
+        },
+        {
+          "organization": "गणेश हिमाल टी इस्टेट प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": "2065/08/03",
+          "to": "हाल"
+        },
+        {
+          "organization": "हल्दीवारी टी प्रोसेसिङ प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": "2069/02/01",
+          "to": "हाल"
+        },
+        {
+          "organization": "त्रिवेणी फिड इण्डष्ट्रिज प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": "2066/05/10",
+          "to": "हाल"
+        },
+        {
+          "organization": "त्रिवेणी प्लास्टो पोलिमर्सप्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": "2067/09/22",
+          "to": "हाल"
+        }
+      ],
+      "experience_sectors": [
+        "चिया",
+        "दाना",
+        "प्लास्टिक"
+      ]
+    },
+    {
+      "sn": 2,
+      "name": "श्री विशाल अग्रवाल",
+      "address": "का.जि.का.म.न.पा. वडा नं. २, काठमाण्डौ",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 3290000,
+      "education": "एमविए",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "आइ जि आइ प्रुडेन्सियल इन्स्योरेन्स कं.लि.",
+          "role": "संचालक",
+          "from": "2080/01/27",
+          "to": "हाल"
+        },
+        {
+          "organization": "पूजा इन्टरनेशनल नेपाल प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": "2079/09/28",
+          "to": "हाल"
+        },
+        {
+          "organization": "विशाल ग्रुप लि.",
+          "role": "संचालक",
+          "from": "2078/07/23",
+          "to": "हाल"
+        },
+        {
+          "organization": "यति ब्रुवरी प्रा.लि.",
+          "role": "संचालक",
+          "from": "2079/12/22",
+          "to": "हाल"
+        },
+        {
+          "organization": "पूजा कन्स्ट्रक्सन नेपाल प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": "2079/09/28",
+          "to": "हाल"
+        }
+      ],
+      "experience_sectors": [
+        "बीमा",
+        "व्यापार",
+        "उत्पादन",
+        "निर्माण"
+      ]
+    },
+    {
+      "sn": 3,
+      "name": "श्री विजय सिंह बैद्य",
+      "address": "पर्सा जिल्ला, वीरगंज वडा नं. ७",
+      "position": "संचालक (प्रतिनिधि शालिमार इन्भेष्टमेन्ट कं. प्रा. लि.)",
+      "nationality": "नेपाली",
+      "shares": 707070,
+      "education": "आई.कम.",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "शालिमार ग्रुप",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "सिमेन्ट, दलहन, अलोह धातु, स्टिल, आतिथ्य र हार्डवेयर सम्बन्धी व्यापार",
+          "role": "३५ वर्ष भन्दा बढीको व्यापार तथा उद्योगको अनुभव",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "सिमेन्ट",
+        "खाद्यान्न",
+        "धातु",
+        "स्टिल",
+        "आतिथ्य",
+        "हार्डवेयर"
+      ]
+    },
+    {
+      "sn": 4,
+      "name": "श्री आदित्य संघाई",
+      "address": "का.जि.का.म.न.पा. वडा नं. २५, काठमाण्डौ",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 3553000,
+      "education": "वि.कम",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "घोराही सिमेन्ट इन्डष्ट्रिज लि.",
+          "role": "संचालक",
+          "from": "2077/12/15",
+          "to": "हाल"
+        },
+        {
+          "organization": "एस.डि.पि.एल.ट्रेड प्रा.लि.",
+          "role": "संचालक",
+          "from": "2071/07/17",
+          "to": "हाल"
+        },
+        {
+          "organization": "गोपालजी प्रोपर्टीज प्रा.लि.",
+          "role": "संचालक",
+          "from": "2076/08/27",
+          "to": "हाल"
+        },
+        {
+          "organization": "टी.जी होल्डीड प्रा.लि.",
+          "role": "संचालक",
+          "from": "2076/09/09",
+          "to": "हाल"
+        }
+      ],
+      "experience_sectors": [
+        "सिमेन्ट",
+        "व्यापार",
+        "घरजग्गा",
+        "होल्डिङ्ग"
+      ]
+    },
+    {
+      "sn": 5,
+      "name": "श्री त्रिलोक चन्द अग्रवाल",
+      "address": "धरान वडा नं. ५, सुनसरी",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 760000,
+      "education": "वि.कम",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "एन.आइ.सि एसिया बैंक लि.",
+          "role": "संचालक",
+          "from": "2074/12/20",
+          "to": "हाल"
+        },
+        {
+          "organization": "मैनावती स्टिल इन्डष्ट्रिज प्रा.लि.",
+          "role": "संचालक",
+          "from": "2080/03/19",
+          "to": "हाल"
+        }
+      ],
+      "experience_sectors": [
+        "बैंकिङ्ग",
+        "फलाम"
+      ]
+    }
+  ],
+  "director_affiliations": [
+    {
+      "director_name": "श्री सुभाष चन्द्र संघई",
+      "director_address": "का.जि.का.म.न.पा. वडा नं. २५, काठमाण्डौ",
+      "affiliations": [
+        {
+          "company": "नेपाल टी डेभलपमेन्ट कर्पोरेशन",
+          "address": "पुतलीसडक, काठमाण्डौ",
+          "role": "कार्यकारी अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "गणेश हिमाल टी इस्टेट प्रा.लि.",
+          "address": "पुतलीसडक, काठमाण्डौ",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "हल्दीवारी टी प्रोसेसिङ प्रा.लि.",
+          "address": "पुतलीसडक, काठमाण्डौ",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "त्रिवेणी फिड इण्डष्ट्रिज प्रा.लि.",
+          "address": "पुतलीसडक, काठमाण्डौ",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "त्रिवेणी प्लास्टो पोलिमर्स प्रा.लि.",
+          "address": "पुतलीसडक, काठमाण्डौ",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री विशाल अग्रवाल",
+      "director_address": "का.जि.का.म.न.पा. वडा नं. २, काठमाण्डौ",
+      "affiliations": [
+        {
+          "company": "आइ जि आइ प्रुडेन्सियल इन्स्योरेन्स कं.लि.",
+          "address": "नक्साल, काठमाण्डौ",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "पूजा इन्टरनेशनल नेपाल प्रा.लि.",
+          "address": "थापाथली, काठमाण्डौ",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "विशाल ग्रुप लि.",
+          "address": "थापाथली, काठमाण्डौ",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "यति ब्रुवरी प्रा.लि.",
+          "address": "थापाथली, काठमाण्डौ",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "पूजा कन्स्ट्रक्सन नेपाल प्रा.लि.",
+          "address": "थापाथली, काठमाण्डौ",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री विजय सिंह बैद्य",
+      "director_address": "वीरगंज, वडा नं. ७, पर्सा",
+      "affiliations": [
+        {
+          "company": "शालिमार ग्रुप",
+          "address": "पर्सा, वीरगंज",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री आदित्य संघाई",
+      "director_address": "का.जि.का.म.न.पा. वडा नं. २५, काठमाण्डौ",
+      "affiliations": [
+        {
+          "company": "घोराही सिमेन्ट इन्डष्ट्रिज लि.",
+          "address": "थापाथली, काठमाण्डौ",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "एस.डि.पि.एल.ट्रेड प्रा.लि.",
+          "address": "पुतलीसडक, काठमाण्डौ",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "गोपालजी प्रोपर्टीज प्रा.लि.",
+          "address": "पुतलीसडक, काठमाण्डौ",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "टी.जी होल्डीड प्रा.लि.",
+          "address": "पुतलीसडक, काठमाण्डौ",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री त्रिलोक चन्द अग्रवाल",
+      "director_address": "धरान वडा नं. ५, सुनसरी",
+      "affiliations": [
+        {
+          "company": "एन.आइ.सि एसिया बैंक लि.",
+          "address": "थापाथली, काठमाण्डौ",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "company": "मैनावती स्टिल इन्डष्ट्रिज प्रा.लि.",
+          "address": "थापाथली, काठमाण्डौ",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ]
+    }
+  ],
+  "promoter_companies": [
+    {
+      "sn": 1,
+      "company": "श्री विन्दवासिनी ग्लोबल प्रा.लि.",
+      "address": "का.जि. का.म.न.पा वडा नं ११, काठमाण्डौ",
+      "profile": "वि.सं. २०४३/०४/२४ मा स्थापना भएको। दर्ता नं. २४९७/०४३ रहेको। मुख्य गरी रेडिमेड कपडाको उत्पादन र निर्यात गर्नु यसको उद्देश्य रहेको छ।",
+      "directors": [
+        {
+          "name": "श्री नरपत सिंह जैन",
+          "address": "काठमाण्डौ"
+        }
+      ]
+    },
+    {
+      "sn": 2,
+      "company": "श्री शालिमार इन्भेष्टमेन्ट कम्पनी प्रा.लि.",
+      "address": "पर्सा जिल्ला, वीरगंज म.न.पा. वडा नं १०",
+      "profile": "वि.सं. २०६९/०१/२६ मा स्थापना भएको। दर्ता नं. ९३०१०/०६८/०६९ रहेको। मुख्य गरी उत्पादन क्षेत्र, सेवा क्षेत्र, निर्माण क्षेत्र, खानी, जलविद्युत क्षेत्र आदिमा लगानी गर्नु यसको उद्देश्य रहेको छ।",
+      "directors": [
+        {
+          "name": "श्री जिवन कुमार अग्रवाल",
+          "address": "मोरङ"
+        },
+        {
+          "name": "श्री अशोक कुमार बैद्य",
+          "address": "पर्सा"
+        },
+        {
+          "name": "श्री राज कुमार वैद्य",
+          "address": "पर्सा"
+        },
+        {
+          "name": "श्री विजय सिंह वैद्य",
+          "address": "पर्सा"
+        }
+      ]
+    },
+    {
+      "sn": 3,
+      "company": "श्री त्रिवेणी ईनर्जी प्रा.लि.",
+      "address": "का.म.न.पा वडा नं ३१, पुतलीसडक, काठमाण्डौ",
+      "profile": "वि.सं. २०६४/०४/२४ मा स्थापना भएको। दर्ता नं. ४६३६८/०६४/०६५ रहेको। कम्पनीले गर्ने कारोवार सेवामूलक तथा व्यापारमूलक रहेको छ।",
+      "directors": [
+        {
+          "name": "श्री सुभाष चन्द्र संघई",
+          "address": "काठमाण्डौ"
+        },
+        {
+          "name": "श्री विरेन्द्र कुमार संघई",
+          "address": "काठमाण्डौ"
+        }
+      ]
+    },
+    {
+      "sn": 4,
+      "company": "श्री नेपाल हाइड्रोडेभलपर लि.",
+      "address": "का.म.न.पा वडा नं ३३, डिल्लीबजार, काठमाण्डौ",
+      "profile": "वि.सं. २०७१/०३/३१ मा स्थापना भएको। दर्ता नं. १२४२९५/०७०/०७१ रहेको। कम्पनीले गर्ने कारोवार सेवामूलक तथा व्यापारमूलक रहेको छ।",
+      "directors": [
+        {
+          "name": "श्री कुमुद कुमार दुगड",
+          "address": "काठमाण्डौ"
+        },
+        {
+          "name": "श्री अनन्त मुरारका",
+          "address": "काठमाण्डौ"
+        },
+        {
+          "name": "श्रीमती पुजा अटल",
+          "address": "विराटनगर"
+        },
+        {
+          "name": "श्री भोला श्रेष्ठ",
+          "address": "काठमाण्डौ"
+        },
+        {
+          "name": "श्री डि.जि.एस इन्भेष्टमेन्ट क.प्रा.लि.",
+          "address": "काठमाण्डौ"
+        }
+      ]
+    },
+    {
+      "sn": 5,
+      "company": "श्री इन्फिनिटि हाउजिङ एण्ड इन्भेष्टमेन्ट प्रा.लि.",
+      "address": "का.म.न.पा वडा नं २९, काठमाण्डौ",
+      "profile": "वि.सं. २०७८/०६/२४ मा स्थापना भएको। दर्ता नं. २७४७६७/०७८/०७९ रहेको। कम्पनीले गर्ने कारोवार सेवामूलक तथा व्यापार मूलक रहेको छ।",
+      "directors": [
+        {
+          "name": "श्री सुमन अग्रवाल",
+          "address": "काठमाण्डौ"
+        },
+        {
+          "name": "सुश्री पुनम कुमारी टिवडेवाल",
+          "address": "वीरगंज"
+        },
+        {
+          "name": "श्री प्रकाश अग्रवाल",
+          "address": "विराटनगर"
+        },
+        {
+          "name": "श्री रोहित अग्रवाल",
+          "address": "विराटनगर"
+        },
+        {
+          "name": "श्री गोपाल अग्रवाल",
+          "address": "ललितपुर"
+        }
+      ]
+    }
+  ]
+}

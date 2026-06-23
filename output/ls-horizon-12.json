@@ -3,7 +3,7 @@
   "source_title": "LS Horizon 12- Mutual Fund",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/05/12/BS5JLSSsjqJ72VjhoAT5lsLd5jkeJ0XhJBv9csvT.pdf",
   "issue_date": "2026-05-12",
-  "extracted_at": "2026-06-22T10:38:43+00:00",
+  "extracted_at": "2026-06-23T08:26:26+00:00",
   "total_pages": 72,
   "table_pages": [
     15,
@@ -24,116 +24,202 @@
   "counts": {
     "shareholders": 1,
     "directors": 6,
-    "director_affiliations": 6
+    "director_affiliations": 6,
+    "promoter_companies": 1
   },
   "llm_cost": {
-    "in": 7836,
-    "out": 1621,
-    "cost_usd": 0.0064
+    "in": 8287,
+    "out": 2360,
+    "cost_usd": 0.0084
   },
   "shareholders": [
     {
       "sn": 1,
       "name": "श्री लक्ष्मी सनराइज बैंक लिमिटेड",
-      "address": "हात्तीसार, काठमाडौं",
+      "address": "हात्तीसार, काठमाण्डौ",
       "age": null,
       "nationality": "नेपाली",
       "education": null,
       "shares": null,
       "share_percent": 100,
-      "experience": "बैंकिङ्ग क्षेत्रमा २५ वर्ष भन्दा बढी देखि सेवा दिईरहेको नेपालको क वर्गको इजाजत प्राप्त बैंकको रुपमा स्थापित ।",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "बैंकिङ्ग क्षेत्रमा २५ वर्ष भन्दा बढी देखि सेवा दिईरहेको नेपालको क वर्गको इजाजत प्राप्त बैंकको रुपमा स्थापित",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "बैंकिङ्ग"
-      ],
-      "proposed_business": null
+      ]
     }
   ],
   "directors": [
     {
       "sn": 1,
       "name": "राजिव सापकोटा",
-      "address": "बालुवाटार काठमाडौं",
+      "address": "बालुवाटार काठमाण्डौ",
       "position": "अध्यक्ष",
       "nationality": "नेपाली",
       "shares": null,
       "education": "स्नातकोत्तर",
-      "experience": "बैंक तथा वित्तीय क्षेत्रमा २५ वर्ष भन्दा बढीको अनुभव । हाल लक्ष्मी सनराइज बैंकमा उप- प्रमुख कार्यकारी अधिकृतको रुपमा कार्यरत।",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "बैंक तथा वित्तीय क्षेत्रमा २५ वर्ष भन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "लक्ष्मी सनराइज बैंकमा उप-प्रमुख कार्यकारी अधिकृतको रुपमा कार्यरत",
+          "role": "उप-प्रमुख कार्यकारी अधिकृत",
+          "from": null,
+          "to": "हाल"
+        }
+      ],
       "experience_sectors": [
         "बैंक तथा वित्तीय"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 2,
       "name": "दिपेश अमात्य",
-      "address": "काठमाडौं",
+      "address": "काठमाण्डौ",
       "position": "सदस्य",
       "nationality": "नेपाली",
       "shares": null,
       "education": "स्नातकोत्तर",
-      "experience": "बैंक तथा वित्तीय क्षेत्रमा २३ वर्ष भन्दा बढीको अनुभव । हाल लक्ष्मी सनराइज बैंकमा जोखिम व्यवस्थापन इकाई प्रमुखको रुपमा कार्यरत ।",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "बैंक तथा वित्तीय क्षेत्रमा २३ वर्ष भन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "लक्ष्मी सनराइज बैंकमा जोखिम व्यवस्थापन इकाई प्रमुखको रुपमा कार्यरत",
+          "role": "जोखिम व्यवस्थापन इकाई प्रमुख",
+          "from": null,
+          "to": "हाल"
+        }
+      ],
       "experience_sectors": [
         "बैंक तथा वित्तीय"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 3,
       "name": "दिलिप मैनाली",
-      "address": "पेप्सीकोला, काठमाडौं",
+      "address": "पेप्सीकोला, काठमाण्डौ",
       "position": "सदस्य",
       "nationality": "नेपाली",
       "shares": null,
       "education": "स्नातकोत्तर",
-      "experience": "बैंक तथा वित्तीय क्षेत्रमा २४ वर्ष भन्दा बढीको अनुभव । हाल लक्ष्मी सनराइज बैंकमा सूचना प्रविधि इकाई प्रमुखको रुपमा कार्यरत ।",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "बैंक तथा वित्तीय क्षेत्रमा २४ वर्ष भन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "लक्ष्मी सनराइज बैंकमा सूचना प्रविधि इकाई प्रमुखको रुपमा कार्यरत",
+          "role": "सूचना प्रविधि इकाई प्रमुख",
+          "from": null,
+          "to": "हाल"
+        }
+      ],
       "experience_sectors": [
         "बैंक तथा वित्तीय"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 4,
       "name": "सन्ध्या अत्री",
-      "address": "काठमाडौं",
+      "address": "काठमाण्डौ",
       "position": "सदस्य",
       "nationality": "नेपाली",
       "shares": null,
-      "education": "चार्टर्ड एकाउन्टेन्टस",
-      "experience": "बैंक तथा वित्तीय क्षेत्रमा १३ वर्ष भन्दा बढीको अनुभव । हाल लक्ष्मी सनराइज बैंकमा वरिष्ठ कर्जा विश्लेषकको रुपमा कार्यरत ।",
+      "education": "चार्टड एकाउन्टेन्टस",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "बैंक तथा वित्तीय क्षेत्रमा १३ वर्ष भन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "लक्ष्मी सनराइज बैंकमा वरिष्ठ कर्जा विश्लेषकको रुपमा कार्यरत",
+          "role": "वरिष्ठ कर्जा विश्लेषक",
+          "from": null,
+          "to": "हाल"
+        }
+      ],
       "experience_sectors": [
         "बैंक तथा वित्तीय"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 5,
       "name": "राम प्रसाद खनाल",
-      "address": "डिल्लीबजार, काठमाडौं",
+      "address": "डिल्लीबजार, काठमाण्डौ",
       "position": "सदस्य",
       "nationality": "नेपाली",
       "shares": null,
       "education": "स्नातकोत्तर",
-      "experience": "वित्तीय क्षेत्रमा २९ वर्षभन्दा बढीको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वित्तीय क्षेत्रमा २९ वर्षभन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "वित्तीय"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 6,
       "name": "सतीश कुमार कर्ण",
-      "address": "सितापाइला, काठमाडौं",
+      "address": "सितापाईला, काठमाण्डौ",
       "position": "सदस्य",
       "nationality": "नेपाली",
       "shares": null,
-      "education": "चार्टर्ड एकाउन्टेन्ट",
-      "experience": "अन्नपूर्ण एग्रो एण्ड रिफाइनरीमा ४ वर्ष भन्दा बढीको अनुभव । नेपाल दूरसंचार संस्थानमा १७ वर्ष भन्दा बढीको अनुभव । पिआर उपाध्याय एण्ड कम्पनी चार्टर्ड एकाउन्टेन्ट्समा ३ वर्ष भन्दा बढीको अनुभव",
+      "education": "चार्टड एकाउन्टेन्ट",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "अन्नपूर्ण एग्रो एण्ड रिफाइनरीमा ४ वर्ष भन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "नेपाल दूरसंचार संस्थानमा १७ वर्ष भन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "पिआर उपाध्याय एण्ड कम्पनी चार्टड एकाउन्टेन्ट्समा ३ वर्ष भन्दा बढीको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "कृषि",
         "दूरसंचार",
         "लेखापरीक्षण"
-      ],
-      "proposed_business": null
+      ]
     }
   ],
   "director_affiliations": [
@@ -143,7 +229,7 @@
       "affiliations": [
         {
           "company": "श्री लक्ष्मी सनराइज बैंक लिमिटेड",
-          "address": "हात्तीसार, काठमाडौं",
+          "address": "हात्तीसार, काठमाण्डौ",
           "role": "उप- प्रमुख कार्यकारी अधिकृत",
           "from": null,
           "to": null
@@ -156,8 +242,8 @@
       "affiliations": [
         {
           "company": "श्री लक्ष्मी सनराइज बैंक लिमिटेड",
-          "address": "हात्तीसार, काठमाडौं",
-          "role": "उप- महाप्रबन्धक",
+          "address": "हात्तीसार, काठमाण्डौ",
+          "role": "उप- महाप्रवन्धक",
           "from": null,
           "to": null
         }
@@ -169,7 +255,7 @@
       "affiliations": [
         {
           "company": "श्री लक्ष्मी सनराइज बैंक लिमिटेड",
-          "address": "हात्तीसार, काठमाडौं",
+          "address": "हात्तीसार, काठमाण्डौ",
           "role": "प्रमुख प्रबन्धक",
           "from": null,
           "to": null
@@ -182,7 +268,7 @@
       "affiliations": [
         {
           "company": "श्री लक्ष्मी सनराइज बैंक लिमिटेड",
-          "address": "हात्तीसार, काठमाडौं",
+          "address": "हात्तीसार, काठमाण्डौ",
           "role": "उप- प्रबन्धक",
           "from": null,
           "to": null
@@ -209,9 +295,39 @@
         {
           "company": "श्री अन्नपूर्ण एग्रो एण्ड रिफाइनरी",
           "address": null,
-          "role": "चार्टर्ड एकाउन्टेन्ट",
+          "role": "चार्टड एकाउन्टेन्ट",
           "from": null,
           "to": null
+        }
+      ]
+    }
+  ],
+  "promoter_companies": [
+    {
+      "sn": 1,
+      "company": "श्री लक्ष्मी सनराइज बैंक लिमिटेड",
+      "address": "हात्तीसार, काठमाण्डौ",
+      "profile": "बैंकिङ्ग",
+      "directors": [
+        {
+          "name": "रमण नेपाल",
+          "address": "काठमाण्डौ"
+        },
+        {
+          "name": "दिनेश पौडेल",
+          "address": "ज्ञानेश्वर, काठमाण्डौ"
+        },
+        {
+          "name": "स्वाती रुंगटा",
+          "address": "वीरगञ्ज, पर्सा"
+        },
+        {
+          "name": "मनोज कुमार भट्टराई",
+          "address": "वीरगञ्ज, पर्सा"
+        },
+        {
+          "name": "विद्या वस्यात",
+          "address": "काठमाण्डौ"
         }
       ]
     }

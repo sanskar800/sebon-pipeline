@@ -3,7 +3,7 @@
   "source_title": "Himalayan Power Partner LTd. ( Right Issue)",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/04/30/LWoKDvgP3ZHDB6lbTzaSGkXKfTdI08m0SMWsP24h.pdf",
   "issue_date": "2026-04-30",
-  "extracted_at": "2026-06-22T10:42:08+00:00",
+  "extracted_at": "2026-06-23T08:30:28+00:00",
   "total_pages": 39,
   "table_pages": [
     6,
@@ -24,12 +24,13 @@
   "counts": {
     "shareholders": 7,
     "directors": 5,
-    "director_affiliations": 3
+    "director_affiliations": 0,
+    "promoter_companies": 0
   },
   "llm_cost": {
-    "in": 7668,
-    "out": 2355,
-    "cost_usd": 0.0082
+    "in": 8119,
+    "out": 2417,
+    "cost_usd": 0.0085
   },
   "shareholders": [
     {
@@ -41,22 +42,22 @@
       "education": null,
       "shares": 856960,
       "share_percent": null,
-      "experience": null,
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 2,
       "name": "श्री चन्द्र प्रसाद ढकाल",
-      "address": "वागलुङ",
+      "address": "बागलुङ",
       "age": null,
       "nationality": "नेपाली",
       "education": null,
       "shares": 538527,
       "share_percent": null,
-      "experience": null,
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 3,
@@ -67,9 +68,9 @@
       "education": null,
       "shares": 284650,
       "share_percent": null,
-      "experience": null,
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 4,
@@ -80,9 +81,9 @@
       "education": null,
       "shares": 181167,
       "share_percent": null,
-      "experience": null,
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 5,
@@ -93,9 +94,9 @@
       "education": null,
       "shares": 152263,
       "share_percent": null,
-      "experience": null,
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 6,
@@ -106,22 +107,22 @@
       "education": null,
       "shares": 127450,
       "share_percent": null,
-      "experience": null,
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 7,
       "name": "श्री हेमराज ढकाल",
-      "address": "वागलुङ",
+      "address": "बागलुङ",
       "age": null,
       "nationality": "नेपाली",
       "education": null,
       "shares": 117000,
       "share_percent": null,
-      "experience": null,
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     }
   ],
   "directors": [
@@ -133,13 +134,26 @@
       "nationality": "नेपाली",
       "shares": 181167,
       "education": "एम.ई. (सिभिल)",
-      "experience": "विगत १८ वर्षदेखि विभिन्न जलविद्युत आयोजनाहरूको अध्ययन तथा संचालनको अनुभव। नेपाल सरकारको विभिन्न निकायमा शाखा अधिकृत देखि सहसचिव सम्मको पदमा ३४ वर्षसम्म अनवरत रुपमा जलविद्युत, पूर्वाधार, लगायतको क्षेत्रमा निर्माण, निरीक्षण तथा व्यवस्थापनमा रही कार्य गरेको अनुभव।",
+      "sector_experience": [
+        {
+          "organization": "विभिन्न जलविद्युत आयोजनाहरुको अध्ययन तथा संचालन",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "नेपाल सरकारको विभिन्न निकायमा शाखा अधिकृत देखि सहसचिव सम्मको पदमा ३४ वर्षसम्म अनवरत रुपमा जलविद्युत, पूर्वाधार, लगायतको क्षेत्रमा निर्माण, निरीक्षण तथा व्यवस्थापनमा रही कार्य गरेको",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "जलविद्युत",
-        "सरकारी सेवा",
         "पूर्वाधार"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 2,
@@ -149,12 +163,31 @@
       "nationality": "नेपाली",
       "shares": 2300,
       "education": "स्नातकोत्तर",
-      "experience": "प्रबन्ध संचालक - हाथवे इन्भेष्टमेन्ट नेपाल लि.मा वि.सं. २०६५ देखि २०७६ पौष मसान्त सम्म। संचालक - हाथवे इन्भेष्टमेन्ट नेपाल लि.मा वि.सं. २०७६ माघ देखि २०७८ सम्म। संचालक - (चन्द्रागिरी हिल्स लिमिटेडमा स्थापनाकालदेखि वि.सं. २०७९ सम्म।",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "हाथवे इन्भेष्टमेन्ट नेपाल लि.",
+          "role": "प्रबन्ध संचालक",
+          "from": "२०६५",
+          "to": "२०७६ पौष मसान्त"
+        },
+        {
+          "organization": "हाथवे इन्भेष्टमेन्ट नेपाल लि.",
+          "role": "संचालक",
+          "from": "२०७६ माघ",
+          "to": "२०७८"
+        },
+        {
+          "organization": "चन्द्रागिरी हिल्स लिमिटेड",
+          "role": "संचालक",
+          "from": "स्थापनाकाल",
+          "to": "२०७९"
+        }
+      ],
       "experience_sectors": [
         "लगानी",
         "पर्यटन"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 3,
@@ -164,12 +197,57 @@
       "nationality": "नेपाली",
       "shares": 2750,
       "education": "एम.एस्सी.",
-      "experience": "रसुवागढी जलविद्युत आयोजनामा परामर्शदाता, लिबर्टी इनर्जी हाइड्रोपावरमा वरिष्ठ विद्युत इन्जिनियर, नेपाल विद्युत प्राधिकरणको बुटवल शाखाको क्षेत्रीय प्रमुख (वि.सं. २०६८-२०७०), मिडिल मर्स्याङ्दी हाइड्रोइलेक्ट्रिक प्रोजेक्टमा सहायक प्रबन्धक (वि.सं. २०५७-२०६५) को रुपमा कार्य गरेको अनुभव। रसुवागढी जलविद्युत आयोजनामा इलेक्ट्रिकल इन्जिनियरको रुपमा कार्य गरेको अनुभव।",
+      "sector_experience": [
+        {
+          "organization": "रसुवागढी जलविद्युत आयोजना",
+          "role": "परामर्शदाता",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "लिबर्टी इनर्जी हाइड्रोपावर",
+          "role": "वरिष्ठ विद्युत इन्जिनियर",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "नेपाल विद्युत प्राधिकरणको बुटवल शाखा",
+          "role": "क्षेत्रीय प्रमुख",
+          "from": "२०६८",
+          "to": "२०७०"
+        },
+        {
+          "organization": "मिडिल मर्स्याङ्दी हाइड्रोइलेक्ट्रिक प्रोजेक्ट",
+          "role": "सहायक प्रबन्धक",
+          "from": "२०५७",
+          "to": "२०६५"
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "नेपाल टेलिकम",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "आइएमई प्रुडेन्सियल इन्स्योरेन्स लिमिटेड",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "रसुवागढी जलविद्युत आयोजना",
+          "role": "इलेक्ट्रिकल इन्जिनियर",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "जलविद्युत",
-        "विद्युत प्राधिकरण"
-      ],
-      "proposed_business": null
+        "दूरसञ्चार",
+        "बीमा"
+      ]
     },
     {
       "sn": 4,
@@ -179,12 +257,26 @@
       "nationality": "नेपाली",
       "shares": 1000,
       "education": "बि.कम.",
-      "experience": "विभिन्न हाइड्रोइलेक्ट्रिक, अस्पताल भवन, सडक निर्माण कार्यमा आवद्ध। गौरा कन्स्ट्रक्सन प्रा.लि., निर्देशक (सन् २००४ देखि हाल सम्म)",
-      "experience_sectors": [
-        "निर्माण",
-        "जलविद्युत"
+      "sector_experience": [
+        {
+          "organization": "विभिन्न हाइड्रोइलेक्ट्रिक, अस्पताल भवन, सडक निर्माण कार्यमा आवद्ध",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [
+        {
+          "organization": "गौरा कन्स्ट्रक्सन प्रा.लि.",
+          "role": "निर्देशक",
+          "from": "२००४",
+          "to": "हाल"
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत",
+        "निर्माण"
+      ]
     },
     {
       "sn": 5,
@@ -194,75 +286,34 @@
       "nationality": "नेपाली",
       "shares": null,
       "education": "पि.एच.डी.",
-      "experience": "सूचना सेवा उद्योग तथा उद्यम विकास, व्यापार तथा व्यापार सम्बन्धी सेवा, राजस्व तथा वित्त सेवा, पूर्वाधार तथा वातावरण सेवा तथा नेपाल उद्योग वाणिज्य महासंघको अन्तर्राष्ट्रिय मामिला महाशाखा, महासंघका सम्बन्धित समितिका गतिविधिको समन्वय लगायतका नीति सेवा शाखासँग सम्बन्धित महासंघका गतिविधिको सुपरिवेक्षण तथा समन्वय गर्ने टिम लिडरको रुपमा कार्यरत (वि.सं. २०५५ -२०५६) परामर्शदाता, औद्योगिक सेवा केन्द्र, बालाजु सामाजिक सेवा राष्ट्रिय समन्वय परिषद्, काठमाडौंको परियोजना अधिकृत",
-      "experience_sectors": [
-        "उद्योग वाणिज्य",
-        "परामर्श",
-        "सामाजिक सेवा"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "नेपाल उद्योग वाणिज्य महासंघको अन्तर्राष्ट्रिय मामिला महाशाखा, महासंघका सम्बन्धित समितिका गतिविधिको समन्वय लगायतका नीति सेवा शाखासँग सम्बन्धित महासंघका गतिविधिको सुपरिवेक्षण तथा समन्वय गर्ने टिम लिडर",
+          "role": "टिम लिडर",
+          "from": "२०५५",
+          "to": "२०५६"
+        },
+        {
+          "organization": "औद्योगिक सेवा केन्द्र, बालाजु",
+          "role": "परामर्शदाता",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "सामाजिक सेवा राष्ट्रिय समन्वय परिषद्, काठमाडौं",
+          "role": "आयोजना अधिकृत",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "उद्योग",
+        "वाणिज्य",
+        "परामर्श"
+      ]
     }
   ],
-  "director_affiliations": [
-    {
-      "director_name": "श्री अम्बिका प्रसाद पौडेल",
-      "director_address": "का.म.न.पा. ५",
-      "affiliations": [
-        {
-          "company": "हाथवे इन्भेष्टमेन्ट नेपाल लि.",
-          "address": null,
-          "role": "प्रबन्ध संचालक",
-          "from": "२०६५",
-          "to": "२०७६ पौष मसान्त"
-        },
-        {
-          "company": "हाथवे इन्भेष्टमेन्ट नेपाल लि.",
-          "address": null,
-          "role": "संचालक",
-          "from": "२०७६ माघ",
-          "to": "२०७८"
-        },
-        {
-          "company": "चन्द्रागिरी हिल्स लिमिटेड",
-          "address": null,
-          "role": "संचालक",
-          "from": "स्थापनाकाल",
-          "to": "२०७९"
-        }
-      ]
-    },
-    {
-      "director_name": "श्री महेन्द्रराज अधिकारी",
-      "director_address": "सुन्दर बजार, लमजुङ",
-      "affiliations": [
-        {
-          "company": "नेपाल विद्युत प्राधिकरण, बुटवल शाखा",
-          "address": "बुटवल",
-          "role": "क्षेत्रीय प्रमुख",
-          "from": "२०६८",
-          "to": "२०७०"
-        },
-        {
-          "company": "मिडिल मर्स्याङ्दी हाइड्रोइलेक्ट्रिक प्रोजेक्ट",
-          "address": null,
-          "role": "सहायक प्रबन्धक",
-          "from": "२०५७",
-          "to": "२०६५"
-        }
-      ]
-    },
-    {
-      "director_name": "श्री सूर्य प्रसाद अधिकारी",
-      "director_address": "तारकेश्वर न.पा. काठमाण्डौ",
-      "affiliations": [
-        {
-          "company": "गौरा कन्स्ट्रक्सन प्रा.लि.",
-          "address": null,
-          "role": "निर्देशक",
-          "from": "२००४",
-          "to": "हाल सम्म"
-        }
-      ]
-    }
-  ]
+  "director_affiliations": [],
+  "promoter_companies": []
 }

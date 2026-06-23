@@ -3,7 +3,7 @@
   "source_title": "Kalinchock Hydropower Ltd.-General Public",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/04/05/RGlz8MRQ8pNfGtcROpWX8aiI3fSWjqJhw95uKvjn.pdf",
   "issue_date": "2026-04-05",
-  "extracted_at": "2026-06-22T10:44:55+00:00",
+  "extracted_at": "2026-06-23T08:33:49+00:00",
   "total_pages": 49,
   "table_pages": [
     13,
@@ -18,12 +18,13 @@
   "counts": {
     "shareholders": 21,
     "directors": 5,
-    "director_affiliations": 5
+    "director_affiliations": 5,
+    "promoter_companies": 3
   },
   "llm_cost": {
-    "in": 4644,
-    "out": 4191,
-    "cost_usd": 0.0119
+    "in": 5095,
+    "out": 5960,
+    "cost_usd": 0.0164
   },
   "shareholders": [
     {
@@ -35,9 +36,9 @@
       "education": null,
       "shares": 500000,
       "share_percent": 12.12,
-      "experience": null,
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 2,
@@ -48,9 +49,9 @@
       "education": null,
       "shares": 470000,
       "share_percent": 11.39,
-      "experience": null,
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 3,
@@ -61,9 +62,9 @@
       "education": null,
       "shares": 165250,
       "share_percent": 4.01,
-      "experience": null,
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 4,
@@ -74,11 +75,24 @@
       "education": "स्नातकोत्तर",
       "shares": 275000,
       "share_percent": 6.67,
-      "experience": "अध्यक्ष : कालिन्चोक हाइड्रोपावर लि., संचालक (पूर्व) : साहस ऊर्जा हाइड्रोपावर लि.",
+      "sector_experience": [
+        {
+          "organization": "कालिञ्चोक हाइड्रोपावर लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "साहस ऊर्जा हाइड्रोपावर लि.",
+          "role": "संचालक (पूर्व)",
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
       "experience_sectors": [
         "जलविद्युत"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 5,
@@ -89,13 +103,33 @@
       "education": "प्रमाणपत्र तह",
       "shares": 185000,
       "share_percent": 4.48,
-      "experience": "संचालक : कालिन्चोक हाइड्रोपावर लि., अध्यक्ष (पूर्व) : नेपाल बहुउद्देश्यीय सहकारी संस्था नेपाल, अध्यक्ष : सयपत्री नेपाल प्रा.लि.",
+      "sector_experience": [
+        {
+          "organization": "कालिञ्चोक हाइड्रोपावर लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "नेपाल बहुउद्देश्यीय सहकारी संस्था नेपाल",
+          "role": "अध्यक्ष (पूर्व)",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "सयपत्री नेपाल प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "जलविद्युत",
         "सहकारी",
         "कृषि"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 6,
@@ -106,11 +140,18 @@
       "education": "प्रमाणपत्र तह",
       "shares": 182800,
       "share_percent": 4.43,
-      "experience": "प्रोपराइटर : जी टु वी फेसन, रुपन्देही",
-      "experience_sectors": [
-        "फेसन"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "जी टु वी फेसन, रुपन्देही",
+          "role": "प्रोप्राइटर",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 7,
@@ -121,11 +162,18 @@
       "education": "स्नातक तह",
       "shares": 125000,
       "share_percent": 3.03,
-      "experience": "संचालक : वीगी वेभ कनेक्सन्स् (IT कम्पनी)",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वीगी वेभ कनेक्सन्स (IT कम्पनी)",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "सूचना प्रविधि"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 8,
@@ -136,11 +184,18 @@
       "education": "प्रमाणपत्र तह",
       "shares": 95000,
       "share_percent": 2.3,
-      "experience": "विगतमा शिक्षकको रुपमा काम गरेको अनुभव रहेको",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "शिक्षक",
+          "role": "शिक्षक",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "शिक्षा"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 9,
@@ -151,11 +206,18 @@
       "education": "स्नातकोत्तर तह",
       "shares": 94000,
       "share_percent": 2.28,
-      "experience": "व्यवस्थापक : सयपत्रि एस्.एस्. इन्टरप्राइजेज",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सयपत्रि एस्.एस्. इन्टरप्राइजेज",
+          "role": "व्यवस्थापक",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "व्यापार"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 10,
@@ -166,12 +228,18 @@
       "education": "स्नातक तह",
       "shares": 112500,
       "share_percent": 2.73,
-      "experience": "प्रमुख कार्यकारी अधिकृत : प्राइम मल्टीपल विजनेस फाउण्डेशन, नयाँबानेश्वर (सन् २०१२ देखि हाल सम्म)",
-      "experience_sectors": [
-        "व्यापार",
-        "सामाजिक क्षेत्र"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "प्राइम मल्टीपल विजनेस फाउण्डेशन, नयाँबानेश्वर",
+          "role": "प्रमुख कार्यकारी अधिकृत",
+          "from": "सन् २०१२",
+          "to": "हाल"
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 11,
@@ -182,12 +250,26 @@
       "education": "स्नातकोत्तर",
       "shares": 85000,
       "share_percent": 2.06,
-      "experience": "संचालक : कालिन्चोक हाइड्रोपावर लि., अधिवक्ता : ए एण्ड ए कानुनी सेवा",
+      "sector_experience": [
+        {
+          "organization": "कालिञ्चोक हाइड्रोपावर लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "ए एण्ड ए कानूनी सेवा",
+          "role": "अधिवक्ता",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "जलविद्युत",
-        "कानुन"
-      ],
-      "proposed_business": null
+        "कानून"
+      ]
     },
     {
       "sn": 12,
@@ -198,11 +280,18 @@
       "education": "माध्यमीक तह",
       "shares": 67000,
       "share_percent": 1.62,
-      "experience": "व्यवस्थापक : जी टु वी फेसन",
-      "experience_sectors": [
-        "फेसन"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "जी टु वी फेसन",
+          "role": "व्यवस्थापक",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 13,
@@ -213,11 +302,18 @@
       "education": "स्नातक",
       "shares": 65000,
       "share_percent": 1.58,
-      "experience": "ज्योतिष परामर्शदाता",
-      "experience_sectors": [
-        "ज्योतिष"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "ज्योतिष परामर्शदाता",
+          "role": "परामर्शदाता",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "परामर्श"
+      ]
     },
     {
       "sn": 14,
@@ -228,11 +324,18 @@
       "education": "स्नातक तह",
       "shares": 60000,
       "share_percent": 1.45,
-      "experience": "अध्यक्ष : मिस फेशन क्रियसन प्रा.लि.",
-      "experience_sectors": [
-        "फेसन"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "मिस फेसन क्रियसन प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 15,
@@ -243,11 +346,18 @@
       "education": "प्रमाण पत्र तह",
       "shares": 55000,
       "share_percent": 1.33,
-      "experience": "विगतमा शिक्षकको रुपमा काम गरेको अनुभव रहेको",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "शिक्षक",
+          "role": "शिक्षक",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "शिक्षा"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 16,
@@ -258,11 +368,18 @@
       "education": null,
       "shares": 55000,
       "share_percent": 1.33,
-      "experience": "संचालक : वीगी वेभ कनेक्सन्स् (IT कम्पनी) मा काम गरेको",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वीगी वेभ कनेक्सन्स (IT कम्पनी)",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "सूचना प्रविधि"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 17,
@@ -273,11 +390,18 @@
       "education": "स्नातक तह",
       "shares": 50000,
       "share_percent": 1.21,
-      "experience": "क्याम्पस प्रशासकको रुपमा काम गरेको अनुभव रहेको",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "क्याम्पस प्रशासक",
+          "role": "प्रशासक",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "शिक्षा"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 18,
@@ -288,11 +412,18 @@
       "education": "C.A. Final Year",
       "shares": 50000,
       "share_percent": 1.21,
-      "experience": "दुई वर्ष लेखापरीक्षण गरेको अनुभव रहेको",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "लेखापरीक्षण",
+          "role": "लेखापरीक्षक",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "लेखापरीक्षण"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 19,
@@ -303,22 +434,36 @@
       "education": "Level 2",
       "shares": 50000,
       "share_percent": 1.21,
-      "experience": "विद्यार्थी",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "विद्यार्थी",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": []
     },
     {
       "sn": 20,
-      "name": "अन्जना लम्साल",
+      "name": "अञ्जना लम्साल",
       "address": null,
       "age": null,
       "nationality": "नेपाली",
       "education": null,
       "shares": 50000,
       "share_percent": 1.21,
-      "experience": "गृहणी",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "गृहणी",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": []
     },
     {
       "sn": 21,
@@ -329,27 +474,47 @@
       "education": "स्नातकोत्तर",
       "shares": 47000,
       "share_percent": 1.14,
-      "experience": "संचालक/व्यवस्थापक: सनराइज इङ्लिस स्कूल, भरतपुर",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सनराइज इङ्लिस स्कुल, भरतपुर",
+          "role": "संचालक/व्यवस्थापक",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "शिक्षा"
-      ],
-      "proposed_business": null
+      ]
     }
   ],
   "directors": [
     {
       "sn": 1,
       "name": "श्री इन्दिरा पन्त",
-      "address": "कञ्चन गा.पा. ५ रुपन्देही",
+      "address": "कञ्चन गा.पा. ५, रुपन्देही",
       "position": "अध्यक्ष",
       "nationality": "नेपाली",
       "shares": 275000,
       "education": "स्नातकोत्तर",
-      "experience": "अध्यक्ष : कालिन्चोक हाइड्रोपावर लिमिटेड (नियुक्त मिति : २०७९/०१/१३ गते, बहाल रहने मिति : २०८३/०१/१२ गते), संचालक (पूर्व) : साहस ऊर्जा हाइड्रोपावर लि.",
+      "sector_experience": [
+        {
+          "organization": "कालिञ्चोक हाइड्रोपावर लिमिटेड",
+          "role": "अध्यक्ष",
+          "from": "२०७९/०१/१३",
+          "to": "२०८३/०१/१२"
+        },
+        {
+          "organization": "साहस ऊर्जा हाइड्रोपावर लि.",
+          "role": "संचालक (पूर्व)",
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
       "experience_sectors": [
         "जलविद्युत"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 2,
@@ -359,13 +524,33 @@
       "nationality": "नेपाली",
       "shares": 185000,
       "education": "प्रमाणपत्र",
-      "experience": "संचालक : कालिन्चोक हाइड्रोपावर लि. (नियुक्त मिति : २०७९/०१/१३ गते, बहाल रहने मिति : २०८३/०१/१२ गते), अध्यक्ष (पूर्व) : नेपाल बहुउद्देश्यीय सहकारी संस्था नेपाल, अध्यक्ष : सयपत्री नेपाल प्रा.लि., झापा",
+      "sector_experience": [
+        {
+          "organization": "कालिञ्चोक हाइड्रोपावर लि.",
+          "role": "संचालक",
+          "from": "२०७९/०१/१३",
+          "to": "२०८३/०१/१२"
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "नेपाल बहुउद्देश्यीय सहकारी संस्था नेपाल",
+          "role": "अध्यक्ष (पूर्व)",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "सयपत्री नेपाल प्रा.लि., झापा",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "जलविद्युत",
         "सहकारी",
         "कृषि"
-      ],
-      "proposed_business": "सयपत्री नेपाल प्रा.लि., झापा"
+      ]
     },
     {
       "sn": 3,
@@ -375,27 +560,55 @@
       "nationality": "नेपाली",
       "shares": 85000,
       "education": "स्नातकोत्तर",
-      "experience": "संचालक : कालिन्चोक हाइड्रोपावर लि. (नियुक्त मिति : २०७९/०१/१३ गते, बहाल रहने मिति : २०८३/०१/१२ गते), अधिवक्ता : ए एण्ड ए कानुनी सेवा",
+      "sector_experience": [
+        {
+          "organization": "कालिञ्चोक हाइड्रोपावर लि.",
+          "role": "संचालक",
+          "from": "२०७९/०१/१३",
+          "to": "२०८३/०१/१२"
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "ए एण्ड ए कानूनी सेवा",
+          "role": "अधिवक्ता",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "जलविद्युत",
-        "कानुन"
-      ],
-      "proposed_business": null
+        "कानून"
+      ]
     },
     {
       "sn": 4,
       "name": "श्री टंकलाल श्रेष्ठ",
-      "address": "कुम्पूर ८, धादिङ",
+      "address": "कुम्पुर ८, धादिङ",
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": 112500,
       "education": "स्नातक",
-      "experience": "संचालक : कालिन्चोक हाइड्रोपावर लि. (नियुक्त मिति : २०८१/१०/०३ गते, बहाल रहने मिति : २०८५/१०/०२ गते), प्रमुख कार्यकारी अधिकृत : प्राइम मल्टीपल विजनेस फाउण्डेशन, नयाँबानेश्वर (सन् २०१२ देखि हाल सम्म)",
+      "sector_experience": [
+        {
+          "organization": "कालिञ्चोक हाइड्रोपावर लि.",
+          "role": "संचालक",
+          "from": "२०८१/१०/०३",
+          "to": "२०८५/१०/०२"
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "प्राइम मल्टीपल विजनेस फाउण्डेशन, नयाँबानेश्वर",
+          "role": "प्रमुख कार्यकारी अधिकृत",
+          "from": "सन् २०१२",
+          "to": "हाल"
+        }
+      ],
       "experience_sectors": [
         "जलविद्युत",
         "व्यापार"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 5,
@@ -405,12 +618,26 @@
       "nationality": "नेपाली",
       "shares": null,
       "education": "स्नातकोत्तर",
-      "experience": "स्वतन्त्र संचालक : कालिन्चोक हाइड्रोपावर लि. (नियुक्त मिति : २०८१/१०/०३ गते, बहाल रहने मिति : २०८५/१०/०२ गते), अधिवक्ता : तिवारी एण्ड एसोसिएट्स (मिति २०७० देखि हाल सम्म)",
+      "sector_experience": [
+        {
+          "organization": "कालिञ्चोक हाइड्रोपावर लि.",
+          "role": "स्वतन्त्र संचालक",
+          "from": "२०८१/१०/०३",
+          "to": "२०८५/१०/०२"
+        }
+      ],
+      "other_experience": [
+        {
+          "organization": "तिवारी एण्ड एसोसिएट्स",
+          "role": "अधिवक्ता",
+          "from": "२०७०",
+          "to": "हाल"
+        }
+      ],
       "experience_sectors": [
         "जलविद्युत",
-        "कानुन"
-      ],
-      "proposed_business": null
+        "कानून"
+      ]
     }
   ],
   "director_affiliations": [
@@ -445,7 +672,7 @@
       "director_address": null,
       "affiliations": [
         {
-          "company": "श्री ए एण्ड ए कानुनी सेवा",
+          "company": "श्री ए एण्ड ए कानूनी सेवा",
           "address": "बबरमहल काठमाण्डौ",
           "role": "अधिवक्ता",
           "from": null,
@@ -476,6 +703,76 @@
           "role": "अधिवक्ता",
           "from": null,
           "to": null
+        }
+      ]
+    }
+  ],
+  "promoter_companies": [
+    {
+      "sn": 1,
+      "company": "श्री विजनेस इन्ट्रेष्ट ग्रुप अफ इण्डष्ट्रिज लि.",
+      "address": null,
+      "profile": null,
+      "directors": [
+        {
+          "name": "श्री नवराज बुर्लाकोटी",
+          "address": "नागार्जुन न.पा. ४"
+        },
+        {
+          "name": "श्री इन्दिरा पन्त",
+          "address": "का.म.न.पा. १६"
+        },
+        {
+          "name": "श्री पवन पौडेल",
+          "address": "कागेश्वरी मनोहरा न.पा. ४"
+        },
+        {
+          "name": "श्री रामभक्त दाहाल",
+          "address": "बनेपा न.पा. ३"
+        },
+        {
+          "name": "श्री सुसन वैद्य",
+          "address": "का.म.न.पा २८, काठमाण्डौ"
+        }
+      ]
+    },
+    {
+      "sn": 2,
+      "company": "श्री विग इण्डष्ट्रिज नेपाल प्रा.लि.",
+      "address": null,
+      "profile": null,
+      "directors": [
+        {
+          "name": "श्री नवराज बुर्लाकोटी",
+          "address": "नागार्जुन न.पा. ४"
+        },
+        {
+          "name": "श्री सुलक्षणा लोहनी",
+          "address": "ज्वालामुखी गा.पा. ७"
+        },
+        {
+          "name": "श्री अधिश बुर्लाकोटी",
+          "address": "नागार्जुन न.पा. ४"
+        }
+      ]
+    },
+    {
+      "sn": 3,
+      "company": "श्री मेट्रो इक्विटी फण्ड लिमिटेड",
+      "address": null,
+      "profile": null,
+      "directors": [
+        {
+          "name": "श्री नवराज बुर्लाकोटी",
+          "address": "नागार्जुन न.पा. ४"
+        },
+        {
+          "name": "श्री इन्दिरा पन्त",
+          "address": "का.म.न.पा. १६"
+        },
+        {
+          "name": "श्री पवन पौडेल",
+          "address": "कागेश्वरी मनोहरा न.पा. ४"
         }
       ]
     }

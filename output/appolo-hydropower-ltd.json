@@ -3,7 +3,7 @@
   "source_title": "Appolo Hydropower Ltd. - General Public",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/04/08/aROXLsPJxWM0gEQxl4lt9Uiw4lL2bpgLtZxaXAox.pdf",
   "issue_date": "2026-04-08",
-  "extracted_at": "2026-06-23T07:42:46+00:00",
+  "extracted_at": "2026-06-23T08:33:06+00:00",
   "total_pages": 65,
   "table_pages": [
     19,
@@ -23,9 +23,9 @@
     "promoter_companies": 6
   },
   "llm_cost": {
-    "in": 5288,
-    "out": 8225,
-    "cost_usd": 0.0221
+    "in": 5627,
+    "out": 10278,
+    "cost_usd": 0.0274
   },
   "shareholders": [
     {
@@ -37,148 +37,256 @@
       "education": "आई.ए",
       "shares": 91600,
       "share_percent": 2.78,
-      "experience": "Proprietor-A.T International Handicraft Export, निर्देशक- आइसल्याण्ड ट्रेक एण्ड एक्सपीडीशन प्रा.लि., अध्यक्ष-रिया नेपाल प्रा.लि.",
-      "experience_sectors": [
-        "Handicraft Export",
-        "Trekking & Expedition"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "A.T International Handicraft Export",
+          "role": "Proprietor",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "आइसल्याण्ड ट्रेक एण्ड एक्सपीडीशन प्रा.लि.",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "रिया नेपाल प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "हस्तकला",
+        "पर्यटन"
+      ]
     },
     {
       "sn": 2,
       "name": "श्री डिल्ली बहादुर गुरुङ्ग",
-      "address": "केरुङ २, सोलुखुम्बु",
+      "address": "केरुङ्ग २, सोलुखुम्बु",
       "age": 52,
       "nationality": "नेपाली",
       "education": "आई.ए",
       "shares": 162850,
       "share_percent": 4.945,
-      "experience": "निर्देशक-जलशक्ति हाइड्रो प्रा.लि., निर्देशक -हिमल्याण्ड एडभेन्चर ट्रेक प्रा.लि., निर्देशक- मालिङ्गो इन्टरनेशनल हाउजिङ्ग कम्पनी प्रा.लि., आर्थिक संयोजक-गोरेटो बहुउद्देश्यीय सहकारी लिमिटेड, निर्देशक-पातले होमस्टे प्रा.लि.",
-      "experience_sectors": [
-        "Hydropower",
-        "Trekking",
-        "Housing",
-        "Cooperative",
-        "Homestay"
+      "sector_experience": [
+        {
+          "organization": "जलशक्ति हाइड्रो प्रा.लि.",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [
+        {
+          "organization": "हिमल्याण्ड एडभेन्चर ट्रेक प्रा.लि.",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "मालिङ्गो इन्टरनेशनल हाउजिङ्ग कम्पनी प्रा.लि.",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "गोरेटो बहुउद्देश्यीय सहकारी लिमिटेड",
+          "role": "आर्थिक संयोजक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "पातले होमस्टे प्रा.लि.",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत",
+        "पर्यटन",
+        "सहकारी",
+        "आवास"
+      ]
     },
     {
       "sn": 3,
       "name": "श्री विनोद चन्द्र वराल",
-      "address": "पोखरा म.न.पा.८, कास्की",
+      "address": "पोखरा म.न.पा. ८, कास्की",
       "age": 62,
       "nationality": "नेपाली",
       "education": "बि.कम/सि.ए",
       "shares": 150000,
       "share_percent": 4.56,
-      "experience": "अध्यक्ष/व्यवस्थापक संचालक/कार्यकारी अध्यक्ष - अन्नपूर्ण फाइनान्स कम्पनी लिमिटेड मा १५ वर्ष भन्दा बढीको अनुभव",
-      "experience_sectors": [
-        "Finance"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "अन्नपूर्ण फाइनान्स कम्पनी लिमिटेड",
+          "role": "अध्यक्ष/व्यवस्थापक संचालक/कार्यकारी अध्यक्ष",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "वित्त"
+      ]
     },
     {
       "sn": 4,
       "name": "श्री सिता राम तिमिल्सिना",
-      "address": "विरगंज १० पर्सा",
+      "address": "वीरगंज १०, पर्सा",
       "age": 64,
       "nationality": "नेपाली",
       "education": "बि.कम",
       "shares": 125000,
       "share_percent": 3.8,
-      "experience": "जलविद्युत निर्माण, संचालन तथा निर्माण व्यवसाय क्षेत्रको कार्य अनुभव",
-      "experience_sectors": [
-        "Hydropower Construction",
-        "Business"
+      "sector_experience": [
+        {
+          "organization": "जलविद्युत निर्माण, संचालन तथा निर्माण व्यवसाय क्षेत्र",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [],
+      "experience_sectors": [
+        "जलविद्युत",
+        "निर्माण"
+      ]
     },
     {
       "sn": 5,
       "name": "श्री धन बहादुर बस्नेत",
-      "address": "का.म.न.पा १०, काठमाण्डौं",
+      "address": "का.म.न.पा १०, काठमाण्डौ",
       "age": 51,
       "nationality": "नेपाली",
       "education": "बि.ए",
       "shares": 114905,
       "share_percent": 3.49,
-      "experience": "प्रबन्ध साझेदार स्टार अटो इन्टरप्राइजेज - बजाज मोटरसाइकलको डिलर, निर्देशक- स्टार अटो केयर प्रा.लि., निर्देशक- एमटी इन्डष्ट्रीज प्रा.लि, अध्यक्ष -पाली रियल इस्टेट प्रा.लि, अध्यक्ष- प्रवर्धन बहुउद्देश्यीय सहकारी लिमिटेड",
-      "experience_sectors": [
-        "Automobile",
-        "Industries",
-        "Real Estate",
-        "Cooperative"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "स्टार अटो इन्टरप्राइजेज - बजाज मोटरसाइकलको डिलर",
+          "role": "प्रबन्ध साझेदार",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "स्टार अटो केयर प्रा.लि.",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "एमटी इण्डष्ट्रीज प्रा.लि",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "पाली रियल इस्टेट प्रा.लि",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "प्रबर्धन बहुउद्देश्यीय सहकारी लिमिटेड",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "अटोमोवाइल",
+        "घरजग्गा",
+        "सहकारी"
+      ]
     },
     {
       "sn": 6,
       "name": "श्री नारायण बाबु अधिकारी",
-      "address": "पालुङ्गटार ९ गोरखा",
+      "address": "पालुङ्गटार ९, गोरखा",
       "age": 57,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 112700,
       "share_percent": 3.43,
-      "experience": "लेखा तथा विभिन्न हाइड्रोपावरमा परियोजनाको कार्य अनुभव, अध्यक्ष-ओजिल भेन्चर्स प्रा.लि.",
-      "experience_sectors": [
-        "Accounting",
-        "Hydropower"
+      "sector_experience": [
+        {
+          "organization": "विभिन्न हाइड्रोपावरमा परियोजनाको कार्य",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [
+        {
+          "organization": "ओजिल भेन्चर्स प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत",
+        "लगानी"
+      ]
     },
     {
       "sn": 7,
       "name": "ओजिल भेन्चर्स प्रा.लि.",
       "address": "का.म.न.पा. १६",
       "age": null,
-      "nationality": "लागू नहुने",
+      "nationality": "नेपाली",
       "education": null,
       "shares": 150000,
       "share_percent": 4.56,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 8,
       "name": "सगरमाथा लुम्बिनी इन्स्योरेन्स कम्पनी लिमिटेड",
-      "address": "का.म.न.पा. ३१ काठमाण्डौं",
+      "address": "का.म.न.पा. ३१, काठमाण्डौ",
       "age": null,
-      "nationality": "लागू नहुने",
+      "nationality": "नेपाली",
       "education": null,
       "shares": 100000,
       "share_percent": 3.04,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 9,
-      "name": "प्रिमियर सेक्युरिटीज कम्पनी लि.",
-      "address": "का.म.न.पा. २८, काठमाण्डौं",
+      "name": "प्रिमियर सेक्यूरिटीज कम्पनी लि.",
+      "address": "का.म.न.पा. २८, काठमाण्डौ",
       "age": null,
-      "nationality": "लागू नहुने",
+      "nationality": "नेपाली",
       "education": null,
       "shares": 75000,
       "share_percent": 2.28,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 10,
       "name": "मल्टीपर्पस फाइनान्स लि.",
       "address": "राजविराज न.पा ४, सप्तरी",
       "age": null,
-      "nationality": "लागू नहुने",
+      "nationality": "नेपाली",
       "education": null,
       "shares": 50000,
       "share_percent": 1.52,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 11,
@@ -189,42 +297,68 @@
       "education": "एस.एल.सी",
       "shares": 165000,
       "share_percent": 5.02,
-      "experience": "आयुर्वेदिक व्यवसाय क्षेत्रमा कार्यअनुभव",
-      "experience_sectors": [
-        "Ayurvedic Business"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "आयुर्वेदिक व्यवसाय क्षेत्र",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "आयुर्वेद"
+      ]
     },
     {
       "sn": 12,
       "name": "श्री राजेन्द्र गुरुङ्ग",
-      "address": "खिजीदेम्बा ७ ओखलढुङ्गा",
+      "address": "खिजीदेम्बा ७, ओखलढुङ्गा",
       "age": 49,
       "nationality": "नेपाली",
       "education": "बि.ए",
       "shares": 88435,
       "share_percent": 2.69,
-      "experience": "कार्यकारी अध्यक्ष-नेपाल नेचर ट्रेक एण्ड टुर्स प्रा.लि., टुर लिडर-अल्की टुर्स",
-      "experience_sectors": [
-        "Tourism",
-        "Trekking"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "नेपाल नेचर ट्रेक एण्ड टुर प्रा.लि.",
+          "role": "कार्यकारी अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "अल्की टुर",
+          "role": "टुर लिडर",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "पर्यटन"
+      ]
     },
     {
       "sn": 13,
       "name": "श्री शान्ता पहाडी",
-      "address": "डुंडभञ्ज्याङ ८ सिन्धुली",
+      "address": "डुंडभञ्ज्याङ ८, सिन्धुली",
       "age": null,
       "nationality": "नेपाली",
       "education": "एम.ए",
       "shares": 41100,
       "share_percent": 1.25,
-      "experience": "सरकारी संस्थामा कार्यरत",
-      "experience_sectors": [
-        "Government Service"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सरकारी संस्था",
+          "role": "कर्मचारी",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "सरकारी सेवा"
+      ]
     },
     {
       "sn": 14,
@@ -235,11 +369,18 @@
       "education": "+2",
       "shares": 60000,
       "share_percent": 1.82,
-      "experience": "विभिन्न व्यवसायको कार्यअनुभव",
-      "experience_sectors": [
-        "Business"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "विभिन्न व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 15,
@@ -250,26 +391,36 @@
       "education": "एस.एल.सी",
       "shares": 38000,
       "share_percent": 1.16,
-      "experience": "गृहिणी",
-      "experience_sectors": [
-        "Household"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "गृहणी",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": []
     },
     {
       "sn": 16,
       "name": "श्री विवेक पहाडी",
-      "address": "का.म.न.पा. ३४, काठमाण्डौं",
+      "address": "का.म.न.पा. ३४, काठमाण्डौ",
       "age": 31,
       "nationality": "नेपाली",
       "education": "एम.बि.ए",
       "shares": 36250,
       "share_percent": 1.1,
-      "experience": "विद्यार्थी",
-      "experience_sectors": [
-        "Education"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "विद्यार्थी",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": []
     },
     {
       "sn": 17,
@@ -280,41 +431,60 @@
       "education": "+2",
       "shares": 62200,
       "share_percent": 1.89,
-      "experience": "विद्यार्थी",
-      "experience_sectors": [
-        "Education"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "विद्यार्थी",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": []
     },
     {
       "sn": 18,
-      "name": "श्री कर्म तेन्जिङ भोटीया",
+      "name": "श्री कर्म तेन्जिङ्ग भोटिया",
       "address": "भोटेखोला गा.पा. २, संखुवासभा",
       "age": 59,
       "nationality": "नेपाली",
       "education": "एस.एल.सी",
       "shares": 49000,
       "share_percent": 1.49,
-      "experience": "रेस्टुरेन्ट व्यवसायको कार्य अनुभव",
-      "experience_sectors": [
-        "Restaurant Business"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "रेष्टुरेन्ट व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "हस्पिटालिटी"
+      ]
     },
     {
       "sn": 19,
       "name": "श्री बुनु लिम्बु",
-      "address": "छतर जोरपाटी गा.पा. ५ धनकुटा",
+      "address": "छतर जोरपाटी गा.पा. ५, धनकुटा",
       "age": 42,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 36800,
       "share_percent": 1.12,
-      "experience": "शिक्षण क्षेत्र को कार्य अनुभव",
-      "experience_sectors": [
-        "Education/Teaching"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "शिक्षण क्षेत्र",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "शिक्षा"
+      ]
     },
     {
       "sn": 20,
@@ -325,44 +495,72 @@
       "education": "बि.ए",
       "shares": 50000,
       "share_percent": 1.52,
-      "experience": "रियल स्टेट र जलविद्युत परियोजनामा कार्य अनुभव",
-      "experience_sectors": [
-        "Real Estate",
-        "Hydropower"
+      "sector_experience": [
+        {
+          "organization": "जलविद्युत परियोजना",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [
+        {
+          "organization": "रियल स्टेट",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत",
+        "घरजग्गा"
+      ]
     },
     {
       "sn": 21,
       "name": "श्री पदम बहादुर शाक्य",
-      "address": "का.म.न. पा ३० काठमाण्डौं",
+      "address": "का.म.न.पा ३०, काठमाण्डौ",
       "age": 52,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 50000,
       "share_percent": 1.52,
-      "experience": "व्यापार व्यवसाय तथा लगानी क्षेत्रको कार्य अनुभव",
-      "experience_sectors": [
-        "Business",
-        "Investment"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "व्यापार व्यवसाय तथा लगानी क्षेत्र",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार",
+        "लगानी"
+      ]
     },
     {
       "sn": 22,
       "name": "श्री सन्तोष मान श्रेष्ठ",
-      "address": "का.म.न.पा. १८, काठमाण्डौं",
+      "address": "का.म.न.पा. १८, काठमाण्डौ",
       "age": 53,
       "nationality": "नेपाली",
       "education": "बि.कम",
       "shares": 50000,
       "share_percent": 1.52,
-      "experience": "विभिन्न व्यापार व्यवसाय तथा नोकरी क्षेत्रको कार्य अनुभव",
-      "experience_sectors": [
-        "Business",
-        "Employment"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "विभिन्न व्यापार व्यवसाय तथा नोकरी क्षेत्र",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार",
+        "सेवा"
+      ]
     },
     {
       "sn": 23,
@@ -373,12 +571,19 @@
       "education": "एम.बि.बि.एस",
       "shares": 50885,
       "share_percent": 1.55,
-      "experience": "व्यापार व्यवसाय तथा नोकरी क्षेत्रको कार्य अनुभव",
-      "experience_sectors": [
-        "Business",
-        "Medical/Employment"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "व्यापार व्यवसाय तथा नोकरी क्षेत्र",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार",
+        "स्वास्थ्य"
+      ]
     },
     {
       "sn": 24,
@@ -389,11 +594,18 @@
       "education": "आई.ए",
       "shares": 92375,
       "share_percent": 2.81,
-      "experience": "व्यापार-एस डेभलपमेन्ट हुडिङ प्रा.लि.",
-      "experience_sectors": [
-        "Business"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "एस डेभलपमेन्ट हुडिङ्ग प्रा.लि.",
+          "role": "व्यापार",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 25,
@@ -401,14 +613,21 @@
       "address": "ललितपुर ५",
       "age": 33,
       "nationality": "नेपाली",
-      "education": "एम.बि.ए/बि.एस.ए",
+      "education": "एम.बि.ए/आई.ए",
       "shares": 91750,
       "share_percent": 2.79,
-      "experience": "नोकरी क्षेत्रको कार्य अनुभव",
-      "experience_sectors": [
-        "Employment"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "नोकरी क्षेत्र",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "सेवा"
+      ]
     },
     {
       "sn": 26,
@@ -419,11 +638,18 @@
       "education": "एम.बि.ए",
       "shares": 75000,
       "share_percent": 2.28,
-      "experience": "अध्यक्ष-प्रिमियर सेक्युरिटीज कम्पनी लिमिटेड",
-      "experience_sectors": [
-        "Securities/Finance"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "प्रिमियर सेक्यूरिटीज कम्पनी लिमिटेड",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "धितोपत्र"
+      ]
     },
     {
       "sn": 27,
@@ -434,11 +660,16 @@
       "education": "स्नातक",
       "shares": 38250,
       "share_percent": 1.16,
-      "experience": "विद्यार्थी",
-      "experience_sectors": [
-        "Education"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "विद्यार्थी",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": []
     },
     {
       "sn": 28,
@@ -449,11 +680,16 @@
       "education": "स्नातक",
       "shares": 40000,
       "share_percent": 1.22,
-      "experience": "विद्यार्थी",
-      "experience_sectors": [
-        "Education"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "विद्यार्थी",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": []
     },
     {
       "sn": 29,
@@ -464,12 +700,19 @@
       "education": "एम.ए",
       "shares": 48395,
       "share_percent": 1.47,
-      "experience": "पर्यटन तथा कृषि क्षेत्रको कार्य अनुभव",
-      "experience_sectors": [
-        "Tourism",
-        "Agriculture"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "पर्यटन तथा कृषि क्षेत्र",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "पर्यटन",
+        "कृषि"
+      ]
     }
   ],
   "directors": [
@@ -481,12 +724,31 @@
       "nationality": "नेपाली",
       "shares": 91600,
       "education": "आई.ए",
-      "experience": "Proprietor-A.T International Handicraft Export, निर्देशक- आइसल्याण्ड ट्रेक एण्ड एक्सपीडीशन प्रा.लि., अध्यक्ष-रिया नेपाल प्रा.लि.",
-      "experience_sectors": [
-        "Handicraft Export",
-        "Trekking & Expedition"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "A.T International Handicraft Export",
+          "role": "Proprietor",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "आइसल्याण्ड ट्रेक एण्ड एक्सपीडीशन प्रा.लि.",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "रिया नेपाल प्रा.लि.",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "हस्तकला",
+        "पर्यटन"
+      ]
     },
     {
       "sn": 2,
@@ -496,12 +758,24 @@
       "nationality": "नेपाली",
       "shares": 88435,
       "education": "बि.ए",
-      "experience": "कार्यकारी अध्यक्ष-नेपाल नेचर ट्रेक एण्ड टुर्स प्रा.लि., टुर लिडर-अल्की टुर्स",
-      "experience_sectors": [
-        "Tourism",
-        "Trekking"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "नेपाल नेचर ट्रेक एण्ड टुर प्रा.लि.",
+          "role": "कार्यकारी अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "अल्की टुर",
+          "role": "टुर लिडर",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "पर्यटन"
+      ]
     },
     {
       "sn": 3,
@@ -511,27 +785,76 @@
       "nationality": "नेपाली",
       "shares": 3500,
       "education": "स्नातकोत्तर",
-      "experience": "सर्वेक्षण/डिजाइन इन्जिनियर-AG Power Company and DAT Engineering Consultancy P. Ltd., प्राविधिक अधिकारी- ग्रामीण ऊर्जा विकास कार्यक्रम (REDP/UNDP), प्राविधिक प्रबन्धक-एजी पावर कम्पनी प्रा.लि (२०१०-२०१२), कार्यकारी निर्देशक- एजी पावर कम्पनी प्रा. (२०१२-२०१६), परियोजना प्रबन्ध- सानो मिल्ती खोला जलविद्युत आयोजना लि. (२०१६-२०१७), प्राविधिक प्रबन्धक-एजी पावर कम्पनी प्रा. (२०१७-२०२०), Energy Advisor-Energizing Development (Endev)/ Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
-      "experience_sectors": [
-        "Engineering",
-        "Hydropower",
-        "Energy Consulting"
+      "sector_experience": [
+        {
+          "organization": "AG Power Company and DAT Engineering Consultancy P. Ltd.",
+          "role": "सर्वेक्षण/डिजाइन इन्जिनियर",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "Rural Energy Development Program (REDP/UNDP)",
+          "role": "प्राविधिक अधिकारी",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "एजी पावर कम्पनी प्रा.लि",
+          "role": "प्राविधिक प्रबन्धक",
+          "from": "2010",
+          "to": "2012"
+        },
+        {
+          "organization": "एजी पावर कम्पनी प्रा.लि",
+          "role": "कार्यकारी निर्देशक",
+          "from": "2012",
+          "to": "2016"
+        },
+        {
+          "organization": "सानो मिल्ती खोला जलविद्युत आयोजना लि.",
+          "role": "परियोजना प्रबन्धक",
+          "from": "2016",
+          "to": "2017"
+        },
+        {
+          "organization": "एजी पावर कम्पनी प्रा.लि",
+          "role": "प्राविधिक प्रबन्धक",
+          "from": "2017",
+          "to": "2020"
+        },
+        {
+          "organization": "Energizing Development (Endev)/ Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+          "role": "Energy Advisor",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [],
+      "experience_sectors": [
+        "जलविद्युत",
+        "परामर्श"
+      ]
     },
     {
       "sn": 4,
       "name": "श्री रेनुका गुरुङ्ग",
-      "address": "क.म.न.पा १०, काठमाण्डौं",
+      "address": "का.म.न.पा १०, काठमाण्डौ",
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": 92375,
       "education": "आई.ए",
-      "experience": "व्यापार-एस डेभलपमेन्ट हुडिङ प्रा.लि.",
-      "experience_sectors": [
-        "Business"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "एस डेभलपमेन्ट हुडिङ्ग प्रा.लि.",
+          "role": "व्यापार",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 5,
@@ -541,13 +864,27 @@
       "nationality": "नेपाली",
       "shares": null,
       "education": null,
-      "experience": "संस्थापक शेयरधनी-सुपरमादी हाइड्रोपावर लिमिटेड, रियल स्टेट तथा कृषि क्षेत्रको कार्य अनुभव",
-      "experience_sectors": [
-        "Hydropower",
-        "Real Estate",
-        "Agriculture"
+      "sector_experience": [
+        {
+          "organization": "सुपरमादी हाइड्रोपावर लिमिटेड",
+          "role": "संस्थापक शेयरधनी",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [
+        {
+          "organization": "रियल स्टेट तथा कृषि क्षेत्र",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत",
+        "घरजग्गा",
+        "कृषि"
+      ]
     },
     {
       "sn": 6,
@@ -557,32 +894,93 @@
       "nationality": "नेपाली",
       "shares": 114905,
       "education": "बि.ए",
-      "experience": "प्रबन्ध साझेदार स्टार अटो इन्टरप्राइजेज - बजाज मोटरसाइकलको डिलर, निर्देशक- स्टार अटो केयर प्रा.लि., निर्देशक- एमटी इन्डष्ट्रीज प्रा.लि, अध्यक्ष -पाली रियल इस्टेट प्रा.लि, अध्यक्ष- प्रवर्धन बहुउद्देश्यीय सहकारी लिमिटेड",
-      "experience_sectors": [
-        "Automobile",
-        "Industries",
-        "Real Estate",
-        "Cooperative"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "स्टार अटो इन्टरप्राइजेज - बजाज मोटरसाइकलको डिलर",
+          "role": "प्रबन्ध साझेदार",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "स्टार अटो केयर प्रा.लि.",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "एमटी इण्डष्ट्रीज प्रा.लि",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "पाली रियल इस्टेट प्रा.लि",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "प्रबर्धन बहुउद्देश्यीय सहकारी लिमिटेड",
+          "role": "अध्यक्ष",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "अटोमोवाइल",
+        "घरजग्गा",
+        "सहकारी"
+      ]
     },
     {
       "sn": 7,
       "name": "श्री डिल्ली बहादुर गुरुङ्ग",
-      "address": "केरुङ २, सोलुखुम्बु",
+      "address": "केरुङ्ग २, सोलुखुम्बु",
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": 162850,
       "education": "आई.ए",
-      "experience": "निर्देशक-जलशक्ति हाइड्रो प्रा.लि., निर्देशक -हिमल्याण्ड एडभेन्चर ट्रेक प्रा.लि., निर्देशक- मालिङ्गो इन्टरनेशनल हाउजिङ्ग कम्पनी प्रा.लि., आर्थिक संयोजक-गोरेटो बहुउद्देश्यीय सहकारी लिमिटेड, निर्देशक-पातले होमस्टे प्रा.लि.",
-      "experience_sectors": [
-        "Hydropower",
-        "Trekking",
-        "Housing",
-        "Cooperative",
-        "Homestay"
+      "sector_experience": [
+        {
+          "organization": "जलशक्ति हाइड्रो प्रा.लि.",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "other_experience": [
+        {
+          "organization": "हिमल्याण्ड एडभेन्चर ट्रेक प्रा.लि.",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "मालिङ्गो इन्टरनेशनल हाउजिङ्ग कम्पनी प्रा.लि.",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "गोरेटो बहुउद्देश्यीय सहकारी लिमिटेड",
+          "role": "आर्थिक संयोजक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "पातले होमस्टे प्रा.लि.",
+          "role": "निर्देशक",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "जलविद्युत",
+        "पर्यटन",
+        "सहकारी",
+        "आवास"
+      ]
     }
   ],
   "director_affiliations": [
@@ -611,14 +1009,14 @@
       "director_address": "खिजीदेम्बा ७, ओखलढुङ्गा",
       "affiliations": [
         {
-          "company": "नेपाल नेचर ट्रेक एण्ड टुर्स प्रा.लि.",
+          "company": "नेपाल नेचर ट्रेक एण्ड टुर प्रा.लि.",
           "address": null,
           "role": "कार्यकारी अध्यक्ष",
           "from": null,
           "to": null
         },
         {
-          "company": "टुर लिडर-अल्की टुर्स",
+          "company": "अल्की टुर",
           "address": null,
           "role": "टुर लिडर",
           "from": null,
@@ -633,7 +1031,7 @@
         {
           "company": "AG Power Company and DAT Engineering Consultancy P Ltd",
           "address": null,
-          "role": "इन्जिनियर/परामर्शदाता",
+          "role": "इन्जिनियर",
           "from": null,
           "to": null
         },
@@ -648,12 +1046,12 @@
     },
     {
       "director_name": "श्री रेनुका गुरुङ्ग",
-      "director_address": "क.म.न.पा १०, काठमाण्डौं",
+      "director_address": "का.म.न.पा १०, काठमाण्डौ",
       "affiliations": [
         {
-          "company": "एस डेभलपमेन्ट हुडिङ प्रा.लि.",
+          "company": "एस डेभलपमेन्ट हुडिङ्ग प्रा.लि.",
           "address": null,
-          "role": "व्यापारी/संचालक",
+          "role": "व्यापार",
           "from": null,
           "to": null
         }
@@ -684,7 +1082,7 @@
           "to": null
         },
         {
-          "company": "एमटी इन्डष्ट्रीज प्रा.लि",
+          "company": "एमटी इण्डष्ट्रीज प्रा.लि",
           "address": null,
           "role": "निर्देशक",
           "from": null,
@@ -708,7 +1106,7 @@
     },
     {
       "director_name": "श्री डिल्ली बहादुर गुरुङ्ग",
-      "director_address": "केरुङ २, सोलुखुम्बु",
+      "director_address": "केरुङ्ग २, सोलुखुम्बु",
       "affiliations": [
         {
           "company": "जलशक्ति हाइड्रो प्रा.लि.",
@@ -752,12 +1150,12 @@
     {
       "sn": 1,
       "company": "ओजिल भेन्चर्स प्रा.लि.",
-      "address": "का.म.पा. १६, काठमाडौँ",
-      "profile": "सम्बन्धित निकायबाट अनुमतिपत्र प्राप्त गरी लगानी तथा सेवा उपलब्ध गराउने उद्देश्यका साथ दर्ता कायम भई सञ्चालनमा रहेको छ ।",
+      "address": "का.म.पा. १६, काठमाण्डौ",
+      "profile": "सम्बन्धित निकायबाट अनुमतिपत्र प्राप्त गरी लगानी तथा सेवा उपलब्ध गराउने उद्देश्यका साथ दर्ता भई संचालनमा रहेको छ ।",
       "directors": [
         {
           "name": "श्री नारायण बाबु अधिकारी",
-          "address": "पालुङ्गटार ९ गोरखा"
+          "address": "पालुङ्गटार ९, गोरखा"
         },
         {
           "name": "श्री प्रमोद श्रेष्ठ",
@@ -768,24 +1166,24 @@
     {
       "sn": 2,
       "company": "सगरमाथा लुम्बिनी इन्स्योरेन्स कम्पनी लिमिटेड",
-      "address": "का.म.पा. ३१ काठमाडौँ",
-      "profile": "सम्बन्धित निकाय बाट अनुमतिपत्र प्राप्त गरी विभिन्न प्रकारका जिवन बिमा लगायतका बिमा सेवा उपलब्ध गराउने उद्देश्यका साथ दर्ता कायम भई सञ्चालनमा रहेको छ ।",
+      "address": "का.म.पा. ३१, काठमाण्डौ",
+      "profile": "सम्बन्धित निकायबाट अनुमतिपत्र प्राप्त गरी विभिन्न प्रकारका जीवन बिमा लगायतका बिमा सेवा उपलब्ध गराउने उद्देश्यका साथ दर्ता भई संचालनमा रहेको छ ।",
       "directors": [
         {
           "name": "श्री मनोहर दास मूल",
-          "address": "थापाथली, काठमाडौँ"
+          "address": "थापाथली, काठमाण्डौ"
         },
         {
-          "name": "श्री अजित आर.गुणवर्धन (सेलिङ्को इन्स्योरेन्स पि.एल.सि.)",
+          "name": "श्री अजित आर.गुणवर्धन",
           "address": "श्रीलंका"
         },
         {
           "name": "श्री अरुणराज श्रेष्ठ",
-          "address": "वानेश्वर, काठमाडौँ"
+          "address": "वानेश्वर, काठमाण्डौ"
         },
         {
           "name": "श्री सिद्धार्थमणि राजभण्डारी",
-          "address": "धोविखोला, काठमाडौँ"
+          "address": "धोवीखोला, काठमाण्डौ"
         },
         {
           "name": "श्री गजेन्द्रलाल श्रेष्ठ",
@@ -793,19 +1191,19 @@
         },
         {
           "name": "श्री कमल भट्टराई",
-          "address": "वानेश्वर, काठमाडौँ"
+          "address": "वानेश्वर, काठमाण्डौ"
         },
         {
           "name": "सुश्री निर्मला देवी मानन्धर",
-          "address": "वाफल, काठमाडौँ"
+          "address": "वाफल, काठमाण्डौ"
         }
       ]
     },
     {
       "sn": 3,
-      "company": "प्रिमियर सेक्युरिटीज कम्पनी लिमिटेड",
-      "address": "का.म.न.पा. २८, काठमाडौँ",
-      "profile": "कम्पनीले सम्बन्धित निकाय बाट अनुमतिपत्र प्राप्त गरी सेक्युरिटीज सम्बन्धी कारोवार गर्दै आएको छ ।",
+      "company": "प्रिमियर सेक्यूरिटीज कम्पनी लिमिटेड",
+      "address": "का.म.न.पा. २८, काठमाण्डौ",
+      "profile": "सम्बन्धित निकायबाट अनुमतिपत्र प्राप्त गरी सेक्यूरिटीज सम्बन्धी कारोवार गर्दै आएको छ ।",
       "directors": [
         {
           "name": "श्री रविन्द्र प्रसाद न्हुछे प्रधान",
@@ -817,7 +1215,7 @@
         },
         {
           "name": "श्री सन्तोष मान श्रेष्ठ",
-          "address": "नरदेवि काठमाडौँ"
+          "address": "नरदेवि काठमाण्डौ"
         }
       ]
     },
@@ -825,15 +1223,15 @@
       "sn": 4,
       "company": "मल्टीपर्पस फाइनान्स लिमिटेड",
       "address": "राजविराज न.पा ४, सप्तरी",
-      "profile": "यस संगठित संस्थाले कम्पनी ऐन, २०६३ बमोजिम मिति २०५३/१०/१० गते नेपाल सरकार कम्पनी रजिष्ट्रारको कार्यालयमा दर्ता भै मिति २०५४/१२/१२ गते देखि वित्तीय कारोवार गर्न संचालन गर्दै आई रहेको छ ।",
+      "profile": "कम्पनी ऐन, २०६३ बमोजिम मिति २०५३/१०/१० गते नेपाल सरकार कम्पनी रजिष्ट्रारको कार्यालयमा दर्ता भै मिति २०५४/१२/१२ गते देखि वित्तीय कारोवार गर्न संचालन गर्दै आई रहेको छ ।",
       "directors": [
         {
           "name": "श्री चन्दन अग्रवाल",
-          "address": "जनकपुर वडा नं.५"
+          "address": "जनकपुर वडा नं. ५"
         },
         {
           "name": "श्री गेहनाथ ढुंगाना",
-          "address": "बुढानिलकण्ठ काठमाडौँ"
+          "address": "बुढानिलकण्ठ काठमाण्डौ"
         },
         {
           "name": "श्री जय प्रकाश ठाकुर",
@@ -857,7 +1255,7 @@
       "sn": 5,
       "company": "जे.एफ. सेक्युरिटिज प्रा.लि.",
       "address": "ललितपुर",
-      "profile": "यो कम्पनी सम्बन्धित निकाय बाट अनुमतिपत्र प्राप्त गरी लगानी तथा सेवा उपलब्ध गराउने उद्देश्यका साथ दर्ता कायम भई सञ्चालनमा रहेको छ ।",
+      "profile": "सम्बन्धित निकायबाट अनुमतिपत्र प्राप्त गरी लगानी तथा सेवा उपलब्ध गराउने उद्देश्यका साथ दर्ता कायम भई संचालनमा रहेको छ ।",
       "directors": [
         {
           "name": "श्री विजय जोशी",
@@ -876,16 +1274,16 @@
     {
       "sn": 6,
       "company": "रेन्बो इन्भेष्टमेन्ट एण्ड प्रा.लि.",
-      "address": "काठमाडौँ",
-      "profile": "यो कम्पनी सम्बन्धित निकाय बाट अनुमतिपत्र प्राप्त गरी लगानी तथा सेवा उपलब्ध गराउने उद्देश्यका साथ दर्ता कायम भई सञ्चालनमा रहेको छ ।",
+      "address": "काठमाण्डौ",
+      "profile": "सम्बन्धित निकायबाट अनुमतिपत्र प्राप्त गरी लगानी तथा सेवा उपलब्ध गराउने उद्देश्यका साथ दर्ता कायम भई संचालनमा रहेको छ ।",
       "directors": [
         {
           "name": "श्री सुमन मान ताम्राकार",
-          "address": "का.म.न.पा.११, काठमाडौँ"
+          "address": "का.म.न.पा. ११, काठमाण्डौ"
         },
         {
           "name": "श्री अनिल श्रेष्ठ",
-          "address": "का.म.न.पा.१२, काठमाडौँ"
+          "address": "का.म.न.पा. १२, काठमाण्डौ"
         },
         {
           "name": "श्री नारायण भक्त श्रेष्ठ",
@@ -893,15 +1291,15 @@
         },
         {
           "name": "श्री शिरिष नरसिंह शाक्य",
-          "address": "ललितपुर म.न.पा.१६"
+          "address": "ललितपुर म.न.पा. १६"
         },
         {
           "name": "श्री त्रिलोक नरसिंह शाक्य",
-          "address": "ललितपुर म.न.पा.१६"
+          "address": "ललितपुर म.न.पा. १६"
         },
         {
           "name": "श्री कृष्णलाल महर्जन",
-          "address": "ललितपुर म.न.पा.१५"
+          "address": "ललितपुर म.न.पा. १५"
         },
         {
           "name": "श्री रुजिल रत्न शाक्य",

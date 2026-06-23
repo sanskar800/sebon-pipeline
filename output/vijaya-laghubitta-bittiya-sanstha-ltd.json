@@ -1,0 +1,331 @@
+{
+  "company": "Vijaya Laghubitta Bittiya Sanstha Ltd.",
+  "source_title": "Vijaya Laghubitta Bittiya Sanstha Ltd.-FPO",
+  "prospectus_url": "https://sebon.gov.np/uploads/2026/01/02/cOyu9iCATnxDjJUcavQaIgmQHM7YpB2iI9kstvZH.pdf",
+  "issue_date": "2026-01-02",
+  "extracted_at": "2026-06-23T08:45:13+00:00",
+  "total_pages": 81,
+  "table_pages": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "counts": {
+    "shareholders": 2,
+    "directors": 7,
+    "director_affiliations": 7,
+    "promoter_companies": 2
+  },
+  "llm_cost": {
+    "in": 8119,
+    "out": 2571,
+    "cost_usd": 0.0089
+  },
+  "shareholders": [
+    {
+      "sn": 1,
+      "name": "गुडविल फाइनान्स लिमिटेड",
+      "address": "हात्तिसार, काठमाडौं",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 822857,
+      "share_percent": 11.04,
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
+    },
+    {
+      "sn": 2,
+      "name": "कुमारी बैंक लिमिटेड",
+      "address": "टंगाल, काठमाडौं",
+      "age": null,
+      "nationality": "नेपाली",
+      "education": null,
+      "shares": 530711,
+      "share_percent": 7.12,
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
+    }
+  ],
+  "directors": [
+    {
+      "sn": 1,
+      "name": "श्री लोक बहादुर खड्का",
+      "address": "टोखा-५, काठमाडौं",
+      "position": "अध्यक्ष",
+      "nationality": "नेपाली",
+      "shares": 32494,
+      "education": "स्नातकोत्तर",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "नेपाल राष्ट्र बैंक",
+          "role": "कार्यकारी निर्देशक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "केन्द्रीय बैंकिङ्ग",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "बैंकिङ्ग"
+      ]
+    },
+    {
+      "sn": 2,
+      "name": "श्री कपिल न्यौपाने",
+      "address": "ललितपुर म.न.पा.-२८, ललितपुर",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 16457,
+      "education": "स्नातक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सहकारी, गैर सहकारी संस्था र विकास परामर्श सेवा सम्बन्धी संस्थाहरु",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "सहकारी",
+        "विकास परामर्श"
+      ]
+    },
+    {
+      "sn": 3,
+      "name": "श्री कमल प्रसाद ज्ञवाली",
+      "address": "हसरा-७, गुल्मी",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 39074,
+      "education": "स्नातक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "नेपाल राष्ट्र बैंक",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "बैंकिङ्ग"
+      ]
+    },
+    {
+      "sn": 4,
+      "name": "श्री खेमराज सापकोटा",
+      "address": "गैंडाकोट-८, नवलपरासी",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 8229,
+      "education": "स्नातक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सहकारी, गैर सहकारी संस्था र अन्य सामाजिक संस्थाहरु",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "सहकारी",
+        "सामाजिक क्षेत्र"
+      ]
+    },
+    {
+      "sn": 5,
+      "name": "श्री संजीव ढकाल",
+      "address": "पुतलीबजार, स्याङ्जा",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 300,
+      "education": "चार्टर्ड एकाउन्टेन्ट",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "निजी व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "व्यवसाय"
+      ]
+    },
+    {
+      "sn": 6,
+      "name": "श्री उमेश घिमिरे",
+      "address": "तारकेश्वर-८, मनमैजु काठमाडौं",
+      "position": "संचालक",
+      "nationality": "नेपाली",
+      "shares": 183,
+      "education": "स्नातक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "निजी व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "व्यवसाय"
+      ]
+    },
+    {
+      "sn": 7,
+      "name": "श्री सृजना शर्मा (गौतम)",
+      "address": "का.म.न.पा.-३१, काठमाडौं",
+      "position": "स्वतन्त्र संचालक",
+      "nationality": "नेपाली",
+      "shares": null,
+      "education": "स्नातक",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "नेपाल राष्ट्र बैंक",
+          "role": "उप निर्देशक",
+          "from": null,
+          "to": null
+        }
+      ],
+      "experience_sectors": [
+        "बैंकिङ्ग"
+      ]
+    }
+  ],
+  "director_affiliations": [
+    {
+      "director_name": "श्री लोक बहादुर खड्का",
+      "director_address": "टोखा-५, काठमाडौं",
+      "affiliations": []
+    },
+    {
+      "director_name": "श्री कपिल न्यौपाने",
+      "director_address": "ललितपुर म.न.पा. वडा नं. २८, ललितपुर",
+      "affiliations": []
+    },
+    {
+      "director_name": "श्री कमल प्रसाद ज्ञवाली",
+      "director_address": "हसरा-७, गुल्मी",
+      "affiliations": []
+    },
+    {
+      "director_name": "श्री खेम राज सापकोटा",
+      "director_address": "गैंडाकोट नगरपालिका वडा नं. ८, नवलपरासी",
+      "affiliations": []
+    },
+    {
+      "director_name": "श्री संजीव ढकाल",
+      "director_address": "पुतलीबजार न.पा. १४, स्याङ्जा",
+      "affiliations": [
+        {
+          "company": "एस.डि.एण्ड एसोसिएट्स, चार्टर्ड एकाउन्टेन्ट्स",
+          "address": null,
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ]
+    },
+    {
+      "director_name": "श्री उमेश घिमिरे",
+      "director_address": "तारकेश्वर-८, मनमैजु, काठमाडौं",
+      "affiliations": []
+    },
+    {
+      "director_name": "श्री सृजना शर्मा (गौतम)",
+      "director_address": "का.म.न.पा.-३१, काठमाडौं",
+      "affiliations": []
+    }
+  ],
+  "promoter_companies": [
+    {
+      "sn": 1,
+      "company": "गुडविल फाइनान्स लिमिटेड",
+      "address": "हात्तिसार, काठमाडौं",
+      "profile": "गुडविल फाइनान्स लिमिटेड, प्रचलित कम्पनी ऐन बमोजिम मिति २०५१/०६/११ नेपाल सरकार, कम्पनी रजिष्ट्रारको कार्यालयमा पब्लिक लिमिटेडको रुपमा दर्ता भएको हो । नेपाल राष्ट्र बैंकबाट मिति २०५२/०१/२९ मा यस वित्तीय संस्थाले \"ग\" वर्गको वित्तीय संस्थाको इजाजत पत्र प्राप्त गरी मिति २०५२/०२/०२ देखि आफ्नो सेवा संचालन गर्दै आइरहेको छ ।",
+      "directors": [
+        {
+          "name": "श्री दिलीप कुमार मुनंकर्मी",
+          "address": "खरीपाटी, भक्तपुर"
+        },
+        {
+          "name": "श्री जेनी जोशी",
+          "address": "खुमलटार, ललितपुर"
+        },
+        {
+          "name": "श्री पशुपति भक्त श्रेष्ठ",
+          "address": "कुलेश्वर, काठमाडौं"
+        },
+        {
+          "name": "श्री उदयशोर श्रेष्ठ",
+          "address": "काठमाडौं"
+        },
+        {
+          "name": "प्रा. डा. सुशील भक्त माथेमा",
+          "address": "काठमाडौं"
+        }
+      ]
+    },
+    {
+      "sn": 2,
+      "company": "कुमारी बैंक लिमिटेड",
+      "address": "टंगाल, काठमाडौं",
+      "profile": "कुमारी बैंक लिमिटेड प्रचलित कम्पनी ऐन, २०५३ बमोजिम मिति २०५६/०८/२४ मा नेपाल सरकार, कम्पनी रजिष्ट्रारको कार्यालयमा पब्लिक लिमिटेडको रुपमा दर्ता भएको हो । तत्कालीन वाणिज्य बैंक ऐन, २०३१ अनुसार मिति २०५७/१२/१७ मा नेपाल राष्ट्र बैंकबाट वित्तीय कारोवार गर्न स्वीकृति प्राप्त गरी \"क\" वर्गको बैंकको हैसियतले २०५७ साल चैत्र २१ गतेदेखि आफ्नो वित्तीय कारोवार संचालन गर्दै आइरहेको छ ।",
+      "directors": [
+        {
+          "name": "श्री अमिर प्रताप जे.बि. राणा",
+          "address": "मैतीदेवी, काठमाडौं"
+        },
+        {
+          "name": "श्री पशुपति मुरारका",
+          "address": "थापाथली, काठमाडौं"
+        },
+        {
+          "name": "श्री महेश प्रसाद पोखरेल",
+          "address": "बुढानिलकण्ठ-१२, काठमाडौं"
+        },
+        {
+          "name": "श्री विजय कुमार श्रेष्ठ",
+          "address": "काठमाडौं"
+        },
+        {
+          "name": "श्री राजाराम खड्का",
+          "address": "काठमाडौं"
+        },
+        {
+          "name": "श्री सिमरन अग्रवाल",
+          "address": "काठमाडौं"
+        },
+        {
+          "name": "श्री विजय स्थापित",
+          "address": "का.म.न.पा. वडा नं. १६, पहिको टोल"
+        }
+      ]
+    }
+  ]
+}
