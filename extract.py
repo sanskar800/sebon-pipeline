@@ -147,12 +147,12 @@ SCHEMA_PROMPT = """This is a SEBON IPO prospectus (Nepali; legacy Devanagari fon
   "shareholders": [                  // table "आधारभूत शेयरधनीहरूको विवरण"
     {"sn": int, "name": str, "address": str|null, "age": int|null, "nationality": str,
      "education": str|null, "shares": int|null, "share_percent": number|null,
-     "experience": str|null, "experience_sectors": [str], "proposed_business": str|null}
+     "sector_experience": str|null, "other_experience": str|null, "experience_sectors": [str]}
   ],
   "directors": [                     // table "संचालकहरूको विवरण"
     {"sn": int, "name": str, "address": str|null, "position": str, "nationality": str,
-     "shares": int|null, "education": str|null, "experience": str|null,
-     "experience_sectors": [str], "proposed_business": str|null}
+     "shares": int|null, "education": str|null,
+     "sector_experience": str|null, "other_experience": str|null, "experience_sectors": [str]}
   ],
   "director_affiliations": [         // table "संचालकहरू अन्य कम्पनी/संस्थासँग आवद्ध ... संलग्नताको विवरण"
     {"director_name": str, "director_address": str|null,
@@ -164,6 +164,11 @@ SCHEMA_PROMPT = """This is a SEBON IPO prospectus (Nepali; legacy Devanagari fon
      "directors": [{"name": str, "address": str|null}]}
   ]
 }
+
+The shareholder/director tables have TWO experience columns — capture BOTH verbatim, do not merge or drop either:
+- sector_experience = experience in THIS company's own line of business (header like "अनुभव (सम्बन्धित) ... क्षेत्रमा" or "प्रस्तावित व्यापार/व्यवसायमा अनुभव").
+- other_experience = the person's other/general business experience (header like "अनुभव (अन्य)" or "अन्य कार्य अनुभव" or plain "अनुभव").
+experience_sectors = the distinct business sectors named across those columns.
 
 Rules: convert Devanagari digits to Arabic. Parse every row into its own object (each affiliation, each promoter-company director). Use null / [] for absent columns or "लागू नहुने". Output only rows that actually appear. Any table absent -> []."""
 
