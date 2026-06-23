@@ -3,7 +3,7 @@
   "source_title": "Appolo Hydropower Ltd. - General Public",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/04/08/aROXLsPJxWM0gEQxl4lt9Uiw4lL2bpgLtZxaXAox.pdf",
   "issue_date": "2026-04-08",
-  "extracted_at": "2026-06-22T10:44:21+00:00",
+  "extracted_at": "2026-06-23T07:42:46+00:00",
   "total_pages": 65,
   "table_pages": [
     19,
@@ -19,12 +19,13 @@
   "counts": {
     "shareholders": 29,
     "directors": 7,
-    "director_affiliations": 7
+    "director_affiliations": 7,
+    "promoter_companies": 6
   },
   "llm_cost": {
-    "in": 5176,
-    "out": 6629,
-    "cost_usd": 0.0181
+    "in": 5288,
+    "out": 8225,
+    "cost_usd": 0.0221
   },
   "shareholders": [
     {
@@ -104,8 +105,7 @@
       "share_percent": 3.49,
       "experience": "प्रबन्ध साझेदार स्टार अटो इन्टरप्राइजेज - बजाज मोटरसाइकलको डिलर, निर्देशक- स्टार अटो केयर प्रा.लि., निर्देशक- एमटी इन्डष्ट्रीज प्रा.लि, अध्यक्ष -पाली रियल इस्टेट प्रा.लि, अध्यक्ष- प्रवर्धन बहुउद्देश्यीय सहकारी लिमिटेड",
       "experience_sectors": [
-        "Automobile Dealership",
-        "Auto Care",
+        "Automobile",
         "Industries",
         "Real Estate",
         "Cooperative"
@@ -124,7 +124,7 @@
       "experience": "लेखा तथा विभिन्न हाइड्रोपावरमा परियोजनाको कार्य अनुभव, अध्यक्ष-ओजिल भेन्चर्स प्रा.लि.",
       "experience_sectors": [
         "Accounting",
-        "Hydropower Projects"
+        "Hydropower"
       ],
       "proposed_business": null
     },
@@ -156,7 +156,7 @@
     },
     {
       "sn": 9,
-      "name": "प्रिमियर सेक्यूरिटीज कम्पनी लि.",
+      "name": "प्रिमियर सेक्युरिटीज कम्पनी लि.",
       "address": "का.म.न.पा. २८, काठमाण्डौं",
       "age": null,
       "nationality": "लागू नहुने",
@@ -206,7 +206,8 @@
       "share_percent": 2.69,
       "experience": "कार्यकारी अध्यक्ष-नेपाल नेचर ट्रेक एण्ड टुर्स प्रा.लि., टुर लिडर-अल्की टुर्स",
       "experience_sectors": [
-        "Trekking & Tours"
+        "Tourism",
+        "Trekking"
       ],
       "proposed_business": null
     },
@@ -311,7 +312,7 @@
       "share_percent": 1.12,
       "experience": "शिक्षण क्षेत्र को कार्य अनुभव",
       "experience_sectors": [
-        "Teaching"
+        "Education/Teaching"
       ],
       "proposed_business": null
     },
@@ -321,13 +322,13 @@
       "address": "पोखरा महानगरपालिका ९",
       "age": 64,
       "nationality": "नेपाली",
-      "education": "बिए",
+      "education": "बि.ए",
       "shares": 50000,
       "share_percent": 1.52,
       "experience": "रियल स्टेट र जलविद्युत परियोजनामा कार्य अनुभव",
       "experience_sectors": [
         "Real Estate",
-        "Hydropower Projects"
+        "Hydropower"
       ],
       "proposed_business": null
     },
@@ -375,7 +376,7 @@
       "experience": "व्यापार व्यवसाय तथा नोकरी क्षेत्रको कार्य अनुभव",
       "experience_sectors": [
         "Business",
-        "Employment"
+        "Medical/Employment"
       ],
       "proposed_business": null
     },
@@ -400,7 +401,7 @@
       "address": "ललितपुर ५",
       "age": 33,
       "nationality": "नेपाली",
-      "education": "एम.बि.ए/आइ.ए",
+      "education": "एम.बि.ए/बि.एस.ए",
       "shares": 91750,
       "share_percent": 2.79,
       "experience": "नोकरी क्षेत्रको कार्य अनुभव",
@@ -418,9 +419,9 @@
       "education": "एम.बि.ए",
       "shares": 75000,
       "share_percent": 2.28,
-      "experience": "अध्यक्ष-प्रिमियर सेक्यूरिटीज कम्पनी लिमिटेड",
+      "experience": "अध्यक्ष-प्रिमियर सेक्युरिटीज कम्पनी लिमिटेड",
       "experience_sectors": [
-        "Securities"
+        "Securities/Finance"
       ],
       "proposed_business": null
     },
@@ -497,7 +498,8 @@
       "education": "बि.ए",
       "experience": "कार्यकारी अध्यक्ष-नेपाल नेचर ट्रेक एण्ड टुर्स प्रा.लि., टुर लिडर-अल्की टुर्स",
       "experience_sectors": [
-        "Trekking & Tours"
+        "Tourism",
+        "Trekking"
       ],
       "proposed_business": null
     },
@@ -512,9 +514,8 @@
       "experience": "सर्वेक्षण/डिजाइन इन्जिनियर-AG Power Company and DAT Engineering Consultancy P. Ltd., प्राविधिक अधिकारी- ग्रामीण ऊर्जा विकास कार्यक्रम (REDP/UNDP), प्राविधिक प्रबन्धक-एजी पावर कम्पनी प्रा.लि (२०१०-२०१२), कार्यकारी निर्देशक- एजी पावर कम्पनी प्रा. (२०१२-२०१६), परियोजना प्रबन्ध- सानो मिल्ती खोला जलविद्युत आयोजना लि. (२०१६-२०१७), प्राविधिक प्रबन्धक-एजी पावर कम्पनी प्रा. (२०१७-२०२०), Energy Advisor-Energizing Development (Endev)/ Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
       "experience_sectors": [
         "Engineering",
-        "Rural Energy",
-        "Hydropower Projects",
-        "Energy Advisory"
+        "Hydropower",
+        "Energy Consulting"
       ],
       "proposed_business": null
     },
@@ -558,8 +559,7 @@
       "education": "बि.ए",
       "experience": "प्रबन्ध साझेदार स्टार अटो इन्टरप्राइजेज - बजाज मोटरसाइकलको डिलर, निर्देशक- स्टार अटो केयर प्रा.लि., निर्देशक- एमटी इन्डष्ट्रीज प्रा.लि, अध्यक्ष -पाली रियल इस्टेट प्रा.लि, अध्यक्ष- प्रवर्धन बहुउद्देश्यीय सहकारी लिमिटेड",
       "experience_sectors": [
-        "Automobile Dealership",
-        "Auto Care",
+        "Automobile",
         "Industries",
         "Real Estate",
         "Cooperative"
@@ -618,7 +618,7 @@
           "to": null
         },
         {
-          "company": "अल्की टुर्स",
+          "company": "टुर लिडर-अल्की टुर्स",
           "address": null,
           "role": "टुर लिडर",
           "from": null,
@@ -633,7 +633,7 @@
         {
           "company": "AG Power Company and DAT Engineering Consultancy P Ltd",
           "address": null,
-          "role": "सर्वेक्षण/डिजाइन इन्जिनियर",
+          "role": "इन्जिनियर/परामर्शदाता",
           "from": null,
           "to": null
         },
@@ -648,12 +648,12 @@
     },
     {
       "director_name": "श्री रेनुका गुरुङ्ग",
-      "director_address": "क.म.न.पा १०, काठमाण्डौ",
+      "director_address": "क.म.न.पा १०, काठमाण्डौं",
       "affiliations": [
         {
           "company": "एस डेभलपमेन्ट हुडिङ प्रा.लि.",
           "address": null,
-          "role": "व्यापार",
+          "role": "व्यापारी/संचालक",
           "from": null,
           "to": null
         }
@@ -666,7 +666,7 @@
         {
           "company": "सुपरमादी हाइड्रोपावर लिमिटेड",
           "address": null,
-          "role": "संस्थापक शेयरधनी",
+          "role": "शेयरधनी",
           "from": null,
           "to": null
         }
@@ -708,7 +708,7 @@
     },
     {
       "director_name": "श्री डिल्ली बहादुर गुरुङ्ग",
-      "director_address": "केरुङ २ सोलुखुम्बु",
+      "director_address": "केरुङ २, सोलुखुम्बु",
       "affiliations": [
         {
           "company": "जलशक्ति हाइड्रो प्रा.लि.",
@@ -725,7 +725,7 @@
           "to": null
         },
         {
-          "company": "मालिङ्गो इन्टरनेशनल हाउसिङ कम्पनी प्रा.लि.",
+          "company": "मालिङ्गो इन्टरनेशनल हाउसिङ्ग कम्पनी प्रा.लि.",
           "address": null,
           "role": "निर्देशक",
           "from": null,
@@ -744,6 +744,168 @@
           "role": "निर्देशक",
           "from": null,
           "to": null
+        }
+      ]
+    }
+  ],
+  "promoter_companies": [
+    {
+      "sn": 1,
+      "company": "ओजिल भेन्चर्स प्रा.लि.",
+      "address": "का.म.पा. १६, काठमाडौँ",
+      "profile": "सम्बन्धित निकायबाट अनुमतिपत्र प्राप्त गरी लगानी तथा सेवा उपलब्ध गराउने उद्देश्यका साथ दर्ता कायम भई सञ्चालनमा रहेको छ ।",
+      "directors": [
+        {
+          "name": "श्री नारायण बाबु अधिकारी",
+          "address": "पालुङ्गटार ९ गोरखा"
+        },
+        {
+          "name": "श्री प्रमोद श्रेष्ठ",
+          "address": "अर्थुङ्गे २, म्याग्दी"
+        }
+      ]
+    },
+    {
+      "sn": 2,
+      "company": "सगरमाथा लुम्बिनी इन्स्योरेन्स कम्पनी लिमिटेड",
+      "address": "का.म.पा. ३१ काठमाडौँ",
+      "profile": "सम्बन्धित निकाय बाट अनुमतिपत्र प्राप्त गरी विभिन्न प्रकारका जिवन बिमा लगायतका बिमा सेवा उपलब्ध गराउने उद्देश्यका साथ दर्ता कायम भई सञ्चालनमा रहेको छ ।",
+      "directors": [
+        {
+          "name": "श्री मनोहर दास मूल",
+          "address": "थापाथली, काठमाडौँ"
+        },
+        {
+          "name": "श्री अजित आर.गुणवर्धन (सेलिङ्को इन्स्योरेन्स पि.एल.सि.)",
+          "address": "श्रीलंका"
+        },
+        {
+          "name": "श्री अरुणराज श्रेष्ठ",
+          "address": "वानेश्वर, काठमाडौँ"
+        },
+        {
+          "name": "श्री सिद्धार्थमणि राजभण्डारी",
+          "address": "धोविखोला, काठमाडौँ"
+        },
+        {
+          "name": "श्री गजेन्द्रलाल श्रेष्ठ",
+          "address": "ललितपुर"
+        },
+        {
+          "name": "श्री कमल भट्टराई",
+          "address": "वानेश्वर, काठमाडौँ"
+        },
+        {
+          "name": "सुश्री निर्मला देवी मानन्धर",
+          "address": "वाफल, काठमाडौँ"
+        }
+      ]
+    },
+    {
+      "sn": 3,
+      "company": "प्रिमियर सेक्युरिटीज कम्पनी लिमिटेड",
+      "address": "का.म.न.पा. २८, काठमाडौँ",
+      "profile": "कम्पनीले सम्बन्धित निकाय बाट अनुमतिपत्र प्राप्त गरी सेक्युरिटीज सम्बन्धी कारोवार गर्दै आएको छ ।",
+      "directors": [
+        {
+          "name": "श्री रविन्द्र प्रसाद न्हुछे प्रधान",
+          "address": "ललितपुर"
+        },
+        {
+          "name": "श्री बवा मैया जोशी प्रधान",
+          "address": "ललितपुर"
+        },
+        {
+          "name": "श्री सन्तोष मान श्रेष्ठ",
+          "address": "नरदेवि काठमाडौँ"
+        }
+      ]
+    },
+    {
+      "sn": 4,
+      "company": "मल्टीपर्पस फाइनान्स लिमिटेड",
+      "address": "राजविराज न.पा ४, सप्तरी",
+      "profile": "यस संगठित संस्थाले कम्पनी ऐन, २०६३ बमोजिम मिति २०५३/१०/१० गते नेपाल सरकार कम्पनी रजिष्ट्रारको कार्यालयमा दर्ता भै मिति २०५४/१२/१२ गते देखि वित्तीय कारोवार गर्न संचालन गर्दै आई रहेको छ ।",
+      "directors": [
+        {
+          "name": "श्री चन्दन अग्रवाल",
+          "address": "जनकपुर वडा नं.५"
+        },
+        {
+          "name": "श्री गेहनाथ ढुंगाना",
+          "address": "बुढानिलकण्ठ काठमाडौँ"
+        },
+        {
+          "name": "श्री जय प्रकाश ठाकुर",
+          "address": "कोचावखारी ३, सप्तरी"
+        },
+        {
+          "name": "श्री महेश कुमार सिंह",
+          "address": "जनकपुर वडा नं. २५"
+        },
+        {
+          "name": "श्री अशोक साह",
+          "address": "कर्जन्हा ६, सिरहा"
+        },
+        {
+          "name": "श्री गृष्मा श्रेष्ठ",
+          "address": "ललितपुर २०"
+        }
+      ]
+    },
+    {
+      "sn": 5,
+      "company": "जे.एफ. सेक्युरिटिज प्रा.लि.",
+      "address": "ललितपुर",
+      "profile": "यो कम्पनी सम्बन्धित निकाय बाट अनुमतिपत्र प्राप्त गरी लगानी तथा सेवा उपलब्ध गराउने उद्देश्यका साथ दर्ता कायम भई सञ्चालनमा रहेको छ ।",
+      "directors": [
+        {
+          "name": "श्री विजय जोशी",
+          "address": "सानेपा, ललितपुर"
+        },
+        {
+          "name": "श्री लोकेन्द्र प्रसाद नुछे प्रधान",
+          "address": "जवागाल, ललितपुर"
+        },
+        {
+          "name": "श्री नीलम श्रेष्ठ प्रधान",
+          "address": "जवागाल, ललितपुर"
+        }
+      ]
+    },
+    {
+      "sn": 6,
+      "company": "रेन्बो इन्भेष्टमेन्ट एण्ड प्रा.लि.",
+      "address": "काठमाडौँ",
+      "profile": "यो कम्पनी सम्बन्धित निकाय बाट अनुमतिपत्र प्राप्त गरी लगानी तथा सेवा उपलब्ध गराउने उद्देश्यका साथ दर्ता कायम भई सञ्चालनमा रहेको छ ।",
+      "directors": [
+        {
+          "name": "श्री सुमन मान ताम्राकार",
+          "address": "का.म.न.पा.११, काठमाडौँ"
+        },
+        {
+          "name": "श्री अनिल श्रेष्ठ",
+          "address": "का.म.न.पा.१२, काठमाडौँ"
+        },
+        {
+          "name": "श्री नारायण भक्त श्रेष्ठ",
+          "address": "भक्तपुर न.पा. १५"
+        },
+        {
+          "name": "श्री शिरिष नरसिंह शाक्य",
+          "address": "ललितपुर म.न.पा.१६"
+        },
+        {
+          "name": "श्री त्रिलोक नरसिंह शाक्य",
+          "address": "ललितपुर म.न.पा.१६"
+        },
+        {
+          "name": "श्री कृष्णलाल महर्जन",
+          "address": "ललितपुर म.न.पा.१५"
+        },
+        {
+          "name": "श्री रुजिल रत्न शाक्य",
+          "address": "का.म.न.पा. २२"
         }
       ]
     }

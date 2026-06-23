@@ -141,7 +141,7 @@ def slice_pdf(pdf_bytes, indices):
     return buf.getvalue()
 
 
-SCHEMA_PROMPT = """This is a SEBON IPO prospectus (Nepali; legacy Devanagari font — read it visually, transcribe to Unicode). The promoter/director section has THREE separate tables. Extract all three into this JSON object (and nothing else):
+SCHEMA_PROMPT = """This is a SEBON IPO prospectus (Nepali; legacy Devanagari font — read it visually, transcribe to Unicode). The promoter/director section has up to FOUR separate tables. Extract all that are present into this JSON object (and nothing else):
 
 {
   "shareholders": [                  // table "आधारभूत शेयरधनीहरूको विवरण"
@@ -158,10 +158,14 @@ SCHEMA_PROMPT = """This is a SEBON IPO prospectus (Nepali; legacy Devanagari fon
     {"director_name": str, "director_address": str|null,
      "affiliations": [{"company": str, "address": str|null, "role": str|null,
                        "from": str|null, "to": str|null}]}
+  ],
+  "promoter_companies": [            // table "संस्थापक कुनै कम्पनी/संस्था भएमा ... संक्षिप्त विवरण (Profile) र उक्त कम्पनी/संस्थाका संचालकहरुको नाम" — only when a promoter/shareholder is itself a company
+    {"sn": int, "company": str, "address": str|null, "profile": str|null,
+     "directors": [{"name": str, "address": str|null}]}
   ]
 }
 
-Rules: convert Devanagari digits to Arabic. Parse every affiliation row into its own object. Use null / [] for absent columns or "लागू नहुने". Output only rows that actually appear. Any table absent -> []."""
+Rules: convert Devanagari digits to Arabic. Parse every row into its own object (each affiliation, each promoter-company director). Use null / [] for absent columns or "लागू नहुने". Output only rows that actually appear. Any table absent -> []."""
 
 
 def gemini_extract(pdf_bytes, key, model):
@@ -211,7 +215,7 @@ def process(p, key, model):
         print(f"  PDF {len(pdf)//1024} KB, {total_pages} pages -> no Preeti text, "
               f"sending whole PDF to Gemini")
 
-    keys = ("shareholders", "directors", "director_affiliations")
+    keys = ("shareholders", "directors", "director_affiliations", "promoter_companies")
     # Gemini can transiently return [] even at temp 0 — retry before giving up.
     tables, usage = {k: [] for k in keys}, {"in": 0, "out": 0, "cost_usd": 0.0}
     for attempt in range(3):
@@ -238,7 +242,8 @@ def process(p, key, model):
     OUT.mkdir(exist_ok=True)
     (OUT / f"{slug}.json").write_text(json.dumps(result, ensure_ascii=False, indent=2))
     print(f"  shareholders {counts['shareholders']}, directors {counts['directors']}, "
-          f"affiliations {counts['director_affiliations']} | ${usage['cost_usd']}")
+          f"affiliations {counts['director_affiliations']}, "
+          f"promoter-cos {counts['promoter_companies']} | ${usage['cost_usd']}")
     print(f"Saved output/{slug}.json")
     return result
 
