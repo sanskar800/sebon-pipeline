@@ -98,7 +98,7 @@ def find_table_pages(pdf_bytes):
     """0-based pages of the founder section (all 3 tables span a contiguous block,
     not one page), or None if the PDF has no Preeti text (scanned/CID -> whole PDF)."""
     pages = pdfplumber.open(io.BytesIO(pdf_bytes)).pages
-    nat, sec, text_pages = [], [], 0
+    nat, sec, prof, text_pages = [], [], [], 0
     for pg in pages:
         raw = pg.extract_text() or ""
         if len(raw) > 80:
@@ -107,6 +107,7 @@ def find_table_pages(pdf_bytes):
         # one nationality cell per row — नेपाली for people, लागू नहुने for corporate promoters
         nat.append(uni.count("नेपाली") + uni.count("लागू नहुने"))
         sec.append(sum(uni.count(k) for k in FOUNDER_KW))
+        prof.append(1 if ("संक्षिप्त विवरण" in uni or "Profile" in uni) else 0)  # table 4
     if text_pages < len(pages) * 0.4:         # mostly scanned/CID -> Gemini reads whole PDF
         return None
     n = len(nat)
@@ -128,6 +129,13 @@ def find_table_pages(pdf_bytes):
         lo, hi = nlo, nhi
     if hi - lo + 1 > 14:                       # runaway (funds/debentures) -> bound it
         lo, hi = max(0, peak - 4), min(n - 1, peak + 9)
+    # table 4 (corporate-promoter profiles, "...संक्षिप्त विवरण (Profile)") has no
+    # nationality column and can run well past the section — extend over its profile pages.
+    while True:
+        nxt = max((j for j in range(hi + 1, min(n, hi + 16)) if prof[j]), default=hi)
+        if nxt == hi:
+            break
+        hi = nxt
     return list(range(lo, hi + 1))
 
 
