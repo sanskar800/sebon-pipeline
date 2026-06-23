@@ -147,12 +147,16 @@ SCHEMA_PROMPT = """This is a SEBON IPO prospectus (Nepali; legacy Devanagari fon
   "shareholders": [                  // table "आधारभूत शेयरधनीहरूको विवरण"
     {"sn": int, "name": str, "address": str|null, "age": int|null, "nationality": str,
      "education": str|null, "shares": int|null, "share_percent": number|null,
-     "sector_experience": str|null, "other_experience": str|null, "experience_sectors": [str]}
+     "sector_experience": [{"organization": str, "role": str|null, "from": str|null, "to": str|null}],
+     "other_experience": [{"organization": str, "role": str|null, "from": str|null, "to": str|null}],
+     "experience_sectors": [str]}
   ],
   "directors": [                     // table "संचालकहरूको विवरण"
     {"sn": int, "name": str, "address": str|null, "position": str, "nationality": str,
      "shares": int|null, "education": str|null,
-     "sector_experience": str|null, "other_experience": str|null, "experience_sectors": [str]}
+     "sector_experience": [{"organization": str, "role": str|null, "from": str|null, "to": str|null}],
+     "other_experience": [{"organization": str, "role": str|null, "from": str|null, "to": str|null}],
+     "experience_sectors": [str]}
   ],
   "director_affiliations": [         // table "संचालकहरू अन्य कम्पनी/संस्थासँग आवद्ध ... संलग्नताको विवरण"
     {"director_name": str, "director_address": str|null,
@@ -165,10 +169,11 @@ SCHEMA_PROMPT = """This is a SEBON IPO prospectus (Nepali; legacy Devanagari fon
   ]
 }
 
-The shareholder/director tables have TWO experience columns — capture BOTH verbatim, do not merge or drop either:
+The shareholder/director tables have TWO experience columns — capture BOTH, STRUCTURED (do not merge or drop either):
 - sector_experience = experience in THIS company's own line of business (header like "अनुभव (सम्बन्धित) ... क्षेत्रमा" or "प्रस्तावित व्यापार/व्यवसायमा अनुभव").
 - other_experience = the person's other/general business experience (header like "अनुभव (अन्य)" or "अन्य कार्य अनुभव" or plain "अनुभव").
-experience_sectors = the distinct business sectors named across those columns.
+Each column is a list of involvements: split it on ; or newlines and parse every entry "<संस्था/company> मा <role/पद> को रुपमा अनुभव (<from> देखि <to> सम्म)" into {organization, role, from, to}. from/to are B.S. dates exactly as written, "हाल" for present, else null. If a cell is just narrative text with no company, return one object with organization=the text and role/from/to=null.
+experience_sectors = the distinct business sectors named across those columns (e.g. जलविद्युत, कृषि, बीमा).
 
 Rules: convert Devanagari digits to Arabic. Parse every row into its own object (each affiliation, each promoter-company director). Use null / [] for absent columns or "लागू नहुने". Output only rows that actually appear. Any table absent -> []."""
 

@@ -3,7 +3,7 @@
   "source_title": "Mount Everest Power Development Ltd.-General Public",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/06/16/WicgS8KOeySMCFtrtKJvZkpe5BDS1K6ivNOXama5.pdf",
   "issue_date": "2026-06-16",
-  "extracted_at": "2026-06-23T07:57:26+00:00",
+  "extracted_at": "2026-06-23T08:12:04+00:00",
   "total_pages": 57,
   "table_pages": [
     12,
@@ -28,9 +28,9 @@
     "promoter_companies": 0
   },
   "llm_cost": {
-    "in": 8068,
-    "out": 2890,
-    "cost_usd": 0.0096
+    "in": 8287,
+    "out": 3301,
+    "cost_usd": 0.0107
   },
   "shareholders": [
     {
@@ -42,8 +42,15 @@
       "education": "निर्माण व्यवस्थापनमा स्नातकोत्तर",
       "shares": 2628645,
       "share_percent": 43.67,
-      "sector_experience": "करिव २५ वर्ष जलविद्युत आयोजनाको अध्ययन, निर्माण तथा संचालनको अनुभव",
-      "other_experience": null,
+      "sector_experience": [
+        {
+          "organization": "जलविद्युत आयोजनाको अध्ययन, निर्माण तथा संचालन",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
       "experience_sectors": [
         "जलविद्युत"
       ]
@@ -52,28 +59,42 @@
       "sn": 2,
       "name": "श्री विद्यालक्ष्मी लामिछाने",
       "address": "पोखरा- २६, कास्की",
-      "age": 48,
+      "age": 54,
       "nationality": "नेपाली",
       "education": "मानवशास्त्रमा स्नातकोत्तर",
       "shares": 1637350,
       "share_percent": 27.2,
-      "sector_experience": "करिव १० वर्ष जलविद्युत आयोजनाको निर्माण तथा संचालन अनुभव",
-      "other_experience": null,
+      "sector_experience": [
+        {
+          "organization": "जलविद्युत आयोजनाको निर्माण तथा संचालन",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
       "experience_sectors": [
         "जलविद्युत"
       ]
     },
     {
       "sn": 3,
-      "name": "श्री शुशिलमणी लामिछाने",
+      "name": "श्री शुशिलमणि लामिछाने",
       "address": "पोखरा लेखनाथ- २६, कास्की",
       "age": 47,
       "nationality": "नेपाली",
       "education": "व्यवस्थापनमा स्नातकोत्तर",
       "shares": 270000,
       "share_percent": 4.49,
-      "sector_experience": null,
-      "other_experience": "करिव १० वर्ष बैकिङ्ग क्षेत्रमा अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "बैकिङ्ग क्षेत्र",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "बैकिङ्ग"
       ]
@@ -87,8 +108,15 @@
       "education": "स्नातक (B.E. Civil)",
       "shares": 265000,
       "share_percent": 4.4,
-      "sector_experience": "करिव २ वर्ष जलविद्युत आयोजनाको निर्माण तथा संचालनको अनुभव",
-      "other_experience": null,
+      "sector_experience": [
+        {
+          "organization": "जलविद्युत आयोजनाको निर्माण तथा संचालन",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
       "experience_sectors": [
         "जलविद्युत"
       ]
@@ -102,8 +130,15 @@
       "education": "अध्ययनरत",
       "shares": 265000,
       "share_percent": 4.4,
-      "sector_experience": null,
-      "other_experience": "अध्ययनरत",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "अध्ययनरत",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": []
     },
     {
@@ -115,8 +150,15 @@
       "education": "स्नातक तह अध्ययनरत",
       "shares": 265000,
       "share_percent": 4.4,
-      "sector_experience": null,
-      "other_experience": "अध्ययनरत",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "अध्ययनरत",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": []
     },
     {
@@ -128,8 +170,15 @@
       "education": "स्नातक (B.A.)",
       "shares": 80000,
       "share_percent": 1.33,
-      "sector_experience": "करिव ५ वर्ष जलविद्युत आयोजनाको निर्माण तथा संचालनको अनुभव",
-      "other_experience": null,
+      "sector_experience": [
+        {
+          "organization": "जलविद्युत आयाजनाको निर्माण तथा संचालन",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
       "experience_sectors": [
         "जलविद्युत"
       ]
@@ -137,14 +186,21 @@
     {
       "sn": 8,
       "name": "श्री दुर्गा अधिकारी",
-      "address": "थासिङ-०९, नुवाकोट",
+      "address": "थाम्सिङ-०९, नुवाकोट",
       "age": 62,
       "nationality": "नेपाली",
       "education": "साक्षरता",
       "shares": 70000,
       "share_percent": 1.16,
-      "sector_experience": null,
-      "other_experience": "कृषि पेशामा कार्य अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "कृषि पेशा",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "कृषि"
       ]
@@ -159,8 +215,15 @@
       "nationality": "नेपाली",
       "shares": 2628645,
       "education": "निर्माण व्यवस्थापनमा स्नातकोत्तर",
-      "sector_experience": "करिव २५ वर्ष जलविद्युत आयोजनाको अध्ययन, निर्माण तथा संचालन",
-      "other_experience": null,
+      "sector_experience": [
+        {
+          "organization": "जलविद्युत आयोजनाको अध्ययन, निर्माण तथा संचालन",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
       "experience_sectors": [
         "जलविद्युत"
       ]
@@ -173,8 +236,15 @@
       "nationality": "नेपाली",
       "shares": 1637350,
       "education": "मानवशास्त्रमा स्नातकोत्तर",
-      "sector_experience": "करिव १० वर्ष जलविद्युत आयोजनाको निर्माण तथा संचालन",
-      "other_experience": null,
+      "sector_experience": [
+        {
+          "organization": "जलविद्युत आयोजनाको निर्माण तथा संचालन",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
       "experience_sectors": [
         "जलविद्युत"
       ]
@@ -187,8 +257,15 @@
       "nationality": "नेपाली",
       "shares": 265000,
       "education": "स्नातक (B.E. Civil)",
-      "sector_experience": "करिव २ वर्ष जलविद्युत आयोजनाको निर्माण तथा संचालनको अनुभव",
-      "other_experience": null,
+      "sector_experience": [
+        {
+          "organization": "जलविद्युत आयोजनाको निर्माण तथा संचालन",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
+      "other_experience": [],
       "experience_sectors": [
         "जलविद्युत"
       ]
@@ -201,11 +278,16 @@
       "nationality": "नेपाली",
       "shares": 80000,
       "education": "स्नातक (B.A.)",
-      "sector_experience": null,
-      "other_experience": "सामाजिक सेवा, वैदेशिक रोजगारी तथा रियल स्टेट व्यवसाय",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सामाजिक सेवा, वैदेशिक रोजगारी तथा रियल स्टेट व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
-        "सामाजिक सेवा",
-        "वैदेशिक रोजगारी",
         "रियल स्टेट"
       ]
     }
@@ -264,7 +346,7 @@
           "to": null
         },
         {
-          "company": "एक्सेस कन्स्ट्रक्शन प्रा.लि.",
+          "company": "एक्सेस कन्स्ट्रक्सन प्रा.लि.",
           "address": "ललितपुर महानगरपालिका वडा नं १५, महालक्ष्मीस्थान, ललितपुर",
           "role": "प्रबन्ध निर्देशक",
           "from": null,

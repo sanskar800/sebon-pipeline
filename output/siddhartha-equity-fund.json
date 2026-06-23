@@ -3,7 +3,7 @@
   "source_title": "Siddhartha Equity Fund-2-Mutual Fund",
   "prospectus_url": "https://sebon.gov.np/uploads/2026/04/30/AT7AmZzN4Iz8ZAF1ga4uQM1b6mmXUf2HFHNpf4YY.pdf",
   "issue_date": "2026-04-30",
-  "extracted_at": "2026-06-22T10:41:46+00:00",
+  "extracted_at": "2026-06-23T08:11:04+00:00",
   "total_pages": 54,
   "table_pages": [
     19,
@@ -19,12 +19,13 @@
   "counts": {
     "shareholders": 44,
     "directors": 5,
-    "director_affiliations": 3
+    "director_affiliations": 3,
+    "promoter_companies": 2
   },
   "llm_cost": {
-    "in": 5248,
-    "out": 7678,
-    "cost_usd": 0.0208
+    "in": 5699,
+    "out": 9802,
+    "cost_usd": 0.0262
   },
   "shareholders": [
     {
@@ -36,27 +37,32 @@
       "education": "लागू नहुने",
       "shares": 1020000,
       "share_percent": 51.0,
-      "experience": "लागू नहुने",
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     },
     {
       "sn": 2,
-      "name": "श्री सुवोध तोदी",
+      "name": "श्री सुवोध तोडी",
       "address": "विराटनगर-४, मोरङ्ग",
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 100000,
       "share_percent": 5.0,
-      "experience": "मेटल, इलेक्ट्रोनिक सामान सम्बन्धि व्यापार, बैंकिङ्ग व्यवसाय",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "मेटल, इलेक्ट्रोनिक सामान सम्बन्धि व्यापार, बैंकिङ्ग व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
-        "मेटल",
-        "इलेक्ट्रोनिक सामान",
         "व्यापार",
         "बैंकिङ्ग"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 3,
@@ -67,13 +73,18 @@
       "education": "स्नातकोत्तर",
       "shares": 48000,
       "share_percent": 2.4,
-      "experience": "कार्पेट सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "कार्पेट",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "कार्पेट सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 4,
@@ -84,13 +95,19 @@
       "education": "स्नातक",
       "shares": 50000,
       "share_percent": 2.5,
-      "experience": "विभिन्न संस्थामा लगानी, बैंकिङ्गमा लगानी साथै अन्य व्यवसाय",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "विभिन्न संस्थामा लगानी, बैंकिङ्गमा लगानी साथै अन्य व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "लगानी",
-        "बैंकिङ्ग",
-        "व्यवसाय"
-      ],
-      "proposed_business": null
+        "बैंकिङ्ग"
+      ]
     },
     {
       "sn": 5,
@@ -101,31 +118,42 @@
       "education": "स्नातक",
       "shares": 50000,
       "share_percent": 2.5,
-      "experience": "कार्पेट सम्बन्धि व्यापार, बैंकिङ्ग व्यवसाय",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "कार्पेट सम्बन्धि व्यापार, बैंकिङ्ग व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
-        "कार्पेट",
         "व्यापार",
         "बैंकिङ्ग"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 6,
-      "name": "श्री तुषार तोदी",
+      "name": "श्री तुषार तोडी",
       "address": "काठमाण्डौ-३१, काठमाण्डौ",
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 50000,
       "share_percent": 2.5,
-      "experience": "मेटल, इलेक्ट्रोनिक सामान सम्बन्धि व्यापार, बैंकिङ्ग व्यवसाय",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "मेटल, इलेक्ट्रोनिक सामान सम्बन्धि व्यापार, बैंकिङ्ग व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
-        "मेटल",
-        "इलेक्ट्रोनिक सामान",
         "व्यापार",
         "बैंकिङ्ग"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 7,
@@ -136,33 +164,42 @@
       "education": "स्नातक",
       "shares": 50000,
       "share_percent": 2.5,
-      "experience": "सिमेन्ट, पेपर सम्बन्धि व्यापार, बैंकिङ्ग व्यवसाय",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, पेपर सम्बन्धि व्यापार, बैंकिङ्ग व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
-        "सिमेन्ट",
-        "पेपर",
         "व्यापार",
         "बैंकिङ्ग"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 8,
-      "name": "श्री भरतकुमार तोदी",
+      "name": "श्री भरतकुमार तोडी",
       "address": "विराटनगर-४, मोरङ्ग",
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 50000,
       "share_percent": 2.5,
-      "experience": "सिमेन्ट, पेपर, बैंकिङ्ग सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "पेपर",
-        "बैंकिङ्ग",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, पेपर, बैंकिङ्ग सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार",
+        "बैंकिङ्ग"
+      ]
     },
     {
       "sn": 9,
@@ -173,14 +210,18 @@
       "education": "प्र.प्र.प तह",
       "shares": 50000,
       "share_percent": 2.5,
-      "experience": "सिमेन्ट, पेपर सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "पेपर",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, पेपर सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 10,
@@ -191,15 +232,19 @@
       "education": "स्नातकोत्तर",
       "shares": 40000,
       "share_percent": 2.0,
-      "experience": "सिमेन्ट, पेपर, बैंकिङ्ग सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "पेपर",
-        "बैंकिङ्ग",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, पेपर, बैंकिङ्ग सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार",
+        "बैंकिङ्ग"
+      ]
     },
     {
       "sn": 11,
@@ -210,16 +255,21 @@
       "education": "स्नातक",
       "shares": 40000,
       "share_percent": 2.0,
-      "experience": "सिमेन्ट, इन्स्योरेन्स, रियल स्टेट, खाद्य उद्योग सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "इन्स्योरेन्स",
-        "रियल स्टेट",
-        "खाद्य उद्योग",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, इन्स्योरेन्स, रियल स्टेट, खाद्य उद्योग सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार",
+        "बीमा",
+        "रियल स्टेट",
+        "उद्योग"
+      ]
     },
     {
       "sn": 12,
@@ -230,19 +280,21 @@
       "education": "प्र.प्र.प तह",
       "shares": 30120,
       "share_percent": 1.51,
-      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल, रियल स्टेट, इन्स्योरेन्स, बैंकिङ्ग सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "डेरी",
-        "कार्पेट",
-        "ट्राभल",
-        "रियल स्टेट",
-        "इन्स्योरेन्स",
-        "बैंकिङ्ग",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, डेरी, कार्पेट, ट्राभल, रियल स्टेट, इन्स्योरेन्स, बैंकिङ्ग सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार",
+        "रियल स्टेट",
+        "बीमा",
+        "बैंकिङ्ग"
+      ]
     },
     {
       "sn": 13,
@@ -253,11 +305,18 @@
       "education": "स्नातक",
       "shares": 27690,
       "share_percent": 1.38,
-      "experience": "चिकित्सा पेशा",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "चिकित्सा पेशा",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "चिकित्सा"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 14,
@@ -268,14 +327,19 @@
       "education": "स्नातकोत्तर",
       "shares": 27690,
       "share_percent": 1.38,
-      "experience": "डेरी तथा खाद्य उद्योग सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "डेरी",
-        "खाद्य उद्योग",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "डेरी तथा खाद्य उद्योग सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "उद्योग",
+        "व्यापार"
+      ]
     },
     {
       "sn": 15,
@@ -286,36 +350,40 @@
       "education": "स्नातकोत्तर",
       "shares": 27690,
       "share_percent": 1.38,
-      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "डेरी",
-        "कार्पेट",
-        "ट्राभल",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 16,
-      "name": "श्री रतनलाल केडिया",
+      "name": "श्री रटनलाल केडिया",
       "address": "वीरगञ्ज-७, अलैखिया रोड",
       "age": null,
       "nationality": "नेपाली",
       "education": "स्नातक",
       "shares": 27690,
       "share_percent": 1.38,
-      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "डेरी",
-        "कार्पेट",
-        "ट्राभल",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 17,
@@ -326,16 +394,18 @@
       "education": "स्नातक",
       "shares": 27690,
       "share_percent": 1.38,
-      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "डेरी",
-        "कार्पेट",
-        "ट्राभल",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 18,
@@ -346,16 +416,18 @@
       "education": "स्नातक",
       "shares": 20760,
       "share_percent": 1.04,
-      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "डेरी",
-        "कार्पेट",
-        "ट्राभल",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 19,
@@ -366,26 +438,40 @@
       "education": "स्नातक",
       "shares": 20760,
       "share_percent": 1.04,
-      "experience": "शैक्षिक संस्थासँग सम्बद्ध",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "शैक्षिक संस्थासँग सम्बद्ध",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "शिक्षा"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 20,
       "name": "श्री केडिया इन्भेष्टमेन्ट कर्पोरेशन प्रा. लि.",
       "address": "काठमाण्डौ-१३, काठमाण्डौ",
       "age": null,
-      "nationality": null,
+      "nationality": "नेपाली",
       "education": "लागू नहुने",
       "shares": 20000,
       "share_percent": 1.0,
-      "experience": "संस्था स्थापनामा लगानी गर्ने",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "संस्था स्थापनामा लगानी गर्ने",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "लगानी"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 21,
@@ -396,14 +482,18 @@
       "education": "स्नातक",
       "shares": 20000,
       "share_percent": 1.0,
-      "experience": "सिमेन्ट, पेपर सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "पेपर",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, पेपर सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 22,
@@ -414,13 +504,19 @@
       "education": "स्नातकोत्तर",
       "shares": 16000,
       "share_percent": 0.8,
-      "experience": "निजामति सेवा, परराष्ट्र मामला तथा बैंकिङ्ग",
-      "experience_sectors": [
-        "निजामति सेवा",
-        "परराष्ट्र",
-        "बैंकिङ्ग"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "निजामति सेवा, परराष्ट्र मामला तथा बैंकिङ्ग",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "सरकारी सेवा",
+        "बैंकिङ्ग"
+      ]
     },
     {
       "sn": 23,
@@ -431,16 +527,18 @@
       "education": "प्र.प्र.प तह",
       "shares": 15060,
       "share_percent": 0.75,
-      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "डेरी",
-        "कार्पेट",
-        "ट्राभल",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 24,
@@ -451,16 +549,18 @@
       "education": "स्नातक",
       "shares": 15060,
       "share_percent": 0.75,
-      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "डेरी",
-        "कार्पेट",
-        "ट्राभल",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 25,
@@ -471,16 +571,18 @@
       "education": "स्नातक",
       "shares": 15060,
       "share_percent": 0.75,
-      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "डेरी",
-        "कार्पेट",
-        "ट्राभल",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 26,
@@ -491,14 +593,18 @@
       "education": "स्नातक, सि.ए.",
       "shares": 12510,
       "share_percent": 0.63,
-      "experience": "सिमेन्ट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "ट्राभल",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 27,
@@ -509,16 +615,18 @@
       "education": "स्नातक",
       "shares": 12450,
       "share_percent": 0.62,
-      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "डेरी",
-        "कार्पेट",
-        "ट्राभल",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 28,
@@ -529,16 +637,18 @@
       "education": "प्र.प्र.प तह",
       "shares": 12450,
       "share_percent": 0.62,
-      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "डेरी",
-        "कार्पेट",
-        "ट्राभल",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 29,
@@ -549,16 +659,18 @@
       "education": "प्र.प्र.प तह",
       "shares": 12450,
       "share_percent": 0.62,
-      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "डेरी",
-        "कार्पेट",
-        "ट्राभल",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 30,
@@ -569,12 +681,19 @@
       "education": "स्नातक",
       "shares": 10000,
       "share_percent": 0.5,
-      "experience": "विभिन्न संस्थामा लगानी, बैंकिङ्गमा लगानी आदी",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "विभिन्न संस्थामा लगानी, बैंकिङ्गमा लगानी आदी",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "लगानी",
         "बैंकिङ्ग"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 31,
@@ -585,15 +704,18 @@
       "education": "आठ कक्षा",
       "shares": 10000,
       "share_percent": 0.5,
-      "experience": "स्टील, खाद्य सामाग्री, औद्योगिक कच्चा पदार्थ सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "स्टील",
-        "खाद्य सामाग्री",
-        "औद्योगिक कच्चा पदार्थ",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "स्टील, खाद्य सामाग्री, औद्योगिक कच्चा पदार्थ सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 32,
@@ -604,14 +726,18 @@
       "education": "स्नातक",
       "shares": 10000,
       "share_percent": 0.5,
-      "experience": "मसला, खाद्य पदार्थ, औद्योगिक कच्चा पदार्थ सम्बन्धि व्यवसाय",
-      "experience_sectors": [
-        "मसला",
-        "खाद्य पदार्थ",
-        "औद्योगिक कच्चा पदार्थ",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "मसला, खाद्य पदार्थ, औद्योगिक कच्चा पदार्थ सम्बन्धि व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 33,
@@ -622,14 +748,18 @@
       "education": "स्नातक",
       "shares": 10000,
       "share_percent": 0.5,
-      "experience": "मसला, खाद्य पदार्थ, औद्योगिक कच्चा पदार्थ सम्बन्धि व्यवसाय",
-      "experience_sectors": [
-        "मसला",
-        "खाद्य पदार्थ",
-        "औद्योगिक कच्चा पदार्थ",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "मसला, खाद्य पदार्थ, औद्योगिक कच्चा पदार्थ सम्बन्धि व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 34,
@@ -640,11 +770,18 @@
       "education": "स्नातक",
       "shares": 10000,
       "share_percent": 0.5,
-      "experience": "शैक्षिक क्षेत्रमा संलग्न",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "शैक्षिक क्षेत्रमा संलग्न",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "शिक्षा"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 35,
@@ -655,16 +792,18 @@
       "education": "एस एल सी",
       "shares": 6390,
       "share_percent": 0.32,
-      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "डेरी",
-        "कार्पेट",
-        "ट्राभल",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 36,
@@ -675,16 +814,18 @@
       "education": "स्नातक",
       "shares": 6390,
       "share_percent": 0.32,
-      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "डेरी",
-        "कार्पेट",
-        "ट्राभल",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 37,
@@ -695,16 +836,18 @@
       "education": "स्नातक",
       "shares": 6090,
       "share_percent": 0.3,
-      "experience": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "डेरी",
-        "कार्पेट",
-        "ट्राभल",
-        "व्यापार",
-        "व्यवसाय"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट, डेरी, कार्पेट, ट्राभल सम्बन्धि व्यापार व्यवसाय",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 38,
@@ -715,11 +858,18 @@
       "education": "स्नातकोत्तर",
       "shares": 6000,
       "share_percent": 0.3,
-      "experience": "बैंकिङ्ग क्षेत्रको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "बैंकिङ्ग क्षेत्रको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "बैंकिङ्ग"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 39,
@@ -730,11 +880,18 @@
       "education": "प्र.प्र.प तह",
       "shares": 4000,
       "share_percent": 0.2,
-      "experience": "नोकरी",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "नोकरी",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "नोकरी"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 40,
@@ -745,11 +902,18 @@
       "education": "स्नातकोत्तर",
       "shares": 4000,
       "share_percent": 0.2,
-      "experience": "बैंकिङ्ग क्षेत्रको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "बैंकिङ्ग क्षेत्रको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "बैंकिङ्ग"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 41,
@@ -760,11 +924,18 @@
       "education": "स्नातकोत्तर",
       "shares": 4000,
       "share_percent": 0.2,
-      "experience": "बैंकिङ्ग क्षेत्रको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "बैंकिङ्ग क्षेत्रको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "बैंकिङ्ग"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 42,
@@ -775,11 +946,18 @@
       "education": "स्नातकोत्तर",
       "shares": 2000,
       "share_percent": 0.1,
-      "experience": "बैंकिङ्ग क्षेत्रको अनुभव",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "बैंकिङ्ग क्षेत्रको अनुभव",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "बैंकिङ्ग"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 43,
@@ -790,11 +968,18 @@
       "education": "स्नातकोत्तर",
       "shares": 1000,
       "share_percent": 0.1,
-      "experience": "एसोसिएट डाइरेक्टर पेष्ट्रिज कार्पेट",
-      "experience_sectors": [
-        "कार्पेट"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "एसोसिएट डाइरेक्टर पेष्ट्रिज कार्पेट",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "व्यापार"
+      ]
     },
     {
       "sn": 44,
@@ -805,9 +990,9 @@
       "education": "स्नातक",
       "shares": 1000,
       "share_percent": 0.1,
-      "experience": null,
-      "experience_sectors": [],
-      "proposed_business": null
+      "sector_experience": [],
+      "other_experience": [],
+      "experience_sectors": []
     }
   ],
   "directors": [
@@ -819,28 +1004,66 @@
       "nationality": "नेपाली",
       "shares": null,
       "education": "स्नातक, सि.ए.",
-      "experience": "सिमेन्ट तथा ट्राभल एण्ड टुर्स व्यवसायमा १३ वर्ष भन्दा बढीको अनुभव । अर्घाखाँची सिमेन्ट प्रा. लि. तथा बृज सिमेन्ट प्रा. लि., संचालकको रुपमा आवद्ध भइरहेको अनुभव ।",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "सिमेन्ट तथा ट्राभल एण्ड टुर व्यवसाय",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "अर्घाखाँची सिमेन्ट प्रा. लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "बृज सिमेन्ट प्रा. लि.",
+          "role": "संचालक",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "सिमेन्ट",
-        "ट्राभल",
-        "टुर्स"
-      ],
-      "proposed_business": null
+        "पर्यटन"
+      ]
     },
     {
       "sn": 2,
-      "name": "श्री वरुण कुमार तोदी",
+      "name": "श्री वरुण कुमार तोडी",
       "address": "विराटनगर, मोरङ्ग",
       "position": "संचालक",
       "nationality": "नेपाली",
       "shares": null,
       "education": "ए.सि.ए., स्नातक",
-      "experience": "U.K. स्थित PricewaterhouseCoopers LLP मा ३ वर्षको अनुभव, रिलाईन्स सुपरटेक सिमेन्टमा तथा रिलाईन्स पेपर मिल्समा अनुभव ।",
-      "experience_sectors": [
-        "सिमेन्ट",
-        "पेपर"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "PricewaterhouseCoopers LLP, U.K.",
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "रिलाईन्स सुपरटेक सिमेन्ट",
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "रिलाईन्स पेपर मिल्स",
+          "role": null,
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "लेखापरीक्षण",
+        "सिमेन्ट",
+        "कागज"
+      ]
     },
     {
       "sn": 3,
@@ -850,11 +1073,30 @@
       "nationality": "नेपाली",
       "shares": null,
       "education": "एम.बि.एस.",
-      "experience": "नबिल बैंक लि.मा ९ वर्ष, ग्लोबल आईएमई बैंक लि.मा ७ वर्ष र सिद्धार्थ बैंक लि.मा विगत ९ वर्षदेखि हालसम्म गरी बैंकिङ्ग क्षेत्रमा कुल २५ वर्षको अनुभव ।",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "नबिल बैंक लि.",
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "ग्लोवल आईएमई बैंक लि.",
+          "role": null,
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "सिद्धार्थ बैंक लि.",
+          "role": null,
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "बैंकिङ्ग"
-      ],
-      "proposed_business": null
+      ]
     },
     {
       "sn": 4,
@@ -864,12 +1106,24 @@
       "nationality": "नेपाली",
       "shares": null,
       "education": "एम.बि.ए.",
-      "experience": "वित्त शास्त्रको अध्यापन कार्यमा २५ वर्ष भन्दा बढीको अनुभव, वित्त शास्त्रसँग सम्बन्धीत विभिन्न पुस्तक लेखन तथा प्रकाशन । विगत १९ वर्ष देखि शंकर देव क्याम्पसमा आवद्ध ।",
-      "experience_sectors": [
-        "शिक्षा",
-        "वित्त शास्त्र"
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "वित्त शास्त्रको अध्यापन कार्य",
+          "role": "प्राध्यापक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "शंकर देव क्याम्पस",
+          "role": "प्राध्यापक",
+          "from": null,
+          "to": null
+        }
       ],
-      "proposed_business": null
+      "experience_sectors": [
+        "शिक्षा"
+      ]
     },
     {
       "sn": 5,
@@ -879,11 +1133,24 @@
       "nationality": "नेपाली",
       "shares": null,
       "education": "एमफिल",
-      "experience": "प्राध्यापन क्षेत्रमा २२ वर्ष भन्दा बढीको कार्यानुभव । विगत १६ वर्ष देखि शंकर देव क्याम्पसमा आवद्ध ।",
+      "sector_experience": [],
+      "other_experience": [
+        {
+          "organization": "प्राध्यापन क्षेत्र",
+          "role": "प्राध्यापक",
+          "from": null,
+          "to": null
+        },
+        {
+          "organization": "शंकर देव क्याम्पस",
+          "role": "प्राध्यापक",
+          "from": null,
+          "to": null
+        }
+      ],
       "experience_sectors": [
         "शिक्षा"
-      ],
-      "proposed_business": null
+      ]
     }
   ],
   "director_affiliations": [
@@ -901,11 +1168,11 @@
       ]
     },
     {
-      "director_name": "श्री वरुण कुमार तोदी",
+      "director_name": "श्री वरुण कुमार तोडी",
       "director_address": null,
       "affiliations": [
         {
-          "company": "रिलाईन्स पेपर मिल्स् प्रा. लि.",
+          "company": "रिलाईन्स पेपर मिल्स प्रा. लि.",
           "address": "भैरहवा",
           "role": "संचालक",
           "from": null,
@@ -923,6 +1190,56 @@
           "role": "चिफ मार्केटिङ्ग अफिसर",
           "from": null,
           "to": null
+        }
+      ]
+    }
+  ],
+  "promoter_companies": [
+    {
+      "sn": 1,
+      "company": "श्री सिद्धार्थ बैंक लिमिटेड",
+      "address": null,
+      "profile": "बैंकिङ्ग व्यवसाय",
+      "directors": [
+        {
+          "name": "श्री राहुल अग्रवाल",
+          "address": "काठमाण्डौ-९, धोवीखोला, काठमाण्डौ"
+        },
+        {
+          "name": "श्री दिनेश शंकर पालिखे",
+          "address": "पोखरा ९, पालिखेचोक, कास्की"
+        },
+        {
+          "name": "श्री वीरेन्द्र कुमार शाह",
+          "address": "वीरगञ्ज-१५, पर्सा"
+        },
+        {
+          "name": "श्री अंकित केडिया",
+          "address": "वीरगञ्ज-७, पर्सा"
+        },
+        {
+          "name": "श्री भोजन अर्याल",
+          "address": "चापाकोट-१०, स्याङ्जा"
+        },
+        {
+          "name": "श्रीमती कमला वाग्ले",
+          "address": "काठमाण्डौ-२६, लैनचौर, काठमाण्डौ"
+        }
+      ]
+    },
+    {
+      "sn": 2,
+      "company": "श्री केडिया इन्भेष्टमेन्ट कर्पोरेशन प्रा. लि.",
+      "address": null,
+      "profile": "लगानी, उद्योग, व्यापार",
+      "directors": [
+        {
+          "name": "श्री मनोज केडिया",
+          "address": "वीरगञ्ज-७, अलैखिया रोड"
+        },
+        {
+          "name": "श्रीमती सविता केडिया",
+          "address": "वीरगञ्ज-७, अलैखिया रोड"
         }
       ]
     }
