@@ -81,3 +81,39 @@ array (the table position varies, hence `table_pages`):
 `table_pages` is `"whole_pdf"` when the Preeti finder couldn't read the PDF.
 `director_affiliations` are the cross-company links — match them to the registry
 (DOI/FNCCI/CNI/NEPSE) with the conglomerate linker to grow the ownership graph.
+
+## Knowledge graph (RDF / semantic triples)
+
+`rdf_graph.py` loads the same `output/*.json` into an **RDF graph** — every fact
+becomes a `subject → predicate → object` triple, e.g.
+`(person → directorOf → company)`. People and companies are deduped to one URI
+per normalised name, so the same entity across prospectuses is one node.
+
+A small **ontology** declares the vocabulary and the rules an OWL reasoner
+(`owlrl`) uses to derive new triples:
+
+| term | type | effect |
+|------|------|--------|
+| `directorOf` / `hasDirector` | `owl:inverseOf` | assert one direction, the other is inferred |
+| `shareholderOf` / `hasShareholder` | `owl:inverseOf` | — |
+| `promoterOf` ⊂ `shareholderOf` | `rdfs:subPropertyOf` | every promoter is also a shareholder |
+| `promoterOf` ⊂ `controls` | `rdfs:subPropertyOf` | promoting implies control |
+| `controls` | `owl:TransitiveProperty` | A→B, B→C ⇒ A→C (ownership chains) |
+
+Inference (inverse + subproperty) grows the in-memory graph ≈5.1k → ≈9.7k
+triples — all derived, not hand-written. `graph.ttl` is the **asserted** graph;
+re-run the script to materialise the inferred closure. Then **SPARQL** (rdflib's
+built-in engine, no external store) answers questions the flat JSON can't:
+
+```bash
+docker compose exec -T queue bash -c "cd /app/sebon_prospectus && python rdf_graph.py"
+```
+
+- people sitting on **≥2 boards** (cross-company connectors)
+- largest shareholdings (person → company, %)
+- a company's full board via the **inferred** `hasDirector`
+- `controls` edges derived from `promoterOf`
+
+Writes `output/graph.ttl` (Turtle). Needs `rdflib` + `owlrl`
+(`pip install rdflib owlrl`). The same data also renders as an interactive
+network in `output/graph.html` (`python graph.py`).
